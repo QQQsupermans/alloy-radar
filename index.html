@@ -155,7 +155,7 @@ footer .mono{font-family:var(--mono);letter-spacing:.03em}
           <div class="en">Alloy Literature Radar</div>
         </div>
       </div>
-      <div class="tagline">8 本顶刊 · 合金力学性能 · 近 4 年 · 自动去重 · 中文题录与结论速览。<b>点期刊格子筛选</b>，或改变分组方式。</div>
+      <div class="tagline">顶刊 · 合金力学性能 · 近 4 年 · 自动去重 · 中文题录与结论速览。<b>点期刊格子筛选</b>，或改变分组方式。</div>
     </div>
     <div class="cells" id="cells"></div>
   </div>
@@ -210,6 +210,8 @@ const JOURNALS = {
   "2375-2548":{code:"SA", name:"Science Advances",       bg:"#F3E7E1", ink:"#7A4A33"}
 };
 const ORDER = Object.keys(JOURNALS);
+// Acta/Scripta are excluded by default; only show their cell once data exists for them.
+const HIDE_IF_EMPTY = new Set(["1359-6454","1359-6462"]);
 
 // ---- SAMPLE placeholder data (clearly marked). Replaced by real db.json on deploy. ----
 const SAMPLE = [
@@ -265,6 +267,7 @@ function renderCells(){
   const el=document.getElementById('cells'); el.innerHTML='';
   ORDER.forEach(issn=>{
     const j=JOURNALS[issn], n=counts[issn]||0, on=ACTIVE_J.has(issn);
+    if(HIDE_IF_EMPTY.has(issn) && !n) return;
     const b=document.createElement('button');
     b.className='cell'+(ACTIVE_J.size&&!on?' dim':'');
     b.style.color=j.ink; b.setAttribute('aria-pressed',on);
