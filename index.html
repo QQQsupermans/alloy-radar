@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>合金文献雷达 · Alloy Lit Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F4F5F2; --card:#FFFFFF; --ink:#181B18; --muted:#697066; --faint:#9AA096;
+  --line:#E3E6DF; --line2:#EDEFEA;
+  --accent:#1F6E7B; --accent-soft:#E6F0F1; --accent-ink:#12525C;
+  --new:#8C6E1A; --new-soft:#F3ECD6;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  --sans:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;
+  --cjk:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Noto Sans SC","IBM Plex Sans",sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.5;
+  font-feature-settings:"tnum" 1;}
+a{color:var(--accent-ink);text-underline-offset:2px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+/* ---- header ---- */
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.masthead{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;padding:26px 0 20px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:13px}
+.glyph{width:38px;height:38px;flex:none}
+.brand h1{margin:0;font-size:21px;font-weight:700;letter-spacing:-.01em;line-height:1.1}
+.brand .en{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);margin-top:3px}
+.tagline{font-size:13px;color:var(--muted);max-width:340px;text-align:right}
+.tagline b{color:var(--ink);font-weight:600}
+
+/* ---- periodic journal cells ---- */
+.cells{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:6px 0 22px}
+.cell{position:relative;border:1px solid var(--line);border-radius:7px;background:var(--card);
+  padding:10px 8px 8px;cursor:pointer;text-align:left;transition:transform .12s ease,box-shadow .12s ease,border-color .12s;
+  font-family:inherit}
+.cell:hover{transform:translateY(-2px);box-shadow:0 6px 16px -10px rgba(24,27,24,.4)}
+.cell:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.cell .code{font-family:var(--mono);font-size:20px;font-weight:600;line-height:1;letter-spacing:.02em}
+.cell .nm{font-size:10.5px;color:var(--muted);margin-top:7px;line-height:1.25;min-height:26px}
+.cell .ct{position:absolute;top:8px;right:9px;font-family:var(--mono);font-size:11px;color:var(--faint)}
+.cell[aria-pressed="true"]{border-color:currentColor;box-shadow:inset 0 0 0 1px currentColor}
+.cell[aria-pressed="true"] .ct{color:currentColor;font-weight:600}
+.cell.dim{opacity:.4}
+
+/* ---- controls ---- */
+.controls{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--line);
+  padding:12px 0;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.search{flex:1 1 260px;position:relative}
+.search input{width:100%;font-family:var(--sans);font-size:14px;padding:9px 12px 9px 34px;
+  border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.search input:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:transparent}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--faint)}
+.seg{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--card)}
+.seg label{font-family:var(--mono);font-size:11px;letter-spacing:.03em;padding:8px 11px;cursor:pointer;color:var(--muted);
+  border-right:1px solid var(--line2);white-space:nowrap}
+.seg label:last-child{border-right:none}
+.seg input{position:absolute;opacity:0;pointer-events:none}
+.seg input:checked+label,.seg label:hover{background:var(--accent-soft);color:var(--accent-ink)}
+.seg input:focus-visible+label{outline:2px solid var(--accent);outline-offset:-2px}
+.ctl-lbl{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-right:-4px}
+
+/* ---- banner ---- */
+.banner{margin:16px 0 4px;padding:11px 14px;border:1px dashed var(--new);background:var(--new-soft);
+  border-radius:8px;font-size:13px;color:#5f4d12;display:flex;gap:10px;align-items:flex-start}
+.banner b{color:#4a3c0e}
+.banner .x{margin-left:auto;cursor:pointer;color:#8a7327;border:none;background:none;font-size:16px;line-height:1;padding:0 2px}
+
+/* ---- groups & cards ---- */
+main{padding:8px 0 80px}
+.grp{margin-top:26px}
+.grp-h{display:flex;align-items:baseline;gap:10px;padding:0 0 10px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.grp-h .t{font-size:15px;font-weight:600;letter-spacing:-.01em}
+.grp-h .n{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.grid{display:flex;flex-direction:column;gap:12px}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:16px 18px;
+  display:grid;grid-template-columns:64px 1fr;gap:16px;transition:box-shadow .14s ease}
+.card:hover{box-shadow:0 8px 26px -18px rgba(24,27,24,.5)}
+.rail{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.jtile{width:52px;height:52px;border-radius:8px;display:flex;flex-direction:column;justify-content:center;
+  align-items:center;font-family:var(--mono);font-weight:600}
+.jtile .c{font-size:17px;line-height:1}
+.jtile .y{font-size:9px;margin-top:3px;opacity:.7}
+.rail .date{font-family:var(--mono);font-size:10.5px;color:var(--faint);letter-spacing:.02em}
+.rail .newtag{font-family:var(--mono);font-size:9px;letter-spacing:.08em;background:var(--new-soft);color:var(--new);
+  padding:2px 5px;border-radius:4px;text-transform:uppercase}
+
+.body .zh-t{font-family:var(--cjk);font-size:16px;font-weight:600;line-height:1.4;letter-spacing:-.005em}
+.body .en-t{font-size:12.5px;color:var(--muted);margin-top:3px;line-height:1.4}
+.summary{margin:11px 0 0;padding:9px 12px;background:var(--accent-soft);border-radius:8px;
+  font-family:var(--cjk);font-size:13.5px;color:var(--accent-ink);line-height:1.5}
+.summary .lb{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);
+  display:block;margin-bottom:3px;opacity:.85}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
+.tag{font-family:var(--mono);font-size:10.5px;color:var(--muted);background:var(--line2);border-radius:5px;padding:3px 7px}
+.tag.kw{background:#fff;border:1px solid var(--line)}
+.tag.topic{background:var(--accent-soft);color:var(--accent-ink)}
+.meta{display:flex;gap:14px;align-items:center;margin-top:12px;flex-wrap:wrap}
+.abs-toggle{font-family:var(--mono);font-size:11px;color:var(--accent-ink);background:none;border:none;cursor:pointer;padding:0;
+  display:inline-flex;align-items:center;gap:5px}
+.abs-toggle:hover{text-decoration:underline}
+.abs-toggle .chev{transition:transform .15s}
+.abs-toggle[aria-expanded="true"] .chev{transform:rotate(90deg)}
+.doi{font-family:var(--mono);font-size:11px;color:var(--muted);text-decoration:none}
+.doi:hover{text-decoration:underline}
+.doi.read{color:var(--accent-ink);font-weight:500}
+.abs{display:none;margin-top:11px;padding-top:12px;border-top:1px solid var(--line2)}
+.abs.open{display:block}
+.abs h4{margin:0 0 4px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:500}
+.abs .zh{font-family:var(--cjk);font-size:13.5px;line-height:1.62;margin:0 0 12px}
+.abs .en{font-size:12.5px;line-height:1.6;color:var(--muted);margin:0}
+
+.empty{text-align:center;padding:70px 20px;color:var(--muted)}
+.empty .big{font-size:16px;color:var(--ink);font-weight:600;margin-bottom:8px}
+.empty code{font-family:var(--mono);background:var(--line2);padding:2px 6px;border-radius:5px;font-size:12px}
+
+footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--faint);font-size:12px;
+  display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+footer .mono{font-family:var(--mono);letter-spacing:.03em}
+
+@media(max-width:720px){
+  .cells{grid-template-columns:repeat(4,1fr)}
+  .tagline{text-align:left;max-width:none}
+  .card{grid-template-columns:1fr;gap:12px}
+  .rail{flex-direction:row;align-items:center}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="masthead">
+      <div class="brand">
+        <svg class="glyph" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+          <circle cx="20" cy="20" r="18.5" stroke="#181B18" stroke-width="1"/>
+          <circle cx="20" cy="7.5" r="2.6" fill="#1F6E7B"/>
+          <circle cx="9.2" cy="14" r="2.6" fill="#181B18"/>
+          <circle cx="9.2" cy="26" r="2.6" fill="#8C6E1A"/>
+          <circle cx="20" cy="32.5" r="2.6" fill="#181B18"/>
+          <circle cx="30.8" cy="26" r="2.6" fill="#1F6E7B"/>
+          <circle cx="30.8" cy="14" r="2.6" fill="#181B18"/>
+          <circle cx="20" cy="20" r="3.4" fill="#181B18"/>
+          <path d="M20 7.5 9.2 14 9.2 26 20 32.5 30.8 26 30.8 14Z" stroke="#9AA096" stroke-width=".7" fill="none"/>
+        </svg>
+        <div>
+          <h1>合金文献雷达</h1>
+          <div class="en">Alloy Literature Radar</div>
+        </div>
+      </div>
+      <div class="tagline">7 本顶刊 · 近 4 年 · 自动去重 · 中文题录与结论速览。<b>点期刊格子筛选</b>，或改变分组方式。</div>
+    </div>
+    <div class="cells" id="cells"></div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap" style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;width:100%">
+    <div class="search">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="搜索标题 / 摘要 / 关键词 / 总结…" aria-label="搜索">
+    </div>
+    <span class="ctl-lbl">分组</span>
+    <div class="seg" id="groupSeg" role="group" aria-label="分组方式">
+      <input type="radio" name="grp" id="g-topic" value="topic" checked><label for="g-topic">子主题</label>
+      <input type="radio" name="grp" id="g-journal" value="journal"><label for="g-journal">期刊</label>
+      <input type="radio" name="grp" id="g-kw" value="keyword"><label for="g-kw">关键词</label>
+      <input type="radio" name="grp" id="g-year" value="year"><label for="g-year">年份</label>
+    </div>
+    <span class="ctl-lbl">排序</span>
+    <div class="seg" id="sortSeg" role="group" aria-label="排序">
+      <input type="radio" name="srt" id="s-new" value="new" checked><label for="s-new">最新</label>
+      <input type="radio" name="srt" id="s-old" value="old"><label for="s-old">最早</label>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div id="banner"></div>
+</div>
+
+<main>
+  <div class="wrap"><div id="out"></div></div>
+</main>
+
+<footer>
+  <div class="wrap" style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;width:100%">
+    <span>数据源 <span class="mono">OpenAlex</span> · 翻译与总结逐条人工/模型生成</span>
+    <span class="mono" id="stamp"></span>
+  </div>
+</footer>
+
+<script>
+// ---- journal registry (code, name, tint) ----
+const JOURNALS = {
+  "1359-6454":{code:"AM", name:"Acta Materialia",        bg:"#E9EDF5", ink:"#3A4A6B"},
+  "1359-6462":{code:"SM", name:"Scripta Materialia",     bg:"#E3F0ED", ink:"#2E5D57"},
+  "2198-3844":{code:"AS", name:"Advanced Science",       bg:"#EEE9F5", ink:"#59468A"},
+  "2041-1723":{code:"NC", name:"Nature Communications",  bg:"#E7F1E8", ink:"#3B6B45"},
+  "0028-0836":{code:"Na", name:"Nature",                 bg:"#E7E9F2", ink:"#2E3566"},
+  "0036-8075":{code:"Sc", name:"Science",                bg:"#F3ECD9", ink:"#6B5720"},
+  "2375-2548":{code:"SA", name:"Science Advances",       bg:"#F3E7E1", ink:"#7A4A33"}
+};
+const ORDER = Object.keys(JOURNALS);
+
+// ---- SAMPLE placeholder data (clearly marked). Replaced by real db.json on deploy. ----
+const SAMPLE = [
+  {id:"sample1", issn:"1359-6454", journal:"Acta Materialia",
+   title_en:"[SAMPLE ENTRY] Placeholder record used to preview the page layout",
+   title_zh:"【示例数据】用于预览页面布局的占位条目 —— 非真实论文",
+   date:"2026-07-30", year:2026, url:"https://example.com/sample-record",
+   summary_zh:"这是一条示例总结:启用数据源后，这里会显示真实论文的「结论 + 创新点」一句话速览。",
+   subtopic:"强度 / 强化机制", keywords:["high-entropy alloys","固溶强化"], new:true,
+   abstract_zh:"这是示例中文摘要。真实运行时，此处为 OpenAlex 抓取的英文摘要经翻译后的中文版本。",
+   abstract_en:"This is a sample abstract placeholder. On a real run this shows the English abstract fetched from OpenAlex.",
+   doi:"10.0000/sample.1"},
+  {id:"sample2", issn:"2041-1723", journal:"Nature Communications",
+   title_en:"[SAMPLE ENTRY] Second placeholder to show grouping and journal tiles",
+   title_zh:"【示例数据】展示分组与期刊格子的第二条占位 —— 非真实论文",
+   date:"2026-07-22", year:2026, url:"https://example.com/sample-record",
+   summary_zh:"示例:一句话结论 + 创新点会以这种高亮样式呈现，方便你快速分诊要不要精读。",
+   subtopic:"塑性 / 强韧平衡", keywords:["high-entropy alloys","TRIP效应"], new:true,
+   abstract_zh:"示例中文摘要占位文本。",
+   abstract_en:"Sample abstract placeholder text.",
+   doi:"10.0000/sample.2"},
+  {id:"sample3", issn:"0036-8075", journal:"Science",
+   title_en:"[SAMPLE ENTRY] Third placeholder from a different journal",
+   title_zh:"【示例数据】来自另一本期刊的第三条占位 —— 非真实论文",
+   date:"2025-11-05", year:2025, url:"https://example.com/sample-record",
+   summary_zh:"示例总结:较早年份的条目会归入对应年份/主题分组。",
+   subtopic:"变形机制 / 位错·孪生", keywords:["high-entropy alloys","位错"], new:false,
+   abstract_zh:"示例中文摘要占位文本。",
+   abstract_en:"Sample abstract placeholder text.",
+   doi:"10.0000/sample.3"}
+];
+
+let DATA = [], IS_SAMPLE=false, ACTIVE_J=new Set();
+
+async function load(){
+  try{
+    const r = await fetch('./db.json',{cache:'no-store'});
+    if(r.ok){
+      const j = await r.json();
+      const arr = Array.isArray(j) ? j : (j.papers||[]);
+      if(arr.length){ DATA=arr; IS_SAMPLE=false; return; }
+    }
+  }catch(e){/* fall through to sample */}
+  DATA=SAMPLE; IS_SAMPLE=true;
+}
+
+function esc(s){return (s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function jinfo(p){ return JOURNALS[p.issn] || {code:"·",name:p.journal||"—",bg:"#EEE",ink:"#555"}; }
+function latestBatch(){ return DATA.reduce((m,p)=>p.added_on&&p.added_on>m?p.added_on:m,""); }
+
+function renderCells(){
+  const counts={}; DATA.forEach(p=>counts[p.issn]=(counts[p.issn]||0)+1);
+  const el=document.getElementById('cells'); el.innerHTML='';
+  ORDER.forEach(issn=>{
+    const j=JOURNALS[issn], n=counts[issn]||0, on=ACTIVE_J.has(issn);
+    const b=document.createElement('button');
+    b.className='cell'+(ACTIVE_J.size&&!on?' dim':'');
+    b.style.color=j.ink; b.setAttribute('aria-pressed',on);
+    b.innerHTML=`<span class="ct">${n}</span><span class="code">${j.code}</span><span class="nm">${esc(j.name)}</span>`;
+    b.onclick=()=>{ on?ACTIVE_J.delete(issn):ACTIVE_J.add(issn); render(); };
+    el.appendChild(b);
+  });
+}
+
+function currentFilter(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  let rows=DATA.filter(p=>!ACTIVE_J.size||ACTIVE_J.has(p.issn));
+  if(q){ rows=rows.filter(p=>[p.title_en,p.title_zh,p.abstract_zh,p.abstract_en,p.summary_zh,(p.keywords||[]).join(' '),p.subtopic].join(' ').toLowerCase().includes(q)); }
+  const srt=document.querySelector('input[name=srt]:checked').value;
+  rows.sort((a,b)=> srt==='new' ? (b.date||'').localeCompare(a.date||'') : (a.date||'').localeCompare(b.date||''));
+  return rows;
+}
+
+function groupRows(rows){
+  const by=document.querySelector('input[name=grp]:checked').value;
+  const g={};
+  const push=(k,p)=>{(g[k]=g[k]||[]).push(p)};
+  rows.forEach(p=>{
+    if(by==='topic') push(p.subtopic||'未分类',p);
+    else if(by==='journal') push(jinfo(p).name,p);
+    else if(by==='year') push(String(p.year||'—'),p);
+    else (p.keywords&&p.keywords.length?p.keywords:['未标注']).forEach(k=>push(k,p));
+  });
+  let keys=Object.keys(g);
+  if(by==='year') keys.sort((a,b)=>b.localeCompare(a));
+  else keys.sort((a,b)=>g[b].length-g[a].length);
+  return {g,keys,by};
+}
+
+function card(p){
+  const j=jinfo(p);
+  const tags=[`<span class="tag topic">${esc(p.subtopic||'未分类')}</span>`]
+    .concat((p.keywords||[]).map(k=>`<span class="tag kw">${esc(k)}</span>`)).join('');
+  const href = p.url || (p.doi?('https://doi.org/'+p.doi):'');
+  const link = href ? `<a class="doi read" href="${esc(href)}" target="_blank" rel="noopener">阅读原文 ↗</a>` : '';
+  const doi = p.doi ? `<a class="doi" href="https://doi.org/${esc(p.doi)}" target="_blank" rel="noopener">DOI</a>` : '';
+  return `<article class="card">
+    <div class="rail">
+      <div class="jtile" style="background:${j.bg};color:${j.ink}"><span class="c">${j.code}</span><span class="y">${esc(p.year||'')}</span></div>
+      <span class="date">${esc(p.date||'')}</span>
+      ${p.new?'<span class="newtag">new</span>':''}
+    </div>
+    <div class="body">
+      <div class="zh-t">${esc(p.title_zh||p.title_en||'')}</div>
+      <div class="en-t">${esc(p.title_en||'')}</div>
+      ${p.summary_zh?`<div class="summary"><span class="lb">结论 · 创新点</span>${esc(p.summary_zh)}</div>`:''}
+      <div class="tags">${tags}</div>
+      <div class="meta">
+        <button class="abs-toggle" aria-expanded="false"><span class="chev">▸</span>展开摘要</button>
+        ${link}
+        ${doi}
+      </div>
+      <div class="abs">
+        ${p.abstract_zh?`<h4>中文摘要</h4><p class="zh">${esc(p.abstract_zh)}</p>`:''}
+        ${p.abstract_en?`<h4>Abstract</h4><p class="en">${esc(p.abstract_en)}</p>`:''}
+      </div>
+    </div>
+  </article>`;
+}
+
+function render(){
+  renderCells();
+  const rows=currentFilter();
+  const out=document.getElementById('out');
+  if(!rows.length){
+    out.innerHTML=`<div class="empty"><div class="big">还没有匹配的条目</div>
+      启用数据源后运行一次即可填充。把生成的 <code>db.json</code> 放到本页同目录，刷新即读取。</div>`;
+    return;
+  }
+  const {g,keys,by}=groupRows(rows);
+  out.innerHTML=keys.map(k=>`<section class="grp">
+      <div class="grp-h"><span class="t">${esc(k)}</span><span class="n">${g[k].length} 篇</span></div>
+      <div class="grid">${g[k].map(card).join('')}</div>
+    </section>`).join('');
+  out.querySelectorAll('.abs-toggle').forEach(btn=>{
+    btn.onclick=()=>{const a=btn.closest('.body').querySelector('.abs');const o=a.classList.toggle('open');
+      btn.setAttribute('aria-expanded',o);btn.lastChild.textContent=o?'收起摘要':'展开摘要';};
+  });
+}
+
+function banner(){
+  const b=document.getElementById('banner');
+  if(!IS_SAMPLE){b.innerHTML='';return;}
+  b.innerHTML=`<div class="banner"><span>▲</span><span><b>这是示例占位数据</b>，仅用于预览页面。启用 <code style="font-family:var(--mono)">api.openalex.org</code> 后运行一次，真实检索结果会替换它们。</span><button class="x" aria-label="关闭">×</button></div>`;
+  b.querySelector('.x').onclick=()=>b.innerHTML='';
+}
+
+(async function(){
+  await load();
+  document.getElementById('stamp').textContent = IS_SAMPLE ? 'preview · sample data' : ('updated '+(latestBatch()||'—'));
+  banner(); render();
+  document.getElementById('q').addEventListener('input',render);
+  document.querySelectorAll('input[name=grp],input[name=srt]').forEach(r=>r.addEventListener('change',render));
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "https://openalex.org/W7201896442",
+    "doi": "10.1016/j.actamat.2026.122635",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122635",
+    "title_en": "A dual-scale chemical fluctuation nanostructure enables CoCrFeNiPd high entropy alloy with exceptional mechanical properties at ultralow temperatures",
+    "date": "2026-08-07",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "双尺度化学涨落纳米结构赋予CoCrFeNiPd高熵合金超低温超强综合力学性能",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "通过构建双尺度化学涨落纳米结构，显著提升CoCrFeNiPd高熵合金在超低温下的综合力学性能。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "高熵合金",
+      "化学涨落",
+      "超低温力学",
+      "纳米结构"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7196975768",
+    "doi": "10.1002/advs.77057",
+    "url": "https://doi.org/10.1002/advs.77057",
+    "title_en": "Advances in Computational and Experimental Approaches to Chemical Short‐Range Order Formation in Multi‐Principal Element Alloys",
+    "date": "2026-08-06",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "Chemical short-range order (CSRO) in Multi-Principal Element Alloys (MPEAs) arises from non-random atomic arrangements within local coordination shells and plays a critical role in governing mechanical properties, diffusion kinetics, and phase stability. Capturing CSRO requires synergistic computational and experimental strategies. Advanced first-principles methods evaluate mixing enthalpies and local distortions, while atomistic simulations enable large-scale configurational sampling. Analytical frameworks, such as the Cluster Variation Method, predict temperature-dependent ordering trends. Concurrent experimental approaches, including pair distribution function analysis, in situ synchrotron diffraction, atom probe tomography, and resistivity measurements, provide indirect yet complementary insights into local ordering. However, the field lacks a unified framework linking the thermodynamic origin, kinetic evolution, and experimental observability of CSRO, limiting the ability to systematically interpret and compare different approaches. This perspective examines computational and experimental methods in the context of CSRO formation, evolution, and measurement, emphasizes the importance of modeling-experiment cross-validation pathways for integrating these complementary approaches, and provides a critical assessment of their capabilities, limitations, and roles in advancing the understanding and design of MPEAs.",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "多主元合金中化学短程有序形成的计算与实验研究进展",
+    "abstract_zh": "多主元合金（MPEAs）中的化学短程有序（CSRO）源于局部配位壳层内的非随机原子排列，对力学性能、扩散动力学和相稳定性起关键作用。捕捉CSRO需要计算与实验的协同策略：先进第一性原理方法评估混合焓和局部化学有序，蒙特卡罗模拟预测平衡CSRO构型，原子探针层析和同步辐射散射等实验技术提供原子尺度验证。",
+    "summary_zh": "系统综述了捕捉多主元合金中短程有序所需的计算与实验协同策略，明确了CSRO对力学性能和扩散动力学的调控机制。",
+    "subtopic": "计算/机器学习设计",
+    "keywords": [
+      "多主元合金",
+      "短程有序",
+      "第一性原理",
+      "扩散动力学"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7172447839",
+    "doi": "10.1016/j.actamat.2026.122622",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122622",
+    "title_en": "Optimizing intrinsic strength–plasticity synergy for refractory high entropy alloy by chemical bonding engineering",
+    "date": "2026-08-04",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "通过化学键工程优化难熔高熵合金的本征强度–塑性协同",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "采用化学键工程调控难熔高熵合金的本征电子结构，实现强度与塑性的本征协同优化。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "难熔高熵合金",
+      "化学键工程",
+      "强塑性协同"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7202070506",
+    "doi": "10.1016/j.actamat.2026.122641",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122641",
+    "title_en": "Refractory High-Entropy Alloy Films with Synergistic Effect of Suppressing Interfacial Interdiffusion and Modulating Surface Electronic Structure",
+    "date": "2026-08-01",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "具有抑制界面互扩散与调控表面电子结构协同效应的难熔高熵合金薄膜",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "难熔高熵合金薄膜通过多元协同效应同时抑制界面互扩散并调控表面电子结构，提升薄膜综合服役性能。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "难熔高熵合金",
+      "薄膜",
+      "界面互扩散",
+      "电子结构"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7172511094",
+    "doi": "10.1016/j.actamat.2026.122623",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122623",
+    "title_en": "Atomic size mismatch effects on irradiation-induced defect evolution in Nb-Zr-Ti-V multi-principal element alloys",
+    "date": "2026-08-01",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "原子尺寸错配对Nb-Zr-Ti-V多主元合金辐照诱导缺陷演化的影响",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示原子尺寸错配对Nb-Zr-Ti-V多主元合金辐照诱导缺陷形成与演化的定量影响规律。",
+    "subtopic": "辐照/腐蚀–力学",
+    "keywords": [
+      "多主元合金",
+      "辐照",
+      "缺陷演化",
+      "原子尺寸错配"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7202204680",
+    "doi": "10.1016/j.actamat.2026.122646",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122646",
+    "title_en": "Extending stable potential window by multi-principal element passivation in complex alloys",
+    "date": "2026-08-01",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "通过多主元钝化在复杂合金中拓宽稳定电位窗口",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "利用多主元合金的协同钝化特性拓展电化学稳定窗口，为腐蚀防护提供新思路。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "多主元合金",
+      "钝化",
+      "腐蚀",
+      "电化学"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7171864022",
+    "doi": "10.1016/j.actamat.2026.122599",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122599",
+    "title_en": "Achieving cryogenic wear resistance in multi-principal element alloy via coherent precipitation and gradient nanostructuring",
+    "date": "2026-07-30",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "通过共格析出与梯度纳米结构实现多主元合金的低温耐磨性",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "结合共格析出相和梯度纳米结构双重设计，显著提升多主元合金在低温下的耐磨性能。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "多主元合金",
+      "共格析出",
+      "梯度纳米结构",
+      "低温耐磨"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7171640723",
+    "doi": "10.1126/sciadv.aeg8299",
+    "url": "https://doi.org/10.1126/sciadv.aeg8299",
+    "title_en": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+    "date": "2026-07-29",
+    "year": 2026,
+    "issn": "2375-2548",
+    "journal": "Science Advances",
+    "abstract_en": "High-energy nuclear detonations generate extreme, transient physicochemical environments capable of producing previously unknown materials. We report the discovery of a previously unknown multicomponent alloy preserved within a hiroshimaite spherule recovered from beach sands of Hiroshima Bay, formed during the 6 August 1945 atomic airburst. The micrometer-sized metallic grain occurs within a quenched glassy matrix. Electron microprobe analyses reveal a homogeneous, Si-rich multielement composition (Fe-Cr-Ni-Mn-Mo-Si-Al). Single-crystal x-ray diffraction shows that the phase crystallizes in space group P 2 1 3 with the ordered AlAu 4 -type structure, an ordered derivative of β-Mn. The alloy likely formed by condensation from a mixed metallic vapor followed by ultrafast quenching in the expanding fireball. This finding demonstrates that nuclear plasma events may stabilize complex metallic phases and highlights atomic-blast debris as a natural laboratory for nonequilibrium alloy formation and materials discovery.",
+    "matched": [
+      "compositionally complex alloys"
+    ],
+    "title_zh": "广岛原子弹爆炸锻造的多组元合金的发现",
+    "abstract_zh": "高能核爆炸产生极端瞬态物理化学环境，能够生成前所未知的材料。我们报告了在广岛湾海滩沙子中回收的hiroshimaite球粒内发现的一种未知多组元合金，该合金形成于1945年8月6日原子弹爆炸气爆期间。这一微米级金属颗粒存在于淬火玻璃基体中。",
+    "summary_zh": "在广岛湾球粒中发现了核爆极端条件下形成的新型多组元合金，揭示了核爆环境下的独特材料生成机制。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "多组元合金",
+      "核爆",
+      "极端环境",
+      "相变"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7171034763",
+    "doi": "10.1016/j.actamat.2026.122594",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122594",
+    "title_en": "A closed-loop multiscale computational framework for predicting barocaloric effects: Entropy decomposition and transformation mechanisms",
+    "date": "2026-07-25",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "预测压热效应的闭环多尺度计算框架：熵分解与相变机制",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "建立闭环多尺度计算框架，通过熵分解方法预测高熵合金的压热效应和相变机制。",
+    "subtopic": "计算/机器学习设计",
+    "keywords": [
+      "高熵合金",
+      "压热效应",
+      "多尺度计算",
+      "相变"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7170967883",
+    "doi": "10.1016/j.actamat.2026.122584",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122584",
+    "title_en": "Kinetic phase selection enables wide-temperature strength-ductility synergy in additively manufactured Al0.3CoCrFeNiMn high-entropy alloy",
+    "date": "2026-07-24",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "动力学相选择赋予增材制造Al₀.₃CoCrFeNiMn高熵合金宽温域强塑性协同",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "通过增材制造过程中的动力学相选择调控，实现Al₀.₃CoCrFeNiMn高熵合金从低温到高温的宽温域强塑性协同。",
+    "subtopic": "增材制造/加工–力学",
+    "keywords": [
+      "高熵合金",
+      "增材制造",
+      "动力学相选择",
+      "强塑性协同"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7170574336",
+    "doi": "10.1016/j.actamat.2026.122591",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122591",
+    "title_en": "Frustrating dislocation resistance inhomogeneity at multiscale levels to enable strength-ductility synergy in multi-principal element alloys",
+    "date": "2026-07-24",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "在多尺度层次抑制位错阻力不均匀性以实现多主元合金的强塑性协同",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "通过多尺度层次设计消除位错阻力不均匀性，突破多主元合金强度–塑性权衡。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "多主元合金",
+      "位错",
+      "强塑性协同",
+      "多尺度"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7170694801",
+    "doi": "10.1002/advs.76697",
+    "url": "https://doi.org/10.1002/advs.76697",
+    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
+    "date": "2026-07-24",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "Conventional intermetallic-strengthened alloys invariably suffer from a strength-ductility trade-off, as brittle η, σ, and µ phases precipitate at interfaces and trigger premature failure. Here, we overturn this paradigm in a multi-principal element alloy (MPEA) by deliberately engineering its B2 intermetallic phase to act not as a crack-initiator, but as a ductile, load-bearing constituent. Through intrinsic phase toughening enabled by multicomponent chemical complexity, pre-existing dislocations, and local compositional fluctuations, we demonstrate that the B2 phase can sustain continuous dislocation glide and multiplication. Simultaneously, we impose a heterogeneous laminated architecture of face-centered cubic (FCC) and B2 domains, which promotes strain delocalization and redistributes stress to suppress interface cracking. The resulting synergy culminates in an exceptional combination of mechanical properties at room temperature: a yield strength of 1.24 GPa, an ultimate tensile strength of 1.57 GPa, and 20% uniform elongation, along with a high strain hardening rate exceeding 3 GPa across a wide strain range. These findings establish a new design strategy through integrating ductile intermetallic phases with mesoscale heterogeneity to overcome the long-standing strength-ductility trade-off in structural materials.",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
+    "abstract_zh": "传统金属间化合物强化合金不可避免地受到强塑性权衡困扰，因为脆性η、σ和µ相在界面处析出并引发过早失效。本研究通过刻意将多主元合金中的B2金属间化合物相工程化为延性承载组元（而非裂纹源），颠覆了这一范式。",
+    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服了传统金属间化合物强化合金的强塑性权衡困境。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "多主元合金",
+      "B2金属间化合物",
+      "异质叠层",
+      "强塑性协同"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7170189352",
+    "doi": "10.1016/j.actamat.2026.122583",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122583",
+    "title_en": "From heat capacity to Gibbs energy: An experimental thermodynamic route for single-phase high-entropy alloys",
+    "date": "2026-07-23",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "compositionally complex alloys",
+      "high-entropy alloys"
+    ],
+    "title_zh": "从热容到吉布斯能：单相高熵合金的实验热力学路径",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "建立了从热容出发实验测定单相高熵合金吉布斯自由能的热力学路径，为相稳定性计算提供实验基准。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "高熵合金",
+      "热力学",
+      "吉布斯能",
+      "相稳定性"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7169851070",
+    "doi": "10.1016/j.actamat.2026.122578",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122578",
+    "title_en": "Enhancing the strength and ductility of an additive-manufactured body-centered-cubic multi-principal-element alloy by chemical medium-range order",
+    "date": "2026-07-21",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "通过化学中程有序提升增材制造体心立方多主元合金的强度与塑性",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "在增材制造BCC多主元合金中引入化学中程有序，协同提升强度与塑性。",
+    "subtopic": "增材制造/加工–力学",
+    "keywords": [
+      "多主元合金",
+      "增材制造",
+      "化学中程有序",
+      "BCC"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7169207133",
+    "doi": "10.1016/j.scriptamat.2026.117491",
+    "url": "https://doi.org/10.1016/j.scriptamat.2026.117491",
+    "title_en": "A 3D-printed in-situ precipitate-strengthened eutectic high-entropy alloy for elevated temperatures via high-throughput CALPHAD screening",
+    "date": "2026-07-16",
+    "year": 2026,
+    "issn": "1359-6462",
+    "journal": "Scripta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "基于高通量CALPHAD筛选的3D打印原位析出强化共晶高熵合金用于高温应用",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "结合高通量CALPHAD筛选与3D打印，设计并制备含原位析出相的共晶高熵合金，实现优异高温力学性能。",
+    "subtopic": "增材制造/加工–力学",
+    "keywords": [
+      "共晶高熵合金",
+      "增材制造",
+      "CALPHAD",
+      "高温力学"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7169438142",
+    "doi": "10.1016/j.actamat.2026.122543",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122543",
+    "title_en": "Ni diffusion in the equiatomic CoFeMnNiV high-entropy alloy: Unexpected impact of second-phase precipitation on bulk diffusion rates",
+    "date": "2026-07-16",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "Ni diffusion in the equiatomic CoFeMnNiV high-entropy alloy is measured over an extended temperature range that covers both single-phase (face-centered cubic, FCC, solid solution) as well as two-phase (FCC solid solution + σ -phase) states. In addition, Ni diffusion experiments were performed on a single-phase σ -alloy. The σ -phase precipitation is found to affect significantly the self-diffusion kinetics in the FCC solid solution. The measured tracer diffusion coefficients follow an Arrhenius-type relationship when estimated in the single-phase solid solution, and a characteristic enhancement of the Ni diffusivity is observed at lower temperatures when the σ -phase precipitates during the diffusion annealing treatments. The enhancement is significantly suppressed when the alloy is pre-aged to approach a nearly equilibrium σ -phase volume fraction at a given temperature. Since Ni volume diffusion in the σ -phase was found to be similar to that in the FCC equiatomic counterpart, the observed diffusion enhancement is attributed to an excess vacancy concentration, generated during the growth of σ -precipitates. This excess gets eliminated when approaching thermodynamic equilibrium, i.e., when precipitation ends. A simple model of the diffusion enhancement during precipitation is proposed.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "CoFeMnNiV等原子比高熵合金中Ni的扩散：第二相析出对体扩散速率的意外影响",
+    "abstract_zh": "在覆盖单相（FCC固溶体）和两相（FCC固溶体+σ相）状态的宽温度范围内测量了等原子比CoFeMnNiV高熵合金中Ni的扩散。此外还在单相σ合金中进行了Ni扩散实验。发现σ相析出显著影响自扩散速率。",
+    "summary_zh": "发现σ相析出对CoFeMnNiV高熵合金中Ni体扩散速率有显著且出乎意料的加速效应，揭示了第二相对多组元合金扩散行为的复杂影响。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "高熵合金",
+      "扩散",
+      "σ相",
+      "析出"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7168143166",
+    "doi": "10.1038/s41467-026-75563-y",
+    "url": "https://doi.org/10.1038/s41467-026-75563-y",
+    "title_en": "Hierarchical nano-orderings enable extraordinary cryogenic strength-ductility synergy in a medium-entropy alloy",
+    "date": "2026-07-13",
+    "year": 2026,
+    "issn": "2041-1723",
+    "journal": "Nature Communications",
+    "abstract_en": "Cryogenic alloys simultaneously achieving ultrahigh yield strength (YS ≥ 2.0 GPa) alongside substantial uniform elongation (UE) are critically needed, yet fundamentally constrained by the strength-ductility trade-off. Guided by Eshelby’s inclusion theory, we reconcile this challenge by designing a novel hierarchical nano-ordering (HNO) architecture within an ultrafine-grained NiCoCr-based multi-principal element alloy, fabricated via combining additive-manufacturing and tailored post-processing. The HNOs—featuring a controlled size distribution and interfacial properties—comprise dispersed incoherent σ-dispersoids (~70 nm), a high density of bimodal coherent L12 precipitates (~5 and 26 nm) and widespread, highly-distorted local-chemical-orderings (~0.7 nm). This configuration introduces a stepwise increase in elastic strain energy, which in turn triggers the sequential activation of potent dislocation sources. The resulting mobile dislocations engage in extensive and varied interactions with the nano-orderings during deformation, thereby activating cooperative strain-hardening mechanisms. These nano-architectures thus function simultaneously as dislocation generators, strain-hardening enablers, and strengthening agents. Consequently, this HNO-mediated self-hardening and self-ductilizing mechanisms yield an exceptional cryogenic (77 K) property set: YS of ~1.96 GPa, ultimate tensile strength of ~2.35 GPa, and UE of ~22%, surpassing both the cast counterpart and all previously reported advanced alloys. This strategy establishes a transformative paradigm for designing ultrastrong-yet-ductile materials through integrated manufacturing approaches. This work reconciles the challenge of strength-ductility trade-offs in cryogenic alloys by designing a hierarchical nano-ordering architecture within a NiCoCr alloy, achieved via tailored additive-manufacturing and post-processing.",
+    "matched": [
+      "high-entropy alloys",
+      "multi-principal element alloys"
+    ],
+    "title_zh": "层级纳米有序结构赋予中熵合金超强低温强塑性协同",
+    "abstract_zh": "低温合金在同时实现超高屈服强度（YS≥2.0 GPa）和大均匀延伸率（UE）方面受到强塑性权衡的根本约束，而这种组合是迫切需要的。基于Eshelby夹杂理论，本研究通过在超细晶NiCoCr基多主元合金中设计新型层级纳米有序（HNO）结构来解决这一挑战。",
+    "summary_zh": "基于Eshelby夹杂理论在NiCoCr基中熵合金中设计层级纳米有序结构，实现屈服强度≥2.0 GPa同时保持大均匀延伸率，突破低温强塑性倒置极限。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "中熵合金",
+      "纳米有序",
+      "低温力学",
+      "强塑性协同"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167834538",
+    "doi": "10.1016/j.actamat.2026.122539",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122539",
+    "title_en": "Defect-mediated elemental segregation and local chemical ordering in TiZrNbTaV multi-principal element alloys",
+    "date": "2026-07-09",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "TiZrNbTaV多主元合金中缺陷介导的元素偏析与局部化学有序",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示TiZrNbTaV多主元合金中点缺陷介导元素偏析并诱导局部化学有序的微观机制。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "多主元合金",
+      "缺陷",
+      "元素偏析",
+      "化学有序"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167627904",
+    "doi": "10.1016/j.actamat.2026.122534",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122534",
+    "title_en": "Grain-size-dependent dynamic mechanical response and plastic deformation of the FeCoCrMnNi high-entropy alloy during high-strain-rate impact",
+    "date": "2026-07-07",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "晶粒尺寸对FeCoCrMnNi高熵合金高应变率冲击动态力学响应与塑性变形的影响",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "系统研究晶粒尺寸对FeCoCrMnNi高熵合金在高应变率冲击下动态力学行为和塑性变形机制的影响规律。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "高熵合金",
+      "晶粒尺寸",
+      "高应变率",
+      "动态力学"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167623446",
+    "doi": "10.1016/j.actamat.2026.122532",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122532",
+    "title_en": "Solute-defect interaction and oxidation govern high-temperature low-cycle fatigue in Mo-added CoCrNi-based multi-principal element alloy",
+    "date": "2026-07-07",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "溶质–缺陷交互作用与氧化共同控制Mo添加CoCrNi基多主元合金的高温低周疲劳",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示Mo添加CoCrNi基合金中溶质–缺陷交互作用与高温氧化协同决定低周疲劳寿命的机制。",
+    "subtopic": "断裂/疲劳",
+    "keywords": [
+      "多主元合金",
+      "高温疲劳",
+      "溶质缺陷交互",
+      "氧化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167518430",
+    "doi": "10.1002/advs.76407",
+    "url": "https://doi.org/10.1002/advs.76407",
+    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
+    "date": "2026-07-06",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "ABSTRACT High‐strength lightweight refractory alloys are vital components serving in harsh environments with high mechanical loads at elevated temperatures, e.g., in aero‐engines and hypersonic vehicles. Despite the long‐term efforts on strengthening these materials, they usually show low ductility, particularly at room temperature, severely limiting their practical applications. Here, we introduce a concept to design extraordinarily ductile high‐strength lightweight refractory high‐entropy alloys (RHEAs) by introducing dispersed chemically gradient ordered nanodomains (CGONs, 1–3 nm) coherent with the disordered matrix. Chemical composition of the shell in the CGON is similar to that of the adjacent disordered matrix, and it varies gradually from the shell to the core. Such architecture not only enhances the thermodynamic stability of the CGONs but also facilitates stress transfer across the interfaces by reducing interfacial strain energy. The concept is realized in an Nb‐Zr‐Ti‐Ta‐Al RHEA system showing low mass density of 6.48 g/cm 3 , large uniform tensile elongation of 21.5%, elongation‐to‐failure of 47.8%, and high yield strength exceeding 1.0 GPa at room temperature. Further, the enhanced thermal stability of the CGONs contributes to the excellent high‐temperature performance of the lightweight RHEA. The provided insights are thus important in guiding the development of ductile and ultra‐strong lightweight refractory materials for key engineering applications.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
+    "abstract_zh": "高强度轻质难熔合金是在苛刻环境下服役的关键结构材料，如航空发动机和高超声速飞行器。尽管在强化方面进行了长期努力，这类材料通常在室温下表现出低延伸率，严重限制了实际应用。本研究在轻质难熔高熵合金中引入化学梯度有序纳米畴。",
+    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破其室温强度与塑性的长期矛盾，实现大拉伸延伸率。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "难熔高熵合金",
+      "轻质合金",
+      "化学梯度有序",
+      "强塑性协同"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167358499",
+    "doi": "10.1016/j.actamat.2026.122513",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122513",
+    "title_en": "Effects of short-range order on void growth in single-crystalline CoCrFeMnNi high-entropy alloys",
+    "date": "2026-07-04",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "短程有序对单晶CoCrFeMnNi高熵合金空洞生长的影响",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "阐明短程有序对CoCrFeMnNi单晶高熵合金中空洞形核与生长的影响机制。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "高熵合金",
+      "短程有序",
+      "空洞生长",
+      "断裂"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167215496",
+    "doi": "10.1126/sciadv.aed6943",
+    "url": "https://doi.org/10.1126/sciadv.aed6943",
+    "title_en": "Understanding the role of entropy in designing high-performance thermoelectrics",
+    "date": "2026-07-03",
+    "year": 2026,
+    "issn": "2375-2548",
+    "journal": "Science Advances",
+    "abstract_en": "The design of high-entropy alloys is effective in lowering thermal conductivity but often reduces carrier mobility, thereby limiting electrical transport properties. Understanding the relationship among configurational entropy, thermal conductivity, and carrier mobility in high-entropy alloys is critical for enhancing thermoelectric performance. We demonstrate that a systematic and substantial increase in configurational entropy in half-Heusler alloys leads to an asymptotic reduction of lattice thermal conductivity. The reduced phonon group velocity and enhanced phonon scattering induced by atomic-scale chemical disorder result in a low lattice thermal conductivity of 2 watts per meter per kelvin at room temperature, with an achievable minimum of about 1.48 watts per meter per kelvin as disorder further increases, approaching the amorphous limit. Single-phase stabilization, along with optimized carrier mobility, is essential to preserve high electrical conductivity. Our results provide fundamental insights into integrating specific strategies with high-entropy design to simultaneously achieve low thermal conductivity and high thermoelectric performance, advantageous for high-temperature thermoelectric power generation applications.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "理解熵在设计高性能热电材料中的作用",
+    "abstract_zh": "高熵合金设计能有效降低热导率，但通常也降低载流子迁移率，从而限制电输运性能。理解高熵合金中构型熵、热导率与载流子迁移率之间的关系对提升热电性能至关重要。我们证明了系统性和实质性地增加构型熵。",
+    "summary_zh": "揭示构型熵、热导率与载流子迁移率三者关系，通过系统增加构型熵显著提升高熵合金热电性能。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "高熵合金",
+      "热电材料",
+      "构型熵",
+      "热导率"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7167053374",
+    "doi": "10.1016/j.actamat.2026.122516",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122516",
+    "title_en": "Cr-mediated modulation of κ-phase shearability and stacking fault energy enabling hetero-deformation strengthening in CoNiV-based multi-principal element alloys",
+    "date": "2026-07-02",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "Cr调控κ相可剪切性与层错能实现CoNiV基多主元合金的异质变形强化",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "通过Cr元素调控CoNiV基多主元合金中κ相可剪切性和层错能，激活异质变形诱导强化机制提升力学性能。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "多主元合金",
+      "层错能",
+      "κ相",
+      "异质变形"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7166741252",
+    "doi": "10.1002/advs.76313",
+    "url": "https://doi.org/10.1002/advs.76313",
+    "title_en": "Laser Preset of MnO <sub>x</sub> Layer on High‐Entropy Alloy Surface for Ampere‐Level Ultra‐Stable OER Performance",
+    "date": "2026-06-30",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "ABSTRACT Electrocatalytic water splitting offers an efficient pathway for producing renewable hydrogen, which is considered a key strategy toward global carbon neutrality. Yet, under harsh industrial operating conditions, the catalyst inevitably undergoes dynamic structural reconstruction, oxidative dissolution of active sites, and mechanical detachment during high‐potential anodic oxygen evolution reaction (OER), severely limiting their activity and stability. Here, we present an MnO x (composed of Mn 3 O 4 and Mn 2 O 3 ) layer on the FeCoNiCrMn high‐entropy alloy (HEA) surface (denoted as HEA‐ML) via laser powder bed fusion (LPBF) process and reveal that the MnO x layer suppresses multimetal dissolution in HEA and mitigates excessive surface reconstruction under OER conditions. Furthermore, the MnO x layer featuring a porous and rough surface enhances water adsorption and bubble diffusion, thereby accelerating interfacial mass transfer and OER kinetics. These outstanding features endow the catalyst to exhibit both excellent activity (227 ± 2 mV at 10 mA cm −2 ) and industrial‐grade ultra‐stable OER performance (operating stably for 1500 h at 1.0 A cm −2 ). Our research findings provide new insights into the structure‐activity‐stability relationship of HEA electrocatalysts and demonstrate a novel approach for designing industrially viable OER catalysts with high activity and ultra‐stability.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "激光预置MnOₓ层于高熵合金表面实现安培级超稳定析氧反应性能",
+    "abstract_zh": "电催化水分解为生产可再生氢气提供了高效途径，被视为实现全球碳中和的关键策略。然而，在苛刻工业操作条件下，催化剂不可避免地经历动态结构重构、活性位点的氧化溶解，以及高电位阳极析氧演化过程中的机械脱落。",
+    "summary_zh": "通过激光在高熵合金表面预置MnOₓ层，解决工业级催化剂在高电流密度下的结构重构和溶解失稳问题，实现安培级超稳定OER性能。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "高熵合金",
+      "电催化",
+      "析氧反应",
+      "激光处理"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7166530591",
+    "doi": "10.1002/advs.76257",
+    "url": "https://doi.org/10.1002/advs.76257",
+    "title_en": "Enhanced Mechanical Properties Via Boron‐Induced Multi‐Mechanism Strengthening in (NbTaTi <sub>1.5</sub> V) <sub>100‐x</sub> B <sub>x</sub> Refractory High Entropy Alloys",
+    "date": "2026-06-29",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "ABSTRACT In this study, a trace amount of boron was added to the NbTaTi 1.5 V RHEA to enhance its strength. Specifically, (NbTaTi 1.5 V) 100‐x B x alloys with varying boron contents were fabricated by ball milling and spark plasma sintering (SPS). With the addition of 1 at.% boron, the compressive fracture strength of the alloy increased by 21.3% relative to the B0 alloy, rising from 2975 to 3610 MPa. A compressive fracture strain of 14.8% was maintained. The microhardness increased from 881 ± 67 HV to 1060 ± 60 HV, corresponding to an improvement of 20.4%. The microstructure analysis indicated that the (NbTaTi 1.5 V) 100‐x B x alloys were composed of three fine‐grained phases, namely BCC phase, TiO phase and TiB phase. The addition of trace amounts of boron led to significant grain refinement, resulting in a uniform and refined microstructure in the sintered alloys. The average grain size of B1 alloy was only 0.91 µm, representing a 67% reduction compared with that of the B0 alloy (2.82 µm). This provided a favorable microstructural foundation for the synergistic strengthening of the alloys. The boron element contributed 48.2% of the yield strength enhancement in B1 alloy by grain boundary strengthening through grain refinement, which was the dominant strengthening mechanism. TiB and TiO particles promoted dislocation proliferation, resulting in an additional strengthening contribution of approximately 28.7%. Furthermore, the TiB phase enhanced resistance to plastic deformation by impeding dislocation slip through crack deflection. This synergistic multi‐mechanism strengthening strategy offers an effective approach for improving the mechanical properties of (NbTaTi 1.5 V) 100‐x B x alloys.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "硼诱导多机制强化提升(NbTaTi₁.₅V)₁₀₀₋ₓBₓ难熔高熵合金力学性能",
+    "abstract_zh": "通过球磨和放电等离子烧结（SPS）制备了不同硼含量的(NbTaTi₁.₅V)₁₀₀₋ₓBₓ合金。添加1 at.%硼后，合金压缩断裂强度提升21.3%，从2975 MPa增至3610 MPa。",
+    "summary_zh": "在NbTaTi₁.₅V难熔高熵合金中添加1 at.%硼，通过固溶、晶界及析出多机制协同强化，压缩断裂强度提升21.3%（2975→3610 MPa）。",
+    "subtopic": "强度/强化机制",
+    "keywords": [
+      "难熔高熵合金",
+      "硼添加",
+      "多机制强化",
+      "压缩强度"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7166468821",
+    "doi": "10.1016/j.actamat.2026.122505",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122505",
+    "title_en": "Valence-electron-associated dislocation dissociation and glide mechanisms in transition-metal carbide and nitride alloys",
+    "date": "2026-06-28",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "Conventional and high-entropy alloying are widely employed to mitigate the intrinsic brittleness of transition-metal carbides (TMCs) and nitrides (TMNs), yet the underlying dislocation-controlled mechanisms remain incompletely understood. In this work, we developed a new approach to determine the Peierls stress within the Peierls-Nabarro framework, and investigated the stacking fault energies and associated dislocation properties of pure TMCs, TMNs, and their alloys. For compounds with valence electron concentration (VEC) exceeding 8 electrons per formula unit (e - /f.u.), full a / 2 〈 110 〉 { 111 } dislocations dissociate into Shockley partials, enabling stepwise glide, substantially reducing the Peierls stress, and thereby facilitating activation of the 〈110〉{111} slip system, consistent with experimental observations. For compounds with VEC ≤8 e - /f.u., the absence of an intrinsic stacking fault suppresses dislocation dissociation, resulting in large Peierls stresses. Extending these insights to both conventional and high-entropy alloys, higher-VEC solutes promote dissociation and reduce the Peierls stress, whereas lower-VEC solutes exert the opposite effect, and same-group element doping has only a minor influence. These findings lay the groundwork for elucidating the dislocation-relevant mechanism underlying alloying-induced tailoring of mechanical performance in TMC and TMN alloys.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "过渡金属碳化物与氮化物合金中价电子关联的位错分解与滑移机制",
+    "abstract_zh": "高熵合金化被广泛用于缓解过渡金属碳化物（TMCs）和氮化物（TMNs）的本征脆性，但位错控制机制仍不完整。本研究在Peierls-Nabarro框架内开发了确定Peierls应力的新方法，研究了层错能和位错核心结构。",
+    "summary_zh": "建立新方法揭示高熵碳化物/氮化物中价电子浓度通过调控层错能来决定位错分解与滑移机制的规律，为韧化设计提供理论基础。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "高熵合金",
+      "碳化物",
+      "位错",
+      "层错能"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7166298371",
+    "doi": "10.1016/j.scriptamat.2026.117469",
+    "url": "https://doi.org/10.1016/j.scriptamat.2026.117469",
+    "title_en": "Effect of pre-deformation on transformation pathways in a precipitation-strengthened medium-entropy alloy",
+    "date": "2026-06-27",
+    "year": 2026,
+    "issn": "1359-6462",
+    "journal": "Scripta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "预变形对析出强化中熵合金相变路径的影响",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示预变形如何通过改变位错密度和应力状态来调控析出强化中熵合金的相变路径与组织演化。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "中熵合金",
+      "预变形",
+      "相变",
+      "析出强化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7166091879",
+    "doi": "10.1002/advs.202524364",
+    "url": "https://doi.org/10.1002/advs.202524364",
+    "title_en": "Unifying Composition and Process Design: A Heterogeneous Graph Neural Network for Discovering High‐Performance Cu Alloys",
+    "date": "2026-06-26",
+    "year": 2026,
+    "issn": "2198-3844",
+    "journal": "Advanced Science",
+    "abstract_en": "The properties of copper alloys critical for sustainable development depend on their processing pathways. However, the complex and variable character of these pathways is incompatible with conventional machine learning models that require fixed-input structures, creating a barrier to AI-driven materials design. To address this challenge, we introduce a heterogeneous graph neural network to model the material system including both elemental composition and process steps as a unified graph. The graph integrates element and process nodes, interconnected by learnable edges representing the intricate relationships between composition and processing steps. This approach inherently accommodates variable-length process pathways and bypasses manual feature engineering by directly utilizing native elemental properties. It effectively captures the complex coupling between composition and processing without suffering from data sparsity or dimensional explosion. Applying this framework, we designed and experimentally validated a novel copper alloy (Cu-Cr-Zr-Y-La-Mg-Zn) and tailored process, achieving an exceptional combination of 710 MPa in yield strength, 726 MPa in tensile strength, and 75% IACS (International Annealed Copper Standard) in electrical conductivity. This work presents a new approach for materials discovery, offering a scalable solution to co-optimize composition and processing for materials defined by complex manufacturing histories.",
+    "matched": [
+      "compositionally complex alloys"
+    ],
+    "title_zh": "统一成分与工艺设计：用于发现高性能铜合金的异质图神经网络",
+    "abstract_zh": "铜合金的性能高度依赖其加工路径。然而，加工路径的复杂多变与传统机器学习模型要求固定输入结构的特性不兼容，形成了AI驱动材料设计的障碍。本研究引入异质图神经网络，对成分与复杂加工工艺路径信息进行联合建模。",
+    "summary_zh": "提出异质图神经网络同时编码成分与复杂加工工艺路径，突破传统ML固定输入结构限制，实现AI驱动的高性能铜合金成分-工艺协同设计。",
+    "subtopic": "计算/机器学习设计",
+    "keywords": [
+      "铜合金",
+      "机器学习",
+      "图神经网络",
+      "成分设计"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165855032",
+    "doi": "10.1016/j.actamat.2026.122496",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122496",
+    "title_en": "Dynamic coupling of TRIP effect and hetero-deformation-induced (HDI) hardening in a hierarchical eutectic high-entropy alloy",
+    "date": "2026-06-25",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "TRIP效应与异质变形诱导硬化在层级共晶高熵合金中的动态耦合",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示层级共晶高熵合金中TRIP效应与HDI硬化的动态耦合协同机制，协同实现高强度与大塑性。",
+    "subtopic": "塑性/强韧平衡",
+    "keywords": [
+      "共晶高熵合金",
+      "相变诱导塑性",
+      "TRIP",
+      "HDI硬化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165862362",
+    "doi": "10.1016/j.actamat.2026.122495",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122495",
+    "title_en": "Strengthening and hydrogen-embrittlement resistance via in situ TiC reprecipitation in an additively manufactured high-entropy alloy",
+    "date": "2026-06-25",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "通过原位TiC再析出提升增材制造高熵合金的强化与抗氢脆性",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "在增材制造高熵合金中利用原位TiC再析出同时提升强度与抗氢脆性能，为增材制造合金抗氢设计提供新路径。",
+    "subtopic": "辐照/腐蚀–力学",
+    "keywords": [
+      "高熵合金",
+      "增材制造",
+      "TiC析出",
+      "氢脆"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165793119",
+    "doi": "10.1016/j.scriptamat.2026.117460",
+    "url": "https://doi.org/10.1016/j.scriptamat.2026.117460",
+    "title_en": "Microcrack Toughening enabled by lattice reorientation with weak crystallographic orientation correlation",
+    "date": "2026-06-24",
+    "year": 2026,
+    "issn": "1359-6462",
+    "journal": "Scripta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "弱晶体学取向关联的晶格再取向实现微裂纹韧化",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "利用弱晶体学取向关联的晶格再取向机制实现高熵合金中微裂纹韧化，提升断裂韧性。",
+    "subtopic": "断裂/疲劳",
+    "keywords": [
+      "断裂韧性",
+      "晶格再取向",
+      "微裂纹",
+      "韧化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165778512",
+    "doi": "10.1038/s41586-026-10708-z",
+    "url": "https://doi.org/10.1038/s41586-026-10708-z",
+    "title_en": "Ductile alloys offering 100 MPa tensile strength at 2,400 °C",
+    "date": "2026-06-24",
+    "year": 2026,
+    "issn": "0028-0836",
+    "journal": "Nature",
+    "abstract_en": "Extreme applications call for materials that are not only strong to withstand thermomechanical loads at temperatures in excess of 2,000 °C (refs. 1–3), but also highly formable at room temperature to allow for processing into complex-shaped parts. The latter excludes brittle ceramics4 and intermetallic compounds5, limiting the selection to highly ductile metals and their alloys, but for them, an adequate strength at ultrahigh temperatures seems unreachable. Here we show a breakthrough in casting alloys that achieve both simultaneously. A boron-stabilized HfO2-strengthened Ta-based alloy was carefully crafted using a new boron-intervened in situ oxidation reaction, producing about 50-nm diameter oxide particles dispersed densely and uniformly in the grain interior. The new alloy fills the blank at ultrahigh temperatures in terms of tensile yield strength, around 200 MPa at 2,000 °C and 100 MPa at 2,400 °C, while simultaneously possessing an excellent strength–ductility balance at room temperature (ultimate tensile strength >800 MPa, elongation-to-failure of about 35%), a property combination surpassing all previous refractory (including multi-principal-element) alloys. Moreover, the boron segregation around the oxide nanoparticles imparts excellent thermal stability against coarsening at 2,000–2,400 °C. Our strategy thus goes beyond traditional oxide-dispersion strengthening to enable highly ductile refractory alloys that are capable of load-bearing applications at extreme temperatures. A boron-stabilized oxide-strengthened tantalum alloy combines exceptional room-temperature ductility with record ultrahigh-temperature strength, enabling load-bearing applications above 2,000 °C.",
+    "matched": [
+      "multi-principal element alloys"
+    ],
+    "title_zh": "在2400°C下具有100 MPa拉伸强度的延性合金",
+    "abstract_zh": "极端应用要求材料不仅能在超过2000°C的温度下承受热力学载荷，还需在室温下具有高可塑性以加工成复杂形状零件。后者排除了脆性陶瓷和金属间化合物，将选择限定于高延性金属及其合金，但这些材料在超高温下强度不足。",
+    "summary_zh": "开发出在2400°C下拉伸强度超100 MPa且室温可塑性加工的延性多主元合金，填补超高温延性金属材料的空白。",
+    "subtopic": "蠕变/高温力学",
+    "keywords": [
+      "多主元合金",
+      "超高温",
+      "高温强度",
+      "延性"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165673330",
+    "doi": "10.1016/j.actamat.2026.122491",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122491",
+    "title_en": "Promoting strain delocalization in refractory high-entropy alloys via local chemical fluctuations",
+    "date": "2026-06-23",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "通过局部化学涨落促进难熔高熵合金中的应变去局域化",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "利用局部化学涨落调控难熔高熵合金中应变分布，实现应变去局域化以提升整体均匀变形能力。",
+    "subtopic": "变形机制/位错·孪生",
+    "keywords": [
+      "难熔高熵合金",
+      "化学涨落",
+      "应变去局域化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W4415111983",
+    "doi": "10.1126/sciadv.aea9951",
+    "url": "https://doi.org/10.1126/sciadv.aea9951",
+    "title_en": "Machine learning potentials for modeling alloys across compositions",
+    "date": "2026-06-19",
+    "year": 2026,
+    "issn": "2375-2548",
+    "journal": "Science Advances",
+    "abstract_en": "Materials properties depend strongly on chemical composition, i.e., the relative amounts of each chemical element. Changes in composition lead to entirely different chemical arrangements, which vary in complexity from perfectly ordered (i.e., stoichiometric compounds) to completely disordered (i.e., solid solutions). Accurately capturing this range of chemical arrangements remains a major challenge, limiting the predictive accuracy of machine learning potentials (MLPs) in materials modeling. Here, we combine information theory and machine learning to optimize the sampling of chemical motifs and design MLPs that effectively capture the behavior of metallic alloys across their entire compositional and structural landscape. The effectiveness of this approach is demonstrated by predicting the compositional dependence of various materials properties-including stacking-fault energies, short-range order, heat capacities, and phase diagrams-for the AuPt and CuAu binary alloys, the ternary CrCoNi, and the TiTaVW high-entropy alloy. Extensive comparison against experimental data demonstrates the robustness of this approach in enabling materials modeling with high physical fidelity.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "跨成分建模合金的机器学习势函数",
+    "abstract_zh": "材料性能强烈依赖化学成分。成分变化导致化学排列完全不同，从有序（化学计量化合物）到完全无序（固溶体）复杂程度各异。精确捕捉这一成分范围的化学排列变化仍是重大挑战。",
+    "summary_zh": "开发覆盖从有序金属间化合物到完全无序固溶体全成分范围的机器学习势函数，精确描述成分变化引起的多样化化学排列。",
+    "subtopic": "计算/机器学习设计",
+    "keywords": [
+      "多主元合金",
+      "机器学习势",
+      "成分设计",
+      "固溶体"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165199425",
+    "doi": "10.1126/science.aec4995",
+    "url": "https://doi.org/10.1126/science.aec4995",
+    "title_en": "Strain-induced fully coherent triphase nanoarchitecture in refractory high-entropy alloys",
+    "date": "2026-06-18",
+    "year": 2026,
+    "issn": "0036-8075",
+    "journal": "Science",
+    "abstract_en": "Nanostructured materials have exceptional properties, yet scalable fabrication of bulk, three-dimensional, nanograined structures remains a formidable challenge. We report the self-assembly of a fully coherent, triphase nanostructure-resembling a mesocrystal-formed through solid-state phase separation in an equiatomic refractory alloy. The resulting architecture integrates three common metallic crystal structures-face-centered cubic, body-centered cubic, and hexagonal close-packed-interwoven through strain-induced phase separation and unconventional transformation pathways triggered by the separation itself. This nanostructure accommodates large atomic-size mismatches and lattice misfits while maintaining full coherency and thermal stability. The resulting material exhibits a compressive yield strength exceeding 2 gigapascals. These findings provide a method for nanostructure engineering in compositionally complex alloys through strain-induced transformation pathway engineering.",
+    "matched": [
+      "compositionally complex alloys",
+      "high-entropy alloys"
+    ],
+    "title_zh": "应变诱导难熔高熵合金中的全共格三相纳米架构",
+    "abstract_zh": "纳米结构材料具有卓越性能，然而可扩展制备块体三维纳米晶粒结构仍是重大挑战。我们报告了等原子难熔合金通过固态相分离自组装形成类介晶体的全共格三相纳米结构。所得架构集成了三种常见金属晶体结构。",
+    "summary_zh": "报道了等原子难熔高熵合金通过固态相分离自组装形成全共格三相纳米结构（类介晶体），兼具三种晶体结构，提供卓越综合力学性能。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "难熔高熵合金",
+      "共格",
+      "纳米结构",
+      "相分离"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165118531",
+    "doi": "10.1126/science.aei4111",
+    "url": "https://doi.org/10.1126/science.aei4111",
+    "title_en": "A metastable solid solution transforms into complex nanostructures",
+    "date": "2026-06-18",
+    "year": 2026,
+    "issn": "0036-8075",
+    "journal": "Science",
+    "abstract_en": "Instability in a high-entropy alloy drives structural changes that strengthen the alloy.",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "亚稳固溶体转变为复杂纳米结构",
+    "abstract_zh": "高熵合金中的不稳定性驱动结构变化，从而强化合金。",
+    "summary_zh": "高熵合金中亚稳固溶体的结构不稳定性驱动相分离形成复杂纳米结构，实现显著强化。",
+    "subtopic": "微观组织/相–力学关联",
+    "keywords": [
+      "高熵合金",
+      "亚稳固溶体",
+      "纳米结构",
+      "强化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7165033730",
+    "doi": "10.1016/j.actamat.2026.122459",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122459",
+    "title_en": "Suppression of dynamic recovery via localized solute pinning for superior high-temperature strength in a lightweight refractory medium-entropy alloy",
+    "date": "2026-06-17",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "通过局域溶质钉扎抑制动态回复实现轻质难熔中熵合金的优异高温强度",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "利用局域溶质钉扎机制抑制动态回复过程，显著提升轻质难熔中熵合金的高温强度。",
+    "subtopic": "蠕变/高温力学",
+    "keywords": [
+      "难熔中熵合金",
+      "轻质合金",
+      "溶质钉扎",
+      "高温强度"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7164857946",
+    "doi": "10.1016/j.scriptamat.2026.117448",
+    "url": "https://doi.org/10.1016/j.scriptamat.2026.117448",
+    "title_en": "Aluminum-induced impediment of edge dislocation for high-temperature strengthening in the single-phase refractory high entropy alloy",
+    "date": "2026-06-15",
+    "year": 2026,
+    "issn": "1359-6462",
+    "journal": "Scripta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "铝诱导刃位错阻碍实现单相难熔高熵合金的高温强化",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "揭示Al元素通过选择性阻碍刃位错运动实现单相难熔高熵合金高温强化的微观机制。",
+    "subtopic": "蠕变/高温力学",
+    "keywords": [
+      "难熔高熵合金",
+      "铝",
+      "位错",
+      "高温强化"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
+    "id": "https://openalex.org/W7164315320",
+    "doi": "10.1016/j.actamat.2026.122439",
+    "url": "https://doi.org/10.1016/j.actamat.2026.122439",
+    "title_en": "The effect of ultra-dilute boron addition on solidification behavior and toughness of a laser powder bed fused eutectic high-entropy alloy",
+    "date": "2026-06-11",
+    "year": 2026,
+    "issn": "1359-6454",
+    "journal": "Acta Materialia",
+    "abstract_en": "",
+    "matched": [
+      "high-entropy alloys"
+    ],
+    "title_zh": "超微量硼添加对激光粉末床熔融共晶高熵合金凝固行为与韧性的影响",
+    "abstract_zh": "（无摘要）",
+    "summary_zh": "研究超微量硼添加对LPBF共晶高熵合金凝固微观组织和韧性的影响，为增材制造合金韧化提供新途径。",
+    "subtopic": "增材制造/加工–力学",
+    "keywords": [
+      "共晶高熵合金",
+      "激光粉末床熔融",
+      "硼",
+      "韧性"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  }
+]
