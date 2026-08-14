@@ -35,7 +35,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper)}
 .tagline b{color:var(--ink);font-weight:600}
 
 /* ---- periodic journal cells ---- */
-.cells{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:6px 0 22px}
+.cells{display:grid;grid-template-columns:repeat(auto-fill,minmax(116px,1fr));gap:8px;padding:6px 0 22px}
 .cell{position:relative;border:1px solid var(--line);border-radius:7px;background:var(--card);
   padding:10px 8px 8px;cursor:pointer;text-align:left;transition:transform .12s ease,box-shadow .12s ease,border-color .12s;
   font-family:inherit}
@@ -125,7 +125,6 @@ footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--faint);f
 footer .mono{font-family:var(--mono);letter-spacing:.03em}
 
 @media(max-width:720px){
-  .cells{grid-template-columns:repeat(4,1fr)}
   .tagline{text-align:left;max-width:none}
   .card{grid-template-columns:1fr;gap:12px}
   .rail{flex-direction:row;align-items:center}
@@ -154,7 +153,7 @@ footer .mono{font-family:var(--mono);letter-spacing:.03em}
           <div class="en">Alloy Literature Radar</div>
         </div>
       </div>
-      <div class="tagline">7 本顶刊 · 近 4 年 · 自动去重 · 中文题录与结论速览。<b>点期刊格子筛选</b>，或改变分组方式。</div>
+      <div class="tagline">8 本顶刊 · 合金力学性能 · 近 4 年 · 自动去重 · 中文题录与结论速览。<b>点期刊格子筛选</b>，或改变分组方式。</div>
     </div>
     <div class="cells" id="cells"></div>
   </div>
@@ -201,6 +200,7 @@ footer .mono{font-family:var(--mono);letter-spacing:.03em}
 const JOURNALS = {
   "1359-6454":{code:"AM", name:"Acta Materialia",        bg:"#E9EDF5", ink:"#3A4A6B"},
   "1359-6462":{code:"SM", name:"Scripta Materialia",     bg:"#E3F0ED", ink:"#2E5D57"},
+  "1476-1122":{code:"NM", name:"Nature Materials",       bg:"#F1E6EA", ink:"#6E2F4A"},
   "2198-3844":{code:"AS", name:"Advanced Science",       bg:"#EEE9F5", ink:"#59468A"},
   "2041-1723":{code:"NC", name:"Nature Communications",  bg:"#E7F1E8", ink:"#3B6B45"},
   "0028-0836":{code:"Na", name:"Nature",                 bg:"#E7E9F2", ink:"#2E3566"},
@@ -216,7 +216,7 @@ const SAMPLE = [
    title_zh:"【示例数据】用于预览页面布局的占位条目 —— 非真实论文",
    date:"2026-07-30", year:2026, url:"https://example.com/sample-record",
    summary_zh:"这是一条示例总结:启用数据源后，这里会显示真实论文的「结论 + 创新点」一句话速览。",
-   subtopic:"强度 / 强化机制", keywords:["high-entropy alloys","固溶强化"], new:true,
+   subtopic:"强度 / 强化机制", keywords:["合金力学性能","固溶强化"], new:true,
    abstract_zh:"这是示例中文摘要。真实运行时，此处为 OpenAlex 抓取的英文摘要经翻译后的中文版本。",
    abstract_en:"This is a sample abstract placeholder. On a real run this shows the English abstract fetched from OpenAlex.",
    doi:"10.0000/sample.1"},
@@ -225,7 +225,7 @@ const SAMPLE = [
    title_zh:"【示例数据】展示分组与期刊格子的第二条占位 —— 非真实论文",
    date:"2026-07-22", year:2026, url:"https://example.com/sample-record",
    summary_zh:"示例:一句话结论 + 创新点会以这种高亮样式呈现，方便你快速分诊要不要精读。",
-   subtopic:"塑性 / 强韧平衡", keywords:["high-entropy alloys","TRIP效应"], new:true,
+   subtopic:"塑性 / 强韧平衡", keywords:["强韧平衡","TRIP效应"], new:true,
    abstract_zh:"示例中文摘要占位文本。",
    abstract_en:"Sample abstract placeholder text.",
    doi:"10.0000/sample.2"},
@@ -234,7 +234,7 @@ const SAMPLE = [
    title_zh:"【示例数据】来自另一本期刊的第三条占位 —— 非真实论文",
    date:"2025-11-05", year:2025, url:"https://example.com/sample-record",
    summary_zh:"示例总结:较早年份的条目会归入对应年份/主题分组。",
-   subtopic:"变形机制 / 位错·孪生", keywords:["high-entropy alloys","位错"], new:false,
+   subtopic:"变形机制 / 位错·孪生", keywords:["变形机制","位错"], new:false,
    abstract_zh:"示例中文摘要占位文本。",
    abstract_en:"Sample abstract placeholder text.",
    doi:"10.0000/sample.3"}

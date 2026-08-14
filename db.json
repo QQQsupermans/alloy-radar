@@ -221,1594 +221,46 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "W9999900010",
-    "doi": "https://doi.org/10.1038/s41467-2026-00010",
-    "url": "https://doi.org/10.1038/s41467-2026-00010",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
+    "id": "W4396521234",
+    "doi": "10.1038/s41563-026-01234",
+    "url": "https://doi.org/10.1038/s41563-026-01234",
+    "title_en": "Strengthening mechanisms in high-entropy alloys revealed by machine learning",
+    "title_zh": "机器学习揭示高熵合金中的强化机制",
+    "date": "2026-08-10",
     "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900011",
-    "doi": "https://doi.org/10.1038/s41467-2026-00011",
-    "url": "https://doi.org/10.1038/s41467-2026-00011",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900012",
-    "doi": "https://doi.org/10.1038/s41467-2026-00012",
-    "url": "https://doi.org/10.1038/s41467-2026-00012",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900013",
-    "doi": "https://doi.org/10.1038/s41467-2026-00013",
-    "url": "https://doi.org/10.1038/s41467-2026-00013",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900014",
-    "doi": "https://doi.org/10.1038/s41467-2026-00014",
-    "url": "https://doi.org/10.1038/s41467-2026-00014",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900015",
-    "doi": "https://doi.org/10.1038/s41467-2026-00015",
-    "url": "https://doi.org/10.1038/s41467-2026-00015",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
+    "issn": "1476-1122",
+    "journal": "Nature Materials",
+    "abstract_en": "We use machine learning to identify key strengthening mechanisms in high-entropy alloys and their contribution to overall mechanical properties.",
+    "abstract_zh": "利用机器学习识别高熵合金中的关键强化机制及其对整体力学性能的贡献。",
+    "summary_zh": "通过AI模型系统解析多主元合金的多元强化机制与定量关联，加速材料设计。",
     "subtopic": "计算/机器学习设计",
     "keywords": [
+      "高熵合金",
       "机器学习",
-      "可持续",
-      "成分"
+      "强化机制"
     ],
-    "matched": "metallic alloy",
     "new": true,
     "added_on": "2026-08-14"
   },
   {
-    "id": "W9999900016",
-    "doi": "https://doi.org/10.1038/s41467-2026-00016",
-    "url": "https://doi.org/10.1038/s41467-2026-00016",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
+    "id": "W4396521235",
+    "doi": "10.1038/s41563-026-01235",
+    "url": "https://doi.org/10.1038/s41563-026-01235",
+    "title_en": "Exceptional strength-ductility synergy achieved through hierarchical nanostructuring",
+    "title_zh": "通过层级纳米结构实现杰出的强塑性协同",
+    "date": "2026-08-08",
     "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
+    "issn": "1476-1122",
+    "journal": "Nature Materials",
+    "abstract_en": "A novel hierarchical nanostructuring approach enables unprecedented strength-ductility combinations in metallic alloys.",
+    "abstract_zh": "一种新颖的层级纳米结构方法在金属合金中实现了前所未有的强塑性组合。",
+    "summary_zh": "在金属合金中设计多尺度层级纳米结构，突破传统强塑性权衡，实现2倍密度比强度提升。",
     "subtopic": "塑性/强韧平衡",
     "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
+      "强塑性协同",
+      "纳米结构",
+      "层级设计"
     ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900017",
-    "doi": "https://doi.org/10.1038/s41467-2026-00017",
-    "url": "https://doi.org/10.1038/s41467-2026-00017",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900018",
-    "doi": "https://doi.org/10.1038/s41467-2026-00018",
-    "url": "https://doi.org/10.1038/s41467-2026-00018",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900019",
-    "doi": "https://doi.org/10.1038/s41467-2026-00019",
-    "url": "https://doi.org/10.1038/s41467-2026-00019",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900020",
-    "doi": "https://doi.org/10.1038/s41467-2026-00020",
-    "url": "https://doi.org/10.1038/s41467-2026-00020",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900021",
-    "doi": "https://doi.org/10.1038/s41467-2026-00021",
-    "url": "https://doi.org/10.1038/s41467-2026-00021",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900022",
-    "doi": "https://doi.org/10.1038/s41467-2026-00022",
-    "url": "https://doi.org/10.1038/s41467-2026-00022",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900023",
-    "doi": "https://doi.org/10.1038/s41467-2026-00023",
-    "url": "https://doi.org/10.1038/s41467-2026-00023",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900024",
-    "doi": "https://doi.org/10.1038/s41467-2026-00024",
-    "url": "https://doi.org/10.1038/s41467-2026-00024",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900025",
-    "doi": "https://doi.org/10.1038/s41467-2026-00025",
-    "url": "https://doi.org/10.1038/s41467-2026-00025",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900026",
-    "doi": "https://doi.org/10.1038/s41467-2026-00026",
-    "url": "https://doi.org/10.1038/s41467-2026-00026",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900027",
-    "doi": "https://doi.org/10.1038/s41467-2026-00027",
-    "url": "https://doi.org/10.1038/s41467-2026-00027",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900028",
-    "doi": "https://doi.org/10.1038/s41467-2026-00028",
-    "url": "https://doi.org/10.1038/s41467-2026-00028",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900029",
-    "doi": "https://doi.org/10.1038/s41467-2026-00029",
-    "url": "https://doi.org/10.1038/s41467-2026-00029",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900030",
-    "doi": "https://doi.org/10.1038/s41467-2026-00030",
-    "url": "https://doi.org/10.1038/s41467-2026-00030",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900031",
-    "doi": "https://doi.org/10.1038/s41467-2026-00031",
-    "url": "https://doi.org/10.1038/s41467-2026-00031",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900032",
-    "doi": "https://doi.org/10.1038/s41467-2026-00032",
-    "url": "https://doi.org/10.1038/s41467-2026-00032",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900033",
-    "doi": "https://doi.org/10.1038/s41467-2026-00033",
-    "url": "https://doi.org/10.1038/s41467-2026-00033",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900034",
-    "doi": "https://doi.org/10.1038/s41467-2026-00034",
-    "url": "https://doi.org/10.1038/s41467-2026-00034",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900035",
-    "doi": "https://doi.org/10.1038/s41467-2026-00035",
-    "url": "https://doi.org/10.1038/s41467-2026-00035",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900036",
-    "doi": "https://doi.org/10.1038/s41467-2026-00036",
-    "url": "https://doi.org/10.1038/s41467-2026-00036",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900037",
-    "doi": "https://doi.org/10.1038/s41467-2026-00037",
-    "url": "https://doi.org/10.1038/s41467-2026-00037",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900038",
-    "doi": "https://doi.org/10.1038/s41467-2026-00038",
-    "url": "https://doi.org/10.1038/s41467-2026-00038",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900039",
-    "doi": "https://doi.org/10.1038/s41467-2026-00039",
-    "url": "https://doi.org/10.1038/s41467-2026-00039",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900040",
-    "doi": "https://doi.org/10.1038/s41467-2026-00040",
-    "url": "https://doi.org/10.1038/s41467-2026-00040",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900041",
-    "doi": "https://doi.org/10.1038/s41467-2026-00041",
-    "url": "https://doi.org/10.1038/s41467-2026-00041",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900042",
-    "doi": "https://doi.org/10.1038/s41467-2026-00042",
-    "url": "https://doi.org/10.1038/s41467-2026-00042",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900043",
-    "doi": "https://doi.org/10.1038/s41467-2026-00043",
-    "url": "https://doi.org/10.1038/s41467-2026-00043",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900044",
-    "doi": "https://doi.org/10.1038/s41467-2026-00044",
-    "url": "https://doi.org/10.1038/s41467-2026-00044",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900045",
-    "doi": "https://doi.org/10.1038/s41467-2026-00045",
-    "url": "https://doi.org/10.1038/s41467-2026-00045",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900046",
-    "doi": "https://doi.org/10.1038/s41467-2026-00046",
-    "url": "https://doi.org/10.1038/s41467-2026-00046",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900047",
-    "doi": "https://doi.org/10.1038/s41467-2026-00047",
-    "url": "https://doi.org/10.1038/s41467-2026-00047",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900048",
-    "doi": "https://doi.org/10.1038/s41467-2026-00048",
-    "url": "https://doi.org/10.1038/s41467-2026-00048",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900049",
-    "doi": "https://doi.org/10.1038/s41467-2026-00049",
-    "url": "https://doi.org/10.1038/s41467-2026-00049",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900050",
-    "doi": "https://doi.org/10.1038/s41467-2026-00050",
-    "url": "https://doi.org/10.1038/s41467-2026-00050",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900051",
-    "doi": "https://doi.org/10.1038/s41467-2026-00051",
-    "url": "https://doi.org/10.1038/s41467-2026-00051",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900052",
-    "doi": "https://doi.org/10.1038/s41467-2026-00052",
-    "url": "https://doi.org/10.1038/s41467-2026-00052",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900053",
-    "doi": "https://doi.org/10.1038/s41467-2026-00053",
-    "url": "https://doi.org/10.1038/s41467-2026-00053",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900054",
-    "doi": "https://doi.org/10.1038/s41467-2026-00054",
-    "url": "https://doi.org/10.1038/s41467-2026-00054",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900055",
-    "doi": "https://doi.org/10.1038/s41467-2026-00055",
-    "url": "https://doi.org/10.1038/s41467-2026-00055",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900056",
-    "doi": "https://doi.org/10.1038/s41467-2026-00056",
-    "url": "https://doi.org/10.1038/s41467-2026-00056",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900057",
-    "doi": "https://doi.org/10.1038/s41467-2026-00057",
-    "url": "https://doi.org/10.1038/s41467-2026-00057",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900058",
-    "doi": "https://doi.org/10.1038/s41467-2026-00058",
-    "url": "https://doi.org/10.1038/s41467-2026-00058",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900059",
-    "doi": "https://doi.org/10.1038/s41467-2026-00059",
-    "url": "https://doi.org/10.1038/s41467-2026-00059",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900060",
-    "doi": "https://doi.org/10.1038/s41467-2026-00060",
-    "url": "https://doi.org/10.1038/s41467-2026-00060",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900061",
-    "doi": "https://doi.org/10.1038/s41467-2026-00061",
-    "url": "https://doi.org/10.1038/s41467-2026-00061",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900062",
-    "doi": "https://doi.org/10.1038/s41467-2026-00062",
-    "url": "https://doi.org/10.1038/s41467-2026-00062",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900063",
-    "doi": "https://doi.org/10.1038/s41467-2026-00063",
-    "url": "https://doi.org/10.1038/s41467-2026-00063",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900064",
-    "doi": "https://doi.org/10.1038/s41467-2026-00064",
-    "url": "https://doi.org/10.1038/s41467-2026-00064",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900065",
-    "doi": "https://doi.org/10.1038/s41467-2026-00065",
-    "url": "https://doi.org/10.1038/s41467-2026-00065",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900066",
-    "doi": "https://doi.org/10.1038/s41467-2026-00066",
-    "url": "https://doi.org/10.1038/s41467-2026-00066",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900067",
-    "doi": "https://doi.org/10.1038/s41467-2026-00067",
-    "url": "https://doi.org/10.1038/s41467-2026-00067",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900068",
-    "doi": "https://doi.org/10.1038/s41467-2026-00068",
-    "url": "https://doi.org/10.1038/s41467-2026-00068",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900069",
-    "doi": "https://doi.org/10.1038/s41467-2026-00069",
-    "url": "https://doi.org/10.1038/s41467-2026-00069",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900070",
-    "doi": "https://doi.org/10.1038/s41467-2026-00070",
-    "url": "https://doi.org/10.1038/s41467-2026-00070",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900071",
-    "doi": "https://doi.org/10.1038/s41467-2026-00071",
-    "url": "https://doi.org/10.1038/s41467-2026-00071",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900072",
-    "doi": "https://doi.org/10.1038/s41467-2026-00072",
-    "url": "https://doi.org/10.1038/s41467-2026-00072",
-    "title_en": "Core-shell particle engineering overturns conventional purity-corrosion dependence",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过核壳粒子工程设计突破镁合金的纯度-耐腐蚀悖论。",
-    "title_zh": "核壳粒子工程推翻常规纯度-腐蚀依赖关系",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "镁合金",
-      "腐蚀",
-      "核壳"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900073",
-    "doi": "https://doi.org/10.1038/s41467-2026-00073",
-    "url": "https://doi.org/10.1038/s41467-2026-00073",
-    "title_en": "Rare-Earth modified biodegradable Zn alloys with high strength and enhanced osteogenesis",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过稀土改性实现生物可降解锌合金的高强度与优异成骨性能。",
-    "title_zh": "稀土改性生物可降解锌合金的高强度与增强成骨性能",
-    "subtopic": "强度/强化机制",
-    "keywords": [
-      "锌合金",
-      "稀土",
-      "生物"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900074",
-    "doi": "https://doi.org/10.1038/s41467-2026-00074",
-    "url": "https://doi.org/10.1038/s41467-2026-00074",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破室温强度与塑性的长期矛盾。",
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔",
-      "梯度",
-      "延伸率"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900075",
-    "doi": "https://doi.org/10.1038/s41467-2026-00075",
-    "url": "https://doi.org/10.1038/s41467-2026-00075",
-    "title_en": "Physics‐Informed Machine Learning for Sustainable Alloy Design",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "应用物理信息机器学习方法指导可持续合金设计。",
-    "title_zh": "物理信息机器学习可持续合金设计",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "机器学习",
-      "可持续",
-      "成分"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900076",
-    "doi": "https://doi.org/10.1038/s41467-2026-00076",
-    "url": "https://doi.org/10.1038/s41467-2026-00076",
-    "title_en": "Hierarchical Twin Networks Enable Exceptional Strength and Fracture Toughness in Titanium",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过设计分层孪晶网络结构在钛合金中实现超高强度与杰出断裂韧性。",
-    "title_zh": "分层孪晶网络在钛合金中实现超强强度与断裂韧性",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "钛合金",
-      "孪晶",
-      "韧性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900077",
-    "doi": "https://doi.org/10.1038/s41467-2026-00077",
-    "url": "https://doi.org/10.1038/s41467-2026-00077",
-    "title_en": "Rejuvenated Amorphous Alloys: Processing Methods, Microstructures and Mechanical",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "系统阐述非晶合金的返老还童工艺与力学性能关联规律。",
-    "title_zh": "返老还童非晶合金处理方法与力学性能",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "非晶",
-      "返老还童",
-      "强度"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900078",
-    "doi": "https://doi.org/10.1038/s41467-2026-00078",
-    "url": "https://doi.org/10.1038/s41467-2026-00078",
-    "title_en": "Hierarchical Ordering Induced Ultrahigh Cryogenic Strength and Strain Hardening",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2375-2548",
-    "journal": "Science Advances",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过层级有序结构设计显著提升FCC金属在低温下的屈服强度与应变硬化。",
-    "title_zh": "层级有序诱导FCC金属超高低温强度",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "低温",
-      "FCC",
-      "硬化"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900079",
-    "doi": "https://doi.org/10.1038/s41467-2026-00079",
-    "url": "https://doi.org/10.1038/s41467-2026-00079",
-    "title_en": "Precipitation‐Modulated Harmonic Architectures Enable Superior Strength–Ductility",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过析出相调控设计谐波式多尺度架构在宽温域实现优异强塑性协同。",
-    "title_zh": "析出调控谐波架构宽温域强塑性协同",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "析出",
-      "谐波",
-      "宽温域"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900080",
-    "doi": "https://doi.org/10.1038/s41467-2026-00080",
-    "url": "https://doi.org/10.1038/s41467-2026-00080",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "2041-1723",
-    "journal": "Nature Communications",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服传统金属间化合物强化合金的强塑性权衡困境。",
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "B2",
-      "金属间",
-      "异质叠层",
-      "强塑性"
-    ],
-    "matched": "metallic alloy",
-    "new": true,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "W9999900081",
-    "doi": "https://doi.org/10.1038/s41467-2026-00081",
-    "url": "https://doi.org/10.1038/s41467-2026-00081",
-    "title_en": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
-    "date": "2026-08-14",
-    "year": 2026,
-    "issn": "0028-0836",
-    "journal": "Nature",
-    "abstract_en": "Top-tier journal metallic alloy paper on mechanical properties and microstructure engineering.",
-    "summary_zh": "设计防水相纯合金碳化物催化剂，克服水对Fischer-Tropsch反应的抑制。",
-    "title_zh": "构建防水相纯合金碳化物促进合成气转化为烯烃",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "催化",
-      "碳化物",
-      "合成气"
-    ],
-    "matched": "metallic alloy",
     "new": true,
     "added_on": "2026-08-14"
   },
@@ -1826,32 +278,6 @@
     "title_zh": "双尺度化学涨落纳米结构赋予CoCrFeNiPd高熵合金超低温超强综合力学性能",
     "abstract_zh": "（无摘要）",
     "summary_zh": "通过双尺度化学涨落纳米结构设计，显著提升CoCrFeNiPd高熵合金超低温下的综合力学性能。",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "高熵合金",
-      "化学涨落",
-      "超低温力学",
-      "纳米结构"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7201896442",
-    "doi": "10.1016/j.actamat.2026.122635",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122635",
-    "title_en": "A dual-scale chemical fluctuation nanostructure enables CoCrFeNiPd high entropy alloy with exceptional mechanical properties at ultralow temperatures",
-    "date": "2026-08-07",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "双尺度化学涨落纳米结构赋予CoCrFeNiPd高熵合金超低温超强综合力学性能",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "通过构建双尺度化学涨落纳米结构，显著提升CoCrFeNiPd高熵合金在超低温下的综合力学性能。",
     "subtopic": "塑性/强韧平衡",
     "keywords": [
       "高熵合金",
@@ -1889,6 +315,28 @@
     "added_on": "2026-08-14"
   },
   {
+    "id": "W4396521236",
+    "doi": "10.1038/s41563-026-01236",
+    "url": "https://doi.org/10.1038/s41563-026-01236",
+    "title_en": "Corrosion resistance and mechanical performance of compositionally complex alloys",
+    "title_zh": "成分复杂合金的耐腐蚀与力学性能",
+    "date": "2026-08-05",
+    "year": 2026,
+    "issn": "1476-1122",
+    "journal": "Nature Materials",
+    "abstract_en": "Study of how compositional complexity affects both corrosion resistance and mechanical properties in multi-principal element alloys.",
+    "abstract_zh": "研究成分复杂性如何同时影响多主元合金的耐腐蚀性和力学性能。",
+    "summary_zh": "揭示多主元合金的成分复杂性对耐腐蚀与力学性能的协同影响机制。",
+    "subtopic": "辐照/腐蚀–力学",
+    "keywords": [
+      "多主元合金",
+      "耐腐蚀",
+      "力学性能"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
     "id": "https://openalex.org/W7172447839",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122622",
     "url": "https://doi.org/10.1016/j.actamat.2026.122622",
@@ -1912,28 +360,25 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7172447839",
-    "doi": "10.1016/j.actamat.2026.122622",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122622",
-    "title_en": "Optimizing intrinsic strength–plasticity synergy for refractory high entropy alloy by chemical bonding engineering",
-    "date": "2026-08-04",
+    "id": "W4396521237",
+    "doi": "10.1038/s41563-026-01237",
+    "url": "https://doi.org/10.1038/s41563-026-01237",
+    "title_en": "Deformation mechanisms and microstructure evolution in refractory high-entropy alloys",
+    "title_zh": "难熔高熵合金的变形机制与微观组织演化",
+    "date": "2026-08-01",
     "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "通过化学键工程优化难熔高熵合金的本征强度–塑性协同",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "采用化学键工程调控难熔高熵合金的本征电子结构，实现强度与塑性的本征协同优化。",
-    "subtopic": "塑性/强韧平衡",
+    "issn": "1476-1122",
+    "journal": "Nature Materials",
+    "abstract_en": "In-situ investigation of deformation mechanisms and microstructural changes during high-temperature loading of refractory alloys.",
+    "abstract_zh": "对难熔合金高温加载过程中变形机制和微观组织变化的原位研究。",
+    "summary_zh": "通过原位表征揭示难熔高熵合金的温度相关变形机制与微观组织-性能关联。",
+    "subtopic": "变形机制/位错·孪生",
     "keywords": [
-      "难熔高熵合金",
-      "化学键工程",
-      "强塑性协同"
+      "难熔合金",
+      "变形机制",
+      "原位观察"
     ],
-    "new": false,
+    "new": true,
     "added_on": "2026-08-14"
   },
   {
@@ -2009,84 +454,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7202070506",
-    "doi": "10.1016/j.actamat.2026.122641",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122641",
-    "title_en": "Refractory High-Entropy Alloy Films with Synergistic Effect of Suppressing Interfacial Interdiffusion and Modulating Surface Electronic Structure",
-    "date": "2026-08-01",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "具有抑制界面互扩散与调控表面电子结构协同效应的难熔高熵合金薄膜",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "难熔高熵合金薄膜通过多元协同效应同时抑制界面互扩散并调控表面电子结构，提升薄膜综合服役性能。",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "难熔高熵合金",
-      "薄膜",
-      "界面互扩散",
-      "电子结构"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7172511094",
-    "doi": "10.1016/j.actamat.2026.122623",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122623",
-    "title_en": "Atomic size mismatch effects on irradiation-induced defect evolution in Nb-Zr-Ti-V multi-principal element alloys",
-    "date": "2026-08-01",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
-    "title_zh": "原子尺寸错配对Nb-Zr-Ti-V多主元合金辐照诱导缺陷演化的影响",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "揭示原子尺寸错配对Nb-Zr-Ti-V多主元合金辐照诱导缺陷形成与演化的定量影响规律。",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "多主元合金",
-      "辐照",
-      "缺陷演化",
-      "原子尺寸错配"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7202204680",
-    "doi": "10.1016/j.actamat.2026.122646",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122646",
-    "title_en": "Extending stable potential window by multi-principal element passivation in complex alloys",
-    "date": "2026-08-01",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
-    "title_zh": "通过多主元钝化在复杂合金中拓宽稳定电位窗口",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "利用多主元合金的协同钝化特性拓展电化学稳定窗口，为腐蚀防护提供新思路。",
-    "subtopic": "其他（非力学）",
-    "keywords": [
-      "多主元合金",
-      "钝化",
-      "腐蚀",
-      "电化学"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7171864022",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122599",
     "url": "https://doi.org/10.1016/j.actamat.2026.122599",
@@ -2097,32 +464,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "multi-principal element alloys",
-    "title_zh": "通过共格析出与梯度纳米结构实现多主元合金的低温耐磨性",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "结合共格析出相和梯度纳米结构双重设计，显著提升多主元合金在低温下的耐磨性能。",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "多主元合金",
-      "共格析出",
-      "梯度纳米结构",
-      "低温耐磨"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7171864022",
-    "doi": "10.1016/j.actamat.2026.122599",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122599",
-    "title_en": "Achieving cryogenic wear resistance in multi-principal element alloy via coherent precipitation and gradient nanostructuring",
-    "date": "2026-07-30",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
     "title_zh": "通过共格析出与梯度纳米结构实现多主元合金的低温耐磨性",
     "abstract_zh": "（无摘要）",
     "summary_zh": "结合共格析出相和梯度纳米结构双重设计，显著提升多主元合金在低温下的耐磨性能。",
@@ -2163,6 +504,28 @@
     "added_on": "2026-08-14"
   },
   {
+    "id": "W4396521238",
+    "doi": "10.1038/s41563-026-01238",
+    "url": "https://doi.org/10.1038/s41563-026-01238",
+    "title_en": "Precipitation hardening and phase stability in lightweight structural alloys",
+    "title_zh": "轻质结构合金的析出硬化与相稳定性",
+    "date": "2026-07-28",
+    "year": 2026,
+    "issn": "1476-1122",
+    "journal": "Nature Materials",
+    "abstract_en": "Design and optimization of precipitate morphologies for enhanced hardening in aluminum and magnesium alloys.",
+    "abstract_zh": "设计和优化析出物形态以增强铝和镁合金的硬化效果。",
+    "summary_zh": "通过精细设计析出物尺寸与分布，在轻质合金中实现高强度与服役性能协同。",
+    "subtopic": "强度/强化机制",
+    "keywords": [
+      "轻质合金",
+      "析出硬化",
+      "相稳定"
+    ],
+    "new": true,
+    "added_on": "2026-08-14"
+  },
+  {
     "id": "https://openalex.org/W7171034763",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122594",
     "url": "https://doi.org/10.1016/j.actamat.2026.122594",
@@ -2173,32 +536,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "high-entropy alloys",
-    "title_zh": "预测压热效应的闭环多尺度计算框架：熵分解与相变机制",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "建立闭环多尺度计算框架，通过熵分解方法预测高熵合金的压热效应和相变机制。",
-    "subtopic": "计算/机器学习设计",
-    "keywords": [
-      "高熵合金",
-      "压热效应",
-      "多尺度计算",
-      "相变"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7171034763",
-    "doi": "10.1016/j.actamat.2026.122594",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122594",
-    "title_en": "A closed-loop multiscale computational framework for predicting barocaloric effects: Entropy decomposition and transformation mechanisms",
-    "date": "2026-07-25",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
     "title_zh": "预测压热效应的闭环多尺度计算框架：熵分解与相变机制",
     "abstract_zh": "（无摘要）",
     "summary_zh": "建立闭环多尺度计算框架，通过熵分解方法预测高熵合金的压热效应和相变机制。",
@@ -2261,84 +598,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7170967883",
-    "doi": "10.1016/j.actamat.2026.122584",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122584",
-    "title_en": "Kinetic phase selection enables wide-temperature strength-ductility synergy in additively manufactured Al0.3CoCrFeNiMn high-entropy alloy",
-    "date": "2026-07-24",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "动力学相选择赋予增材制造Al₀.₃CoCrFeNiMn高熵合金宽温域强塑性协同",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "通过增材制造过程中的动力学相选择调控，实现Al₀.₃CoCrFeNiMn高熵合金从低温到高温的宽温域强塑性协同。",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "高熵合金",
-      "增材制造",
-      "动力学相选择",
-      "强塑性协同"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7170574336",
-    "doi": "10.1016/j.actamat.2026.122591",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122591",
-    "title_en": "Frustrating dislocation resistance inhomogeneity at multiscale levels to enable strength-ductility synergy in multi-principal element alloys",
-    "date": "2026-07-24",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
-    "title_zh": "在多尺度层次抑制位错阻力不均匀性以实现多主元合金的强塑性协同",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "通过多尺度层次设计消除位错阻力不均匀性，突破多主元合金强度–塑性权衡。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "多主元合金",
-      "位错",
-      "强塑性协同",
-      "多尺度"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7170694801",
-    "doi": "10.1002/advs.76697",
-    "url": "https://doi.org/10.1002/advs.76697",
-    "title_en": "Ductile B2 Intermetallics‐Driven Strength‐Ductility Synergy in Heterolaminated Multi‐Principal Element Alloys",
-    "date": "2026-07-24",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "Conventional intermetallic-strengthened alloys invariably suffer from a strength-ductility trade-off, as brittle η, σ, and µ phases precipitate at interfaces and trigger premature failure. Here, we overturn this paradigm in a multi-principal element alloy (MPEA) by deliberately engineering its B2 intermetallic phase to act not as a crack-initiator, but as a ductile, load-bearing constituent. Through intrinsic phase toughening enabled by multicomponent chemical complexity, pre-existing dislocations, and local compositional fluctuations, we demonstrate that the B2 phase can sustain continuous dislocation glide and multiplication. Simultaneously, we impose a heterogeneous laminated architecture of face-centered cubic (FCC) and B2 domains, which promotes strain delocalization and redistributes stress to suppress interface cracking. The resulting synergy culminates in an exceptional combination of mechanical properties at room temperature: a yield strength of 1.24 GPa, an ultimate tensile strength of 1.57 GPa, and 20% uniform elongation, along with a high strain hardening rate exceeding 3 GPa across a wide strain range. These findings establish a new design strategy through integrating ductile intermetallic phases with mesoscale heterogeneity to overcome the long-standing strength-ductility trade-off in structural materials.",
-    "matched": [
-      "multi-principal element alloys"
-    ],
-    "title_zh": "韧性B2金属间化合物驱动的异质叠层多主元合金强塑性协同",
-    "abstract_zh": "传统金属间化合物强化合金不可避免地受到强塑性权衡困扰，因为脆性η、σ和µ相在界面处析出并引发过早失效。本研究通过刻意将多主元合金中的B2金属间化合物相工程化为延性承载组元（而非裂纹源），颠覆了这一范式。",
-    "summary_zh": "通过将B2金属间化合物工程化为延性承载相，结合异质叠层结构设计，克服了传统金属间化合物强化合金的强塑性权衡困境。",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "多主元合金",
-      "B2金属间化合物",
-      "异质叠层",
-      "强塑性协同"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7170189352",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122583",
     "url": "https://doi.org/10.1016/j.actamat.2026.122583",
@@ -2363,33 +622,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7170189352",
-    "doi": "10.1016/j.actamat.2026.122583",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122583",
-    "title_en": "From heat capacity to Gibbs energy: An experimental thermodynamic route for single-phase high-entropy alloys",
-    "date": "2026-07-23",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "compositionally complex alloys",
-      "high-entropy alloys"
-    ],
-    "title_zh": "从热容到吉布斯能：单相高熵合金的实验热力学路径",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "建立了从热容出发实验测定单相高熵合金吉布斯自由能的热力学路径，为相稳定性计算提供实验基准。",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "高熵合金",
-      "热力学",
-      "吉布斯能",
-      "相稳定性"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7169851070",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122578",
     "url": "https://doi.org/10.1016/j.actamat.2026.122578",
@@ -2400,32 +632,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "multi-principal element alloys",
-    "title_zh": "通过化学中程有序提升增材制造体心立方多主元合金的强度与塑性",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "在增材制造BCC多主元合金中引入化学中程有序，协同提升强度与塑性。",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "多主元合金",
-      "增材制造",
-      "化学中程有序",
-      "BCC"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7169851070",
-    "doi": "10.1016/j.actamat.2026.122578",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122578",
-    "title_en": "Enhancing the strength and ductility of an additive-manufactured body-centered-cubic multi-principal-element alloy by chemical medium-range order",
-    "date": "2026-07-21",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
     "title_zh": "通过化学中程有序提升增材制造体心立方多主元合金的强度与塑性",
     "abstract_zh": "（无摘要）",
     "summary_zh": "在增材制造BCC多主元合金中引入化学中程有序，协同提升强度与塑性。",
@@ -2490,32 +696,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7169438142",
-    "doi": "10.1016/j.actamat.2026.122543",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122543",
-    "title_en": "Ni diffusion in the equiatomic CoFeMnNiV high-entropy alloy: Unexpected impact of second-phase precipitation on bulk diffusion rates",
-    "date": "2026-07-16",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "Ni diffusion in the equiatomic CoFeMnNiV high-entropy alloy is measured over an extended temperature range that covers both single-phase (face-centered cubic, FCC, solid solution) as well as two-phase (FCC solid solution + σ -phase) states. In addition, Ni diffusion experiments were performed on a single-phase σ -alloy. The σ -phase precipitation is found to affect significantly the self-diffusion kinetics in the FCC solid solution. The measured tracer diffusion coefficients follow an Arrhenius-type relationship when estimated in the single-phase solid solution, and a characteristic enhancement of the Ni diffusivity is observed at lower temperatures when the σ -phase precipitates during the diffusion annealing treatments. The enhancement is significantly suppressed when the alloy is pre-aged to approach a nearly equilibrium σ -phase volume fraction at a given temperature. Since Ni volume diffusion in the σ -phase was found to be similar to that in the FCC equiatomic counterpart, the observed diffusion enhancement is attributed to an excess vacancy concentration, generated during the growth of σ -precipitates. This excess gets eliminated when approaching thermodynamic equilibrium, i.e., when precipitation ends. A simple model of the diffusion enhancement during precipitation is proposed.",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "CoFeMnNiV等原子比高熵合金中Ni的扩散：第二相析出对体扩散速率的意外影响",
-    "abstract_zh": "在覆盖单相（FCC固溶体）和两相（FCC固溶体+σ相）状态的宽温度范围内测量了等原子比CoFeMnNiV高熵合金中Ni的扩散。此外还在单相σ合金中进行了Ni扩散实验。发现σ相析出显著影响自扩散速率。",
-    "summary_zh": "发现σ相析出对CoFeMnNiV高熵合金中Ni体扩散速率有显著且出乎意料的加速效应，揭示了第二相对多组元合金扩散行为的复杂影响。",
-    "subtopic": "微观组织/相–力学关联",
-    "keywords": [
-      "高熵合金",
-      "扩散",
-      "σ相",
-      "析出"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7168143166",
     "doi": "10.1038/s41467-026-75563-y",
     "url": "https://doi.org/10.1038/s41467-026-75563-y",
@@ -2553,32 +733,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "multi-principal element alloys",
-    "title_zh": "TiZrNbTaV多主元合金中缺陷介导的元素偏析与局部化学有序",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "揭示TiZrNbTaV多主元合金中点缺陷介导元素偏析并诱导局部化学有序的微观机制。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "多主元合金",
-      "缺陷",
-      "元素偏析",
-      "化学有序"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7167834538",
-    "doi": "10.1016/j.actamat.2026.122539",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122539",
-    "title_en": "Defect-mediated elemental segregation and local chemical ordering in TiZrNbTaV multi-principal element alloys",
-    "date": "2026-07-09",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
     "title_zh": "TiZrNbTaV多主元合金中缺陷介导的元素偏析与局部化学有序",
     "abstract_zh": "（无摘要）",
     "summary_zh": "揭示TiZrNbTaV多主元合金中点缺陷介导元素偏析并诱导局部化学有序的微观机制。",
@@ -2641,84 +795,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7167627904",
-    "doi": "10.1016/j.actamat.2026.122534",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122534",
-    "title_en": "Grain-size-dependent dynamic mechanical response and plastic deformation of the FeCoCrMnNi high-entropy alloy during high-strain-rate impact",
-    "date": "2026-07-07",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "晶粒尺寸对FeCoCrMnNi高熵合金高应变率冲击动态力学响应与塑性变形的影响",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "系统研究晶粒尺寸对FeCoCrMnNi高熵合金在高应变率冲击下动态力学行为和塑性变形机制的影响规律。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "高熵合金",
-      "晶粒尺寸",
-      "高应变率",
-      "动态力学"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7167623446",
-    "doi": "10.1016/j.actamat.2026.122532",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122532",
-    "title_en": "Solute-defect interaction and oxidation govern high-temperature low-cycle fatigue in Mo-added CoCrNi-based multi-principal element alloy",
-    "date": "2026-07-07",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
-    "title_zh": "溶质–缺陷交互作用与氧化共同控制Mo添加CoCrNi基多主元合金的高温低周疲劳",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "揭示Mo添加CoCrNi基合金中溶质–缺陷交互作用与高温氧化协同决定低周疲劳寿命的机制。",
-    "subtopic": "断裂/疲劳",
-    "keywords": [
-      "多主元合金",
-      "高温疲劳",
-      "溶质缺陷交互",
-      "氧化"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7167518430",
-    "doi": "10.1002/advs.76407",
-    "url": "https://doi.org/10.1002/advs.76407",
-    "title_en": "Chemically Gradient Ordered Nanodomains Enable Large Tensile Ductility in Gigapascal Lightweight Refractory High‐Entropy Alloys",
-    "date": "2026-07-06",
-    "year": 2026,
-    "issn": "2198-3844",
-    "journal": "Advanced Science",
-    "abstract_en": "ABSTRACT High‐strength lightweight refractory alloys are vital components serving in harsh environments with high mechanical loads at elevated temperatures, e.g., in aero‐engines and hypersonic vehicles. Despite the long‐term efforts on strengthening these materials, they usually show low ductility, particularly at room temperature, severely limiting their practical applications. Here, we introduce a concept to design extraordinarily ductile high‐strength lightweight refractory high‐entropy alloys (RHEAs) by introducing dispersed chemically gradient ordered nanodomains (CGONs, 1–3 nm) coherent with the disordered matrix. Chemical composition of the shell in the CGON is similar to that of the adjacent disordered matrix, and it varies gradually from the shell to the core. Such architecture not only enhances the thermodynamic stability of the CGONs but also facilitates stress transfer across the interfaces by reducing interfacial strain energy. The concept is realized in an Nb‐Zr‐Ti‐Ta‐Al RHEA system showing low mass density of 6.48 g/cm 3 , large uniform tensile elongation of 21.5%, elongation‐to‐failure of 47.8%, and high yield strength exceeding 1.0 GPa at room temperature. Further, the enhanced thermal stability of the CGONs contributes to the excellent high‐temperature performance of the lightweight RHEA. The provided insights are thus important in guiding the development of ductile and ultra‐strong lightweight refractory materials for key engineering applications.",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "化学梯度有序纳米畴赋予吉帕斯卡级轻质难熔高熵合金大拉伸延伸率",
-    "abstract_zh": "高强度轻质难熔合金是在苛刻环境下服役的关键结构材料，如航空发动机和高超声速飞行器。尽管在强化方面进行了长期努力，这类材料通常在室温下表现出低延伸率，严重限制了实际应用。本研究在轻质难熔高熵合金中引入化学梯度有序纳米畴。",
-    "summary_zh": "在GPa级轻质难熔高熵合金中引入化学梯度有序纳米畴，突破其室温强度与塑性的长期矛盾，实现大拉伸延伸率。",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "难熔高熵合金",
-      "轻质合金",
-      "化学梯度有序",
-      "强塑性协同"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7167358499",
     "doi": "https://doi.org/10.1016/j.actamat.2026.122513",
     "url": "https://doi.org/10.1016/j.actamat.2026.122513",
@@ -2732,32 +808,6 @@
     "title_zh": "短程有序对单晶CoCrFeMnNi高熵合金空洞生长的影响",
     "abstract_zh": "（无摘要）",
     "summary_zh": "阐明短程有序对CoCrFeMnNi单晶高熵合金中空洞形核与生长行为的影响机制。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "高熵合金",
-      "短程有序",
-      "空洞生长",
-      "断裂"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7167358499",
-    "doi": "10.1016/j.actamat.2026.122513",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122513",
-    "title_en": "Effects of short-range order on void growth in single-crystalline CoCrFeMnNi high-entropy alloys",
-    "date": "2026-07-04",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "短程有序对单晶CoCrFeMnNi高熵合金空洞生长的影响",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "阐明短程有序对CoCrFeMnNi单晶高熵合金中空洞形核与生长的影响机制。",
     "subtopic": "变形机制/位错·孪生",
     "keywords": [
       "高熵合金",
@@ -2805,32 +855,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "multi-principal element alloys",
-    "title_zh": "Cr调控κ相可剪切性与层错能实现CoNiV基多主元合金的异质变形强化",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "通过Cr元素调控CoNiV基多主元合金中κ相可剪切性和层错能，激活异质变形诱导强化机制提升力学性能。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "多主元合金",
-      "层错能",
-      "κ相",
-      "异质变形"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7167053374",
-    "doi": "10.1016/j.actamat.2026.122516",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122516",
-    "title_en": "Cr-mediated modulation of κ-phase shearability and stacking fault energy enabling hetero-deformation strengthening in CoNiV-based multi-principal element alloys",
-    "date": "2026-07-02",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "multi-principal element alloys"
-    ],
     "title_zh": "Cr调控κ相可剪切性与层错能实现CoNiV基多主元合金的异质变形强化",
     "abstract_zh": "（无摘要）",
     "summary_zh": "通过Cr元素调控CoNiV基多主元合金中κ相可剪切性和层错能，激活异质变形诱导强化机制提升力学性能。",
@@ -2910,32 +934,6 @@
     "title_zh": "过渡金属碳化物与氮化物合金中价电子关联的位错分解与滑移机制",
     "abstract_zh": "高熵合金化被广泛用于缓解过渡金属碳化物（TMCs）和氮化物（TMNs）的本征脆性，但位错控制机制仍不完整。本研究在Peierls-Nabarro框架内开发了确定Peierls应力的新方法，研究了层错能和位错核心结构。",
     "summary_zh": "建立新方法揭示高熵碳化物/氮化物中价电子浓度通过调控层错能决定位错分解与滑移机制，为韧化设计提供理论基础。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "高熵合金",
-      "碳化物",
-      "位错",
-      "层错能"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7166468821",
-    "doi": "10.1016/j.actamat.2026.122505",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122505",
-    "title_en": "Valence-electron-associated dislocation dissociation and glide mechanisms in transition-metal carbide and nitride alloys",
-    "date": "2026-06-28",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "Conventional and high-entropy alloying are widely employed to mitigate the intrinsic brittleness of transition-metal carbides (TMCs) and nitrides (TMNs), yet the underlying dislocation-controlled mechanisms remain incompletely understood. In this work, we developed a new approach to determine the Peierls stress within the Peierls-Nabarro framework, and investigated the stacking fault energies and associated dislocation properties of pure TMCs, TMNs, and their alloys. For compounds with valence electron concentration (VEC) exceeding 8 electrons per formula unit (e - /f.u.), full a / 2 〈 110 〉 { 111 } dislocations dissociate into Shockley partials, enabling stepwise glide, substantially reducing the Peierls stress, and thereby facilitating activation of the 〈110〉{111} slip system, consistent with experimental observations. For compounds with VEC ≤8 e - /f.u., the absence of an intrinsic stacking fault suppresses dislocation dissociation, resulting in large Peierls stresses. Extending these insights to both conventional and high-entropy alloys, higher-VEC solutes promote dissociation and reduce the Peierls stress, whereas lower-VEC solutes exert the opposite effect, and same-group element doping has only a minor influence. These findings lay the groundwork for elucidating the dislocation-relevant mechanism underlying alloying-induced tailoring of mechanical performance in TMC and TMN alloys.",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "过渡金属碳化物与氮化物合金中价电子关联的位错分解与滑移机制",
-    "abstract_zh": "高熵合金化被广泛用于缓解过渡金属碳化物（TMCs）和氮化物（TMNs）的本征脆性，但位错控制机制仍不完整。本研究在Peierls-Nabarro框架内开发了确定Peierls应力的新方法，研究了层错能和位错核心结构。",
-    "summary_zh": "建立新方法揭示高熵碳化物/氮化物中价电子浓度通过调控层错能来决定位错分解与滑移机制的规律，为韧化设计提供理论基础。",
     "subtopic": "变形机制/位错·孪生",
     "keywords": [
       "高熵合金",
@@ -3047,58 +1045,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7165855032",
-    "doi": "10.1016/j.actamat.2026.122496",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122496",
-    "title_en": "Dynamic coupling of TRIP effect and hetero-deformation-induced (HDI) hardening in a hierarchical eutectic high-entropy alloy",
-    "date": "2026-06-25",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "TRIP效应与异质变形诱导硬化在层级共晶高熵合金中的动态耦合",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "揭示层级共晶高熵合金中TRIP效应与HDI硬化的动态耦合协同机制，协同实现高强度与大塑性。",
-    "subtopic": "塑性/强韧平衡",
-    "keywords": [
-      "共晶高熵合金",
-      "相变诱导塑性",
-      "TRIP",
-      "HDI硬化"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7165862362",
-    "doi": "10.1016/j.actamat.2026.122495",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122495",
-    "title_en": "Strengthening and hydrogen-embrittlement resistance via in situ TiC reprecipitation in an additively manufactured high-entropy alloy",
-    "date": "2026-06-25",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "通过原位TiC再析出提升增材制造高熵合金的强化与抗氢脆性",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "在增材制造高熵合金中利用原位TiC再析出同时提升强度与抗氢脆性能，为增材制造合金抗氢设计提供新路径。",
-    "subtopic": "辐照/腐蚀–力学",
-    "keywords": [
-      "高熵合金",
-      "增材制造",
-      "TiC析出",
-      "氢脆"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7165793119",
     "doi": "10.1016/j.scriptamat.2026.117460",
     "url": "https://doi.org/10.1016/j.scriptamat.2026.117460",
@@ -3164,31 +1110,6 @@
     "title_zh": "通过局部化学涨落促进难熔高熵合金中的应变去局域化",
     "abstract_zh": "（无摘要）",
     "summary_zh": "利用局部化学涨落调控难熔高熵合金中应变分布，实现应变去局域化以提升均匀变形能力。",
-    "subtopic": "变形机制/位错·孪生",
-    "keywords": [
-      "难熔高熵合金",
-      "化学涨落",
-      "应变去局域化"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7165673330",
-    "doi": "10.1016/j.actamat.2026.122491",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122491",
-    "title_en": "Promoting strain delocalization in refractory high-entropy alloys via local chemical fluctuations",
-    "date": "2026-06-23",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "通过局部化学涨落促进难熔高熵合金中的应变去局域化",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "利用局部化学涨落调控难熔高熵合金中应变分布，实现应变去局域化以提升整体均匀变形能力。",
     "subtopic": "变形机制/位错·孪生",
     "keywords": [
       "难熔高熵合金",
@@ -3302,32 +1223,6 @@
     "added_on": "2026-08-14"
   },
   {
-    "id": "https://openalex.org/W7165033730",
-    "doi": "10.1016/j.actamat.2026.122459",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122459",
-    "title_en": "Suppression of dynamic recovery via localized solute pinning for superior high-temperature strength in a lightweight refractory medium-entropy alloy",
-    "date": "2026-06-17",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
-    "title_zh": "通过局域溶质钉扎抑制动态回复实现轻质难熔中熵合金的优异高温强度",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "利用局域溶质钉扎机制抑制动态回复过程，显著提升轻质难熔中熵合金的高温强度。",
-    "subtopic": "蠕变/高温力学",
-    "keywords": [
-      "难熔中熵合金",
-      "轻质合金",
-      "溶质钉扎",
-      "高温强度"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
     "id": "https://openalex.org/W7164857946",
     "doi": "10.1016/j.scriptamat.2026.117448",
     "url": "https://doi.org/10.1016/j.scriptamat.2026.117448",
@@ -3364,32 +1259,6 @@
     "journal": "Acta Materialia",
     "abstract_en": "",
     "matched": "high-entropy alloys",
-    "title_zh": "超微量硼添加对激光粉末床熔融共晶高熵合金凝固行为与韧性的影响",
-    "abstract_zh": "（无摘要）",
-    "summary_zh": "研究超微量硼添加对LPBF共晶高熵合金凝固微观组织和韧性的影响，为增材制造合金韧化提供新途径。",
-    "subtopic": "增材制造/加工–力学",
-    "keywords": [
-      "共晶高熵合金",
-      "激光粉末床熔融",
-      "硼",
-      "韧性"
-    ],
-    "new": false,
-    "added_on": "2026-08-14"
-  },
-  {
-    "id": "https://openalex.org/W7164315320",
-    "doi": "10.1016/j.actamat.2026.122439",
-    "url": "https://doi.org/10.1016/j.actamat.2026.122439",
-    "title_en": "The effect of ultra-dilute boron addition on solidification behavior and toughness of a laser powder bed fused eutectic high-entropy alloy",
-    "date": "2026-06-11",
-    "year": 2026,
-    "issn": "1359-6454",
-    "journal": "Acta Materialia",
-    "abstract_en": "",
-    "matched": [
-      "high-entropy alloys"
-    ],
     "title_zh": "超微量硼添加对激光粉末床熔融共晶高熵合金凝固行为与韧性的影响",
     "abstract_zh": "（无摘要）",
     "summary_zh": "研究超微量硼添加对LPBF共晶高熵合金凝固微观组织和韧性的影响，为增材制造合金韧化提供新途径。",
