@@ -70,6 +70,8 @@ header{border-bottom:1px solid var(--line);background:var(--paper)}
   border-radius:8px;font-size:13px;color:#5f4d12;display:flex;gap:10px;align-items:flex-start}
 .banner b{color:#4a3c0e}
 .banner .x{margin-left:auto;cursor:pointer;color:#8a7327;border:none;background:none;font-size:16px;line-height:1;padding:0 2px}
+.banner.warn{border-style:solid;border-color:#B4432E;background:#F7E7E2;color:#7a2c1c}
+.banner.warn b{color:#5c2013}
 
 /* ---- groups & cards ---- */
 main{padding:8px 0 80px}
@@ -348,11 +350,28 @@ function render(){
   });
 }
 
+function fabricationIssues(){
+  const dois=DATA.map(p=>(p.doi||'').replace('https://doi.org/','').toLowerCase()).filter(Boolean);
+  const dupes=dois.length-new Set(dois).size;
+  const fakeId=DATA.filter(p=>/W9{4,}\d*$/.test((p.id||''))).length;
+  const placeholder=DATA.filter(p=>/-20\d\d-0{3,}\d$/.test(p.doi||'')||/\/0{3,}\d+$/.test((p.doi||'').replace('https://doi.org/',''))).length;
+  return {dupes,fakeId,placeholder,bad:!!(dupes||fakeId||placeholder)};
+}
 function banner(){
   const b=document.getElementById('banner');
-  if(!IS_SAMPLE){b.innerHTML='';return;}
-  b.innerHTML=`<div class="banner"><span>▲</span><span><b>这是示例占位数据</b>，仅用于预览页面。启用 <code style="font-family:var(--mono)">api.openalex.org</code> 后运行一次，真实检索结果会替换它们。</span><button class="x" aria-label="关闭">×</button></div>`;
-  b.querySelector('.x').onclick=()=>b.innerHTML='';
+  if(IS_SAMPLE){
+    b.innerHTML=`<div class="banner"><span>▲</span><span><b>这是示例占位数据</b>，仅用于预览页面。启用 <code style="font-family:var(--mono)">api.openalex.org</code> 后运行一次，真实检索结果会替换它们。</span><button class="x" aria-label="关闭">×</button></div>`;
+    b.querySelector('.x').onclick=()=>b.innerHTML=''; return;
+  }
+  const f=fabricationIssues();
+  if(f.bad){
+    const parts=[];
+    if(f.placeholder)parts.push(`${f.placeholder} 条占位式 DOI`);
+    if(f.fakeId)parts.push(`${f.fakeId} 条伪造 OpenAlex id`);
+    if(f.dupes)parts.push(`${f.dupes} 条重复 DOI`);
+    b.innerHTML=`<div class="banner warn"><span>⚠</span><span><b>数据可能非真实（疑似编造）</b>：检测到 ${parts.join('、')}。真实抓取的结果不会出现这些。建议丢弃此 db.json，在新对话里重新运行 skill 生成。</span><button class="x" aria-label="关闭">×</button></div>`;
+    b.querySelector('.x').onclick=()=>b.innerHTML='';
+  } else { b.innerHTML=''; }
 }
 
 (async function(){
