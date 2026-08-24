@@ -76,9 +76,21 @@ header{border-bottom:1px solid var(--line);background:var(--paper)}
 /* ---- groups & cards ---- */
 main{padding:8px 0 80px}
 .grp{margin-top:26px}
-.grp-h{display:flex;align-items:baseline;gap:10px;padding:0 0 10px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.grp-h{display:flex;align-items:baseline;gap:10px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;
+  background:var(--card);margin-bottom:14px;cursor:pointer;user-select:none;transition:background .12s}
+.grp-h:hover{background:var(--accent-soft)}
+.grp-h:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .grp-h .t{font-size:15px;font-weight:600;letter-spacing:-.01em}
 .grp-h .n{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.grp-h .gchev{font-family:var(--mono);font-size:12px;color:var(--muted);transition:transform .15s;display:inline-block;width:12px;text-align:center}
+.grp.collapsed .grp-h{margin-bottom:0}
+.grp.collapsed .grp-h .gchev{transform:rotate(-90deg)}
+.grp.collapsed .grid{display:none}
+.grp+.grp{margin-top:8px}
+.segbtn{font-family:var(--mono);font-size:11px;letter-spacing:.03em;padding:8px 11px;cursor:pointer;color:var(--muted);
+  border:none;border-right:1px solid var(--line2);background:var(--card);white-space:nowrap}
+.segbtn:last-child{border-right:none}
+.segbtn:hover{background:var(--accent-soft);color:var(--accent-ink)}
 .grid{display:flex;flex-direction:column;gap:12px}
 
 .card{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:16px 18px;
@@ -90,6 +102,10 @@ main{padding:8px 0 80px}
 .jtile .c{font-size:17px;line-height:1}
 .jtile .y{font-size:9px;margin-top:3px;opacity:.7}
 .rail .date{font-family:var(--mono);font-size:10.5px;color:var(--faint);letter-spacing:.02em}
+.rail .added{font-family:var(--mono);font-size:9.5px;color:var(--accent);background:var(--accent-soft);
+  padding:2px 5px;border-radius:4px;letter-spacing:.02em;white-space:nowrap}
+.grp-h .latest{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;
+  background:var(--new-soft);color:var(--new);padding:2px 6px;border-radius:4px}
 .rail .newtag{font-family:var(--mono);font-size:9px;letter-spacing:.08em;background:var(--new-soft);color:var(--new);
   padding:2px 5px;border-radius:4px;text-transform:uppercase}
 
@@ -170,6 +186,7 @@ footer .mono{font-family:var(--mono);letter-spacing:.03em}
     <span class="ctl-lbl">分组</span>
     <div class="seg" id="groupSeg" role="group" aria-label="分组方式">
       <input type="radio" name="grp" id="g-topic" value="topic" checked><label for="g-topic">子主题</label>
+      <input type="radio" name="grp" id="g-added" value="added"><label for="g-added">上传日期</label>
       <input type="radio" name="grp" id="g-journal" value="journal"><label for="g-journal">期刊</label>
       <input type="radio" name="grp" id="g-kw" value="keyword"><label for="g-kw">关键词</label>
       <input type="radio" name="grp" id="g-year" value="year"><label for="g-year">年份</label>
@@ -178,6 +195,10 @@ footer .mono{font-family:var(--mono);letter-spacing:.03em}
     <div class="seg" id="sortSeg" role="group" aria-label="排序">
       <input type="radio" name="srt" id="s-new" value="new" checked><label for="s-new">最新</label>
       <input type="radio" name="srt" id="s-old" value="old"><label for="s-old">最早</label>
+    </div>
+    <div class="seg" role="group" aria-label="折叠">
+      <button type="button" id="expandAll" class="segbtn">展开全部</button>
+      <button type="button" id="collapseAll" class="segbtn">折叠全部</button>
     </div>
   </div>
 </div>
@@ -244,7 +265,15 @@ const SAMPLE = [
    doi:"10.0000/sample.3"}
 ];
 
-let DATA = [], IS_SAMPLE=false, ACTIVE_J=new Set();
+let DATA = [], IS_SAMPLE=false, ACTIVE_J=new Set(), COLLAPSED=new Set();
+
+// When grouping by upload date, collapse every batch except the newest,
+// so old days become a compact clickable index instead of an endless scroll.
+function setAddedDefault(){
+  COLLAPSED=new Set();
+  const days=[...new Set(DATA.map(p=>p.added_on).filter(Boolean))].sort((a,b)=>b.localeCompare(a));
+  days.slice(1).forEach(d=>COLLAPSED.add('added|'+d));
+}
 
 async function load(){
   try{
@@ -292,12 +321,13 @@ function groupRows(rows){
   const push=(k,p)=>{(g[k]=g[k]||[]).push(p)};
   rows.forEach(p=>{
     if(by==='topic') push(p.subtopic||'未分类',p);
+    else if(by==='added') push(p.added_on||'未记录',p);
     else if(by==='journal') push(jinfo(p).name,p);
     else if(by==='year') push(String(p.year||'—'),p);
     else (p.keywords&&p.keywords.length?p.keywords:['未标注']).forEach(k=>push(k,p));
   });
   let keys=Object.keys(g);
-  if(by==='year') keys.sort((a,b)=>b.localeCompare(a));
+  if(by==='year'||by==='added') keys.sort((a,b)=>b.localeCompare(a));
   else keys.sort((a,b)=>g[b].length-g[a].length);
   return {g,keys,by};
 }
@@ -313,6 +343,7 @@ function card(p){
     <div class="rail">
       <div class="jtile" style="background:${j.bg};color:${j.ink}"><span class="c">${j.code}</span><span class="y">${esc(p.year||'')}</span></div>
       <span class="date">${esc(p.date||'')}</span>
+      ${p.added_on?`<span class="added" title="收录于 ${esc(p.added_on)}">收录 ${esc(p.added_on).slice(5)}</span>`:''}
       ${p.new?'<span class="newtag">new</span>':''}
     </div>
     <div class="body">
@@ -343,10 +374,27 @@ function render(){
     return;
   }
   const {g,keys,by}=groupRows(rows);
-  out.innerHTML=keys.map(k=>`<section class="grp">
-      <div class="grp-h"><span class="t">${esc(k)}</span><span class="n">${g[k].length} 篇</span></div>
+  const newest=latestBatch();
+  out.innerHTML=keys.map(k=>{
+    let head=esc(k), extra='';
+    if(by==='added'){
+      head='收录 '+esc(k);
+      if(k===newest) extra=' <span class="latest">最新一批</span>';
+    }
+    const ck=by+'|'+k;
+    const collapsed=COLLAPSED.has(ck);
+    return `<section class="grp${collapsed?' collapsed':''}" data-ck="${esc(ck)}">
+      <div class="grp-h" role="button" tabindex="0" aria-expanded="${!collapsed}">
+        <span class="gchev">▾</span><span class="t">${head}</span><span class="n">${g[k].length} 篇</span>${extra}</div>
       <div class="grid">${g[k].map(card).join('')}</div>
-    </section>`).join('');
+    </section>`;
+  }).join('');
+  out.querySelectorAll('.grp-h').forEach(h=>{
+    const sec=h.closest('.grp'), ck=sec.getAttribute('data-ck');
+    const toggle=()=>{const c=sec.classList.toggle('collapsed');h.setAttribute('aria-expanded',!c);c?COLLAPSED.add(ck):COLLAPSED.delete(ck);};
+    h.onclick=toggle;
+    h.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle();}};
+  });
   out.querySelectorAll('.abs-toggle').forEach(btn=>{
     btn.onclick=()=>{const a=btn.closest('.body').querySelector('.abs');const o=a.classList.toggle('open');
       btn.setAttribute('aria-expanded',o);btn.lastChild.textContent=o?'收起摘要':'展开摘要';};
@@ -382,7 +430,19 @@ function banner(){
   document.getElementById('stamp').textContent = IS_SAMPLE ? 'preview · sample data' : ('updated '+(latestBatch()||'—'));
   banner(); render();
   document.getElementById('q').addEventListener('input',render);
-  document.querySelectorAll('input[name=grp],input[name=srt]').forEach(r=>r.addEventListener('change',render));
+  document.querySelectorAll('input[name=grp]').forEach(r=>r.addEventListener('change',e=>{
+    if(e.target.value==='added') setAddedDefault(); else COLLAPSED.clear();
+    render();
+  }));
+  document.querySelectorAll('input[name=srt]').forEach(r=>r.addEventListener('change',render));
+  document.getElementById('expandAll').onclick=()=>{
+    document.querySelectorAll('.grp').forEach(s=>{s.classList.remove('collapsed');
+      s.querySelector('.grp-h').setAttribute('aria-expanded',true);COLLAPSED.delete(s.getAttribute('data-ck'));});
+  };
+  document.getElementById('collapseAll').onclick=()=>{
+    document.querySelectorAll('.grp').forEach(s=>{s.classList.add('collapsed');
+      s.querySelector('.grp-h').setAttribute('aria-expanded',false);COLLAPSED.add(s.getAttribute('data-ck'));});
+  };
 })();
 </script>
 </body>
