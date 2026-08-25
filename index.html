@@ -115,6 +115,13 @@ main{padding:8px 0 80px}
   font-family:var(--cjk);font-size:13.5px;color:var(--accent-ink);line-height:1.5}
 .summary .lb{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);
   display:block;margin-bottom:3px;opacity:.85}
+.byline{margin-top:9px;font-size:12.5px;color:var(--ink);line-height:1.55}
+.affils{margin-top:4px;font-size:11.5px;color:var(--muted);line-height:1.55}
+.byline .lb,.affils .lb{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);
+  margin-right:7px;vertical-align:1px}
+.byline .more,.affils .more{color:var(--faint)}
+.affils .inst{white-space:normal}
+.affils .sep{color:var(--faint);margin:0 6px}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
 .tag{font-family:var(--mono);font-size:10.5px;color:var(--muted);background:var(--line2);border-radius:5px;padding:3px 7px}
 .tag.kw{background:#fff;border:1px solid var(--line)}
@@ -309,7 +316,7 @@ function renderCells(){
 function currentFilter(){
   const q=document.getElementById('q').value.trim().toLowerCase();
   let rows=DATA.filter(p=>!ACTIVE_J.size||ACTIVE_J.has(p.issn));
-  if(q){ rows=rows.filter(p=>[p.title_en,p.title_zh,p.abstract_zh,p.abstract_en,p.summary_zh,(p.keywords||[]).join(' '),p.subtopic].join(' ').toLowerCase().includes(q)); }
+  if(q){ rows=rows.filter(p=>[p.title_en,p.title_zh,p.abstract_zh,p.abstract_en,p.summary_zh,(p.keywords||[]).join(' '),p.subtopic,(p.authors||[]).join(' '),(p.affiliations||[]).join(' ')].join(' ').toLowerCase().includes(q)); }
   const srt=document.querySelector('input[name=srt]:checked').value;
   rows.sort((a,b)=> srt==='new' ? (b.date||'').localeCompare(a.date||'') : (a.date||'').localeCompare(b.date||''));
   return rows;
@@ -339,6 +346,15 @@ function card(p){
   const href = p.url || (p.doi?('https://doi.org/'+p.doi):'');
   const link = href ? `<a class="doi read" href="${esc(href)}" target="_blank" rel="noopener">阅读原文 ↗</a>` : '';
   const doi = p.doi ? `<a class="doi" href="https://doi.org/${esc(p.doi)}" target="_blank" rel="noopener">DOI</a>` : '';
+  const AC=10, FC=4;
+  const authors=(p.authors||[]).filter(Boolean);
+  const affils=(p.affiliations||[]).filter(Boolean);
+  const byline = authors.length
+    ? `<div class="byline"><span class="lb">作者</span>${authors.slice(0,AC).map(esc).join('，')}${authors.length>AC?`<span class="more"> 等 ${authors.length} 人</span>`:''}</div>`
+    : '';
+  const affil = affils.length
+    ? `<div class="affils"><span class="lb">单位</span>${affils.slice(0,FC).map(a=>`<span class="inst">${esc(a)}</span>`).join('<span class="sep">·</span>')}${affils.length>FC?`<span class="more"> 等 ${affils.length} 家</span>`:''}</div>`
+    : '';
   return `<article class="card">
     <div class="rail">
       <div class="jtile" style="background:${j.bg};color:${j.ink}"><span class="c">${j.code}</span><span class="y">${esc(p.year||'')}</span></div>
@@ -349,6 +365,7 @@ function card(p){
     <div class="body">
       <div class="zh-t">${esc(p.title_zh||p.title_en||'')}</div>
       <div class="en-t">${esc(p.title_en||'')}</div>
+      ${byline}${affil}
       ${p.summary_zh?`<div class="summary"><span class="lb">结论 · 创新点</span>${esc(p.summary_zh)}</div>`:''}
       <div class="tags">${tags}</div>
       <div class="meta">

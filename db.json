@@ -20,7 +20,23 @@
       "功能材料"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "You Wu",
+      "Yanlong Li",
+      "Haitong Sun",
+      "Tao Liu",
+      "Kehai Liu",
+      "Kaihui Liu",
+      "Zhaoxia Sun",
+      "Wenbo Ju"
+    ],
+    "affiliations": [
+      "School of Physics and Optoelectronics South China University of Technology Guangzhou",
+      "Songshan Lake Materials Laboratory Dongguan",
+      "Tongling Weiyi New Material Co., Ltd. Tongling",
+      "State Key Laboratory of Artificial Microstructure and Mesoscopic Physics School of Physics Peking University Beijing"
+    ]
   },
   {
     "id": "https://openalex.org/W7202360797",
@@ -44,7 +60,18 @@
       "熵工程"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Zairan Luo",
+      "Qian Liu",
+      "Jiang Yi",
+      "Boyang Wu",
+      "Zhiqian Rao",
+      "Mujin Yang",
+      "Shi Shi",
+      "Shuai Wang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7196975768",
@@ -67,7 +94,14 @@
       "综述"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Mohsen Asle Zaeem",
+      "Peter K. Liaw"
+    ],
+    "affiliations": [
+      "Department of Materials Science and Engineering The University of Tennessee Knoxville Tennessee"
+    ]
   },
   {
     "id": "https://openalex.org/W7170694801",
@@ -91,7 +125,25 @@
       "位错"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Lu Yang",
+      "Feilong Jiang",
+      "Qiming Zhuang",
+      "Dingshan Liang",
+      "Jiasi Luo",
+      "Kangjie Chu",
+      "Junhua Luan",
+      "Zengbao Jiao",
+      "Robert O. Ritchie",
+      "Fuzeng Ren"
+    ],
+    "affiliations": [
+      "Department of Materials Science and Engineering Southern University of Science and Technology Shenzhen Guangdong",
+      "Department of Materials Science and Engineering City University of Hong Kong Hong Kong",
+      "Department of Mechanical Engineering The Hong Kong Polytechnic University Hong Kong",
+      "Department of Materials Science and Engineering University of California Berkeley California"
+    ]
   },
   {
     "id": "https://openalex.org/W7169541057",
@@ -114,7 +166,26 @@
       "非力学"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Xiaobo Tan",
+      "Xuri Rao",
+      "Huangshui Ma",
+      "Jiaxing Luo",
+      "Fan Feng",
+      "Zijian Lin",
+      "Ruiheng Li",
+      "Maoji Tian",
+      "Siqi Huo",
+      "Min Hong",
+      "Ran Ang"
+    ],
+    "affiliations": [
+      "Key Laboratory of Radiation Physics and Technology Institute of Nuclear Science and Technology Ministry of Education Sichuan University Chengdu",
+      "Centre for Future Materials Springfield Campus University of Southern Queensland Queensland",
+      "College of Physics Sichuan University Chengdu",
+      "Institute of New Energy and Low‐Carbon Technology Sichuan University Chengdu"
+    ]
   },
   {
     "id": "https://openalex.org/W7168143166",
@@ -138,7 +209,22 @@
       "增材制造"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Dongdong Zhang",
+      "Hengchao Shi",
+      "Jinyu Zhang",
+      "Jianjun Bian",
+      "Yating Ran",
+      "Qi Liu",
+      "Xuanlai Chen",
+      "Junhua Luan",
+      "Zengbao Jiao",
+      "Tao Yang",
+      "Jun Sun",
+      "Zibin Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7167814003",
@@ -162,7 +248,20 @@
       "成分设计"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Chao Xu",
+      "Dezhi Chen",
+      "Xiaofu Zhang",
+      "Qi Wang",
+      "Jingyue Yu",
+      "Shu Wang",
+      "Jingjie Guo",
+      "Hengzhi Fu",
+      "Ruirun Chen",
+      "Turab Lookman"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7167518430",
@@ -186,7 +285,17 @@
       "晶格畸变"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Wei Zhang",
+      "Dingshun Yan",
+      "Yong Zhang",
+      "Zhiming Li"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Central South University Changsha",
+      "State Key Laboratory of Powder Metallurgy Central South University Changsha"
+    ]
   },
   {
     "id": "https://openalex.org/W7166530591",
@@ -210,7 +319,25 @@
       "强度"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Da Wu",
+      "Bo Li",
+      "Yuzhi Shi",
+      "Cong Li",
+      "Eryong Liu",
+      "Xiaohu Hou",
+      "Yimin Gao",
+      "Tao Wu",
+      "Pucun Bai",
+      "Chenyu Liang"
+    ],
+    "affiliations": [
+      "State Key Laboratory For Mechanical Behaviour of Materials School of Materials Science and Engineering Xi'an Jiaotong University Xi'an People's Republic of",
+      "School of Materials Science and Engineering Xi'an University of Science and Technology Xi'an People's Republic of",
+      "School of Materials Science and Engineering Inner Mongolia University of Technology Hohhot People's Republic of",
+      "Instrumental Analysis Center of Xi'an Jiaotong University Xi'an Jiaotong University Xi'an People's Republic of"
+    ]
   },
   {
     "id": "https://openalex.org/W7165778512",
@@ -234,7 +361,17 @@
       "塑性"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Mintao Xue",
+      "Suzhi Li",
+      "Jing Wang",
+      "Jinyang Li",
+      "Xiangdong Ding",
+      "En Ma",
+      "Jun Sun"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7165629018",
@@ -258,7 +395,15 @@
       "强塑性"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Hemant Kumar",
+      "Praveen Kumar",
+      "Dierk Raabe",
+      "Baptiste Gault",
+      "Surendra Kumar Makineni"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7165569217",
@@ -282,7 +427,27 @@
       "应变梯度"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Dongdong Zhang",
+      "Jinyu Zhang",
+      "Mengyuan Hao",
+      "Jianjun Bian",
+      "Hengchao Shi",
+      "Ranming Niu",
+      "Julie Cairney",
+      "Song Ni",
+      "Kang Cheung Chan",
+      "Yiu Wing Mai",
+      "Min Song",
+      "Wenhai Ji",
+      "Ping Miao",
+      "Ting Zhu",
+      "Jun Sun",
+      "Evan Ma",
+      "Zibin Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7165032052",
@@ -306,7 +471,15 @@
       "塑性保持"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Arya Chatterjee",
+      "Soumita Mondal",
+      "Yu Lu",
+      "Yaqiao Wu",
+      "Janelle P. Wharry"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7164801580",
@@ -330,7 +503,22 @@
       "强塑性"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Xiaolu Wei",
+      "Yong Li",
+      "Chenchong Wang",
+      "Lingyu Wang",
+      "Xiang Song",
+      "Keming Mao",
+      "Yu Zhang",
+      "Wei Xu"
+    ],
+    "affiliations": [
+      "The State Key Laboratory of Digital Steel Northeastern University Shenyang",
+      "Software College Northeastern University Shenyang",
+      "Ansteel Beijing Research Institute Co., Ltd. Beijing"
+    ]
   },
   {
     "id": "https://openalex.org/W7164185885",
@@ -354,7 +542,29 @@
       "耐蚀"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Wenhua Wu",
+      "Yuxuan Zhao",
+      "Dong Qiu",
+      "Guofeng Zhang",
+      "Youyou Zhang",
+      "Yifan Zhao",
+      "Gang Sha",
+      "Mingxing Zhang",
+      "Hongbiao Dong",
+      "Hao Chen"
+    ],
+    "affiliations": [
+      "Key Laboratory for Advanced Materials of Ministry of Education, School of Materials Science and Engineering, Tsinghua University, Beijing 100084,",
+      "MOE Key Laboratory of Materials Physics and Chemistry under Extraordinary Conditions, School of Physical Science and Technology, Northwestern Polytechnical University, Xi’an 710072,",
+      "State Key Laboratory of Metallic Materials for Marine Equipment and Applications, Beijing 100084,",
+      "Centre for Additive Manufacturing, School of Engineering, RMIT University, Melbourne, VIC 3001,",
+      "School of Materials Science and Engineering/Herbert Gleiter Institute of Nanoscience, Nanjing University of Science and Technology, Nanjing 210094,",
+      "School of Mechanical and Mining Engineering, The University of Queensland, Brisbane, QLD 4072,",
+      "Department of Engineering, University of Leicester, Leicester LE1 7RH,",
+      "Institute for Materials Research, Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai 980-8577,"
+    ]
   },
   {
     "id": "https://openalex.org/W7162687757",
@@ -378,7 +588,19 @@
       "分级结构"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Hao Gong",
+      "Yushan Geng",
+      "Qing Wang",
+      "Zhaoqi Chen",
+      "Baisong Guo",
+      "Zhixin Li",
+      "Sijia Hu",
+      "Anding Wang",
+      "Yong Yang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7162343058",
@@ -402,7 +624,23 @@
       "高温合金"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Dezhi Chen",
+      "Chao Xu",
+      "Jingyue Yu",
+      "Qi Wang",
+      "Hongze Fang",
+      "Shuo Yin",
+      "Turab Lookman",
+      "Ruirun Chen"
+    ],
+    "affiliations": [
+      "National Key Laboratory For Precision Hot Processing of Metals Harbin Institute of Technology Harbin",
+      "Department of Mechanical Manufacturing and Biomedical Engineering Trinity College University of Dublin Dublin Ireland",
+      "State Key Laboratory For Mechanical Behavior of Materials State Key Laboratory of Porous Metal Materials School of Materials Science and Engineering Xi'an Jiatong University Xi'an",
+      "AiMaterials Research LLC Santa Fe New Mexico"
+    ]
   },
   {
     "id": "https://openalex.org/W7162123726",
@@ -426,7 +664,25 @@
       "低温力学"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Shaohua Gao",
+      "Yang Yang",
+      "Xiaoxuan Fan",
+      "Jinyu Zhang",
+      "Shuaiyang Liu",
+      "Jiao Li",
+      "Hui Wang",
+      "Wenli Song",
+      "Gang Liu",
+      "Jun Sun"
+    ],
+    "affiliations": [
+      "State Key Laboratory For Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
+      "College of Materials Science and Engineering Sichuan University Chengdu",
+      "Institute of High Energy Physics Chinese Academy of Sciences (CAS) Beijing",
+      "Spallation Neutron Source Science Center Dongguan"
+    ]
   },
   {
     "id": "https://openalex.org/W7162012302",
@@ -450,7 +706,20 @@
       "HCP"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Xiao‐Wei Zou",
+      "Ting Zhu",
+      "En Ma",
+      "Wei‐Zhong Han"
+    ],
+    "affiliations": [
+      "Department of Materials Science and Engineering City University of Hong Kong Hong Kong",
+      "Center For Advancing Materials Performance from the Nanoscale State Key Laboratory For Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
+      "George W Woodruff School of Mechanical Engineering Georgia Institute of Technology Atlanta Georgia",
+      "Center for Alloy Innovation and Design State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
+      "Department of Materials Science and Engineering Department of Mechanical Engineering City University of Hong Kong Hong Kong"
+    ]
   },
   {
     "id": "https://openalex.org/W7161643716",
@@ -474,7 +743,30 @@
       "综述"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Can Yang",
+      "Yu Chen",
+      "Chunguang Tang",
+      "Si Lan",
+      "Jun Tan",
+      "Heng Ye",
+      "Hua Chen",
+      "Zhifu Yao",
+      "Jürgen Eckert",
+      "Dongxian Zhang",
+      "Jian‐Zhong Jiang"
+    ],
+    "affiliations": [
+      "Sino‐German College of Intelligent Manufacturing Shenzhen Technology University Shenzhen Guangdong",
+      "Institute For Frontier Materials Deakin University Geelong Victoria",
+      "Herbert Gleiter Institute of Nanoscience School of Materials Science and Engineering Nanjing University of Science and Technology Nanjing",
+      "College of Materials Science and Engineering Chongqing University Chongqing",
+      "Shenzhen Focalon Applied Academy Shenzhen Practical Scientific Research Co., Ltd. Shenzhen Guangdong",
+      "Erich Schmid Institute of Materials Science Austrian Academy of Sciences Leoben",
+      "Department of Materials Science Montanuniversität Leoben Leoben",
+      "Key Laboratory of Silicon‐based Materials Key Laboratory of Automotive Glass of Fujian Smart Automotive Glass Engineering Research Center of Fujian The Ministry of Education and School of Materials Science and Engineering Fuyao University of Science and Technology Fuzhou"
+    ]
   },
   {
     "id": "https://openalex.org/W7160980604",
@@ -498,7 +790,21 @@
       "表面工程"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Kai Yan",
+      "Kangjie Chu",
+      "Maoli Wang",
+      "Peng Hua",
+      "Pengbo Wei",
+      "Hanlin Gu",
+      "Qiming Zhuang",
+      "Weifeng He",
+      "Qingping Sun",
+      "Robert O. Ritchie",
+      "Fuzeng Ren"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7160861634",
@@ -522,7 +828,22 @@
       "应变硬化"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Lei Gu",
+      "Wei Jiang",
+      "Qingzhong Mao",
+      "Xiang Chen",
+      "Yonghao Zhao"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Hohai University Changzhou",
+      "Jiangsu Provincial Engineering Research Center for Structure‐Function Integrated Metallic Materials For Harsh Environments School of Materials Science and Engineering Hohai University Changzhou",
+      "Innovation Center For Critical Materials in Hydraulic Infrastructure Safety and Water Environment Restoration School of Materials Science and Engineering Hohai University Changzhou",
+      "School of Materials Science and Engineering Anhui Polytechnic University Wuhu",
+      "Nano and Heterogeneous Materials Center School of Materials Science and Engineering Nanjing University of Science and Technology Nanjing",
+      "Institute of Materials Henan Academy of Sciences Zhengzhou"
+    ]
   },
   {
     "id": "https://openalex.org/W7160334014",
@@ -545,7 +866,18 @@
       "非力学"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Alexander Pröschel",
+      "Yunjia Zhang",
+      "Ming Chen",
+      "Kurt E. Star",
+      "Duncan Zavanelli",
+      "Sabah K. Bux",
+      "G. Jeffrey Snyder",
+      "David C. Dunand"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7158990926",
@@ -568,7 +900,18 @@
       "硅"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Pawel Maniewski",
+      "Robin Hartley",
+      "Timothy Lee",
+      "Matthew Whitaker",
+      "Bruno Moog",
+      "Martynas Beresna",
+      "Janice M. Dulieu-Barton",
+      "Christopher Holmes"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7159003421",
@@ -592,7 +935,29 @@
       "间隙原子"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yansheng Li",
+      "Jiawei Yin",
+      "Meiyuan Jiao",
+      "Tengfei Zheng",
+      "Yuan Wu",
+      "Shimiao Li",
+      "Guohui Zhang",
+      "Jiabin Yu",
+      "Yunzhuo Lu",
+      "Chun Shang",
+      "Haiou Yang",
+      "Yang He",
+      "Huihui Zhu",
+      "Sheng Zhang",
+      "Xiaobin Zhang",
+      "Xiongjun Liu",
+      "Suihe Jiang",
+      "Hui Wang",
+      "Zhaoping Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7155635144",
@@ -616,7 +981,26 @@
       "长周期堆垛"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yang Li",
+      "Tingting Chen",
+      "Shengyi Zhong",
+      "Haixing Fang",
+      "Pucong Sheng",
+      "Siming Ma",
+      "Han Chen",
+      "Yuchi Cui",
+      "Gang Ji",
+      "Yihao Wang",
+      "Yirui Chang",
+      "Lei Hu",
+      "Mingliang Wang",
+      "Shixin Nie",
+      "Haowei Wang",
+      "Zhe Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7155502770",
@@ -640,7 +1024,26 @@
       "定向能量沉积"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Chunhuan Guo",
+      "Bo Jiao",
+      "Fengchun Jiang",
+      "Wei Chen",
+      "Wenyuan Wang",
+      "Cheng Zhang",
+      "Bozhao Zhang",
+      "Huabing Gao",
+      "Tao Dong",
+      "Wenyao Sun",
+      "Zubin Chen",
+      "Haixin Li",
+      "Zhenlin Yang",
+      "Shiteng Zhao",
+      "Jun Ding",
+      "Robert O. Ritchie"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7155542102",
@@ -664,7 +1067,13 @@
       "宽温域"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yun Cheng",
+      "Bo Li",
+      "Fu-Zhen Xuan"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7155383558",
@@ -688,7 +1097,22 @@
       "强塑性"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Wei Li",
+      "Liangyin Xiong",
+      "Mengchao Niu",
+      "Junhua Luan",
+      "Wei Wang",
+      "Zengbao Jiao"
+    ],
+    "affiliations": [
+      "Institute of Metal Research Chinese Academy of Sciences Shenyang",
+      "Department of Mechanical Engineering Research Institute for Advanced Manufacturing the Hong Kong Polytechnic University Hong Kong",
+      "School of Materials Science and Engineering University of Science and Technology of China Shenyang",
+      "Center For Advanced Nuclear Safety and Sustainable Development Inter‐university 3D Atom Probe Tomography Unit City University of Hong Kong Hong Kong",
+      "The Hong Kong Polytechnic University Shenzhen Research Institute Shenzhen"
+    ]
   },
   {
     "id": "https://openalex.org/W7155208823",
@@ -711,7 +1135,23 @@
       "非晶"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Zhengqing Cai",
+      "Shidong Feng",
+      "Zhen-Qiang Song",
+      "Yanhui Liu",
+      "Bo Xu",
+      "Zijing Li",
+      "Yanhui Zhang",
+      "Yingdan Liu",
+      "Ruilin Zheng",
+      "Xinyu Zhang",
+      "Weihua Wang",
+      "Li-Min Wang",
+      "Ri-Ping Liu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7155156628",
@@ -735,7 +1175,17 @@
       "微织构"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Somnath Ghosh",
+      "Kishore Appunhi Nair",
+      "Tawqeer Nasir Tak",
+      "Shravan Kotha",
+      "Adam Pilchak",
+      "Vasisht Venkatesh",
+      "David Furrer"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7154581324",
@@ -758,7 +1208,13 @@
       "超高强度"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "S. Pan",
+      "B. B. He",
+      "M. X. Huang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7154485582",
@@ -782,7 +1238,25 @@
       "组织-性能"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Zixin Li",
+      "Hongtao Zhang",
+      "Zichao Peng",
+      "Yuheng Zhang",
+      "Qian Lv",
+      "Yihuan Cao",
+      "Xuqing Wang",
+      "Huadong Fu",
+      "Jianxin Xie"
+    ],
+    "affiliations": [
+      "Beijing Advanced Innovation Center for Materials Genome Engineering School of Advanced Materials Innovation University of Science and Technology Beijing Beijing",
+      "Beijing Key Laboratory of Materials Intelligent Technology School of Advanced Materials Innovation University of Science and Technology Beijing Beijing",
+      "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation School of Advanced Materials Innovation University of Science and Technology Beijing Beijing",
+      "Institute of Materials Intelligent Technology Liaoning Academy of Materials Shenyang",
+      "Science and Technology on Advanced High Temperature Structural Materials Laboratory Beijing Institute of Aeronautical Materials AECC Beijing"
+    ]
   },
   {
     "id": "https://openalex.org/W7154462841",
@@ -806,7 +1280,31 @@
       "高温强度"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Gan Li",
+      "Yuhe Huang",
+      "Chunlu Zhao",
+      "Xi He",
+      "Shuo Wang",
+      "Qiyang Tan",
+      "Ying Li",
+      "Fucong Lyu",
+      "Guanghui Feng",
+      "Junhua Luan",
+      "Wanqian Hu",
+      "Zhenmin Li",
+      "Xinggang Li",
+      "Yanjin Xu",
+      "Yuansong Zeng",
+      "Zhiqiang Li",
+      "Xinping Mao",
+      "Ming-Xing Zhang",
+      "Lehua Qi",
+      "Qiang Zhu",
+      "Jian Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7154233778",
@@ -830,7 +1328,19 @@
       "增材制造"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Jinlong Su",
+      "Fulin Jiang",
+      "Jin Wu",
+      "Yuehua Li",
+      "Ri Han",
+      "Lu Wang",
+      "Raymond Chung Wen Wong",
+      "Jian Wang",
+      "Swee Leong Sing"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7154165993",
@@ -854,7 +1364,21 @@
       "强塑性"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Shaojie Gu",
+      "Yasuhiro Kimura",
+      "Yi Cui",
+      "Yasuyuki Morita",
+      "Sora Isoi",
+      "Chang Liu",
+      "Xinming Yan",
+      "Bingfeng Ju",
+      "Huayong Yang",
+      "Yuhki Toku",
+      "Yang Ju"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7151360472",
@@ -878,7 +1402,15 @@
       "蠕变"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yueting Wang",
+      "Chengzhe Yu",
+      "Kefu Gan",
+      "Tiechui Yuan",
+      "Ruidi Li"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7147642977",
@@ -902,7 +1434,28 @@
       "核聚变"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Ishtiaque K. Robin",
+      "Skye N. Supakul",
+      "Shalini Tripathi",
+      "Eda Aydogan",
+      "Matthew T. Vigil",
+      "Caleb Hatler",
+      "Bochuan Sun",
+      "Akshay Korpe",
+      "Enrique Martinez",
+      "Saryu J. Fensin",
+      "Dan J. Thoma",
+      "Osman El‐Atwani"
+    ],
+    "affiliations": [
+      "Energy and Environmental Directorate Pacific Northwest National Laboratory Richland WA",
+      "Materials Science and Engineering University of Wisconsin Madison Madison WI",
+      "Materials Science and Engineering Clemson University Clemson SC",
+      "School of Mechanical and Automotive Engineering Clemson University Clemson SC",
+      "Los Alamos National Laboratory Los Alamos NM"
+    ]
   },
   {
     "id": "https://openalex.org/W7140909021",
@@ -926,7 +1479,20 @@
       "轻质"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yadong Huang",
+      "Sujuan Wu",
+      "Zhihua Dong",
+      "Jiangfeng Song",
+      "Guilin Wu",
+      "Cong Wang",
+      "Shengwen Bai",
+      "Pascal Brault",
+      "Bin Jiang",
+      "Fusheng Pan"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7140282814",
@@ -949,7 +1515,25 @@
       "非力学"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Yuxiang Zhan",
+      "Kunpeng Zhao",
+      "Hexige Wuliji",
+      "Yifan Yuan",
+      "Xiang Liu",
+      "Tian-Ran Wei",
+      "Ting Zhang",
+      "Min Zhu",
+      "Xun Shi"
+    ],
+    "affiliations": [
+      "State Key Laboratory of Metal Matrix Composites, School of Materials Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240,",
+      "School of Materials Science and Engineering, Inner Mongolia University of Technology, Hohhot 010051,",
+      "Institute of Engineering Thermophysics, Chinese Academy of Sciences, Beijing 100190,",
+      "School of Integrated Circuits, Shanghai Jiao Tong University, Shanghai 200240,",
+      "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050,"
+    ]
   },
   {
     "id": "https://openalex.org/W7140109887",
@@ -973,7 +1557,18 @@
       "高熵合金"
     ],
     "new": false,
-    "added_on": "2026-08-16"
+    "added_on": "2026-08-16",
+    "authors": [
+      "Jiaming Cao",
+      "Jiayi Sun",
+      "Heqing Li",
+      "Zhiqiang Wu",
+      "Xianghai An"
+    ],
+    "affiliations": [
+      "School of Aerospace Mechanical and Mechatronic Engineering and Sydney Nano Institute (Sydney Nano) The University of Sydney Sydney NSW",
+      "Sanya Research Institute of Hunan University of Science and Technology Sanya Hainan"
+    ]
   },
   {
     "id": "https://openalex.org/W7138840261",
@@ -997,7 +1592,26 @@
       "孪生"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Qian Li",
+      "Lijun Jing",
+      "Fenghui Duan",
+      "Yantao Sun",
+      "Weibing Wang",
+      "Biao Xu",
+      "Dongpeng Hua",
+      "Jianyang Zhang",
+      "Zheling Shen",
+      "Weihua Zhou",
+      "Junhua Luan",
+      "Peter K. Liaw",
+      "Xiaodong Han",
+      "Jian Lu",
+      "Yilu Zhao",
+      "Tao Yang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7138081438",
@@ -1021,7 +1635,16 @@
       "应变硬化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Qiankun Yang",
+      "Weisong Wu",
+      "Wei Zhang",
+      "Yong Zhang",
+      "Dingshun Yan",
+      "Zhiming Li"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7134033725",
@@ -1045,7 +1668,28 @@
       "双辊铸造"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Wei Yu",
+      "Yu Bai",
+      "Jiawen Li",
+      "Kaixi Jiang",
+      "Hai Hao",
+      "Tao Jiang",
+      "Shunan Zhang",
+      "Yong Li",
+      "Zhaodong Wang",
+      "Kai Zhao",
+      "Shiwei Li"
+    ],
+    "affiliations": [
+      "Key Laboratory of Solidification Control and Digital Preparation Technology (Liaoning Province) School of Materials Science and Engineering Dalian University of Technology Dalian",
+      "Shandong Laboratory of Aluminum Advanced Manufacturing in Binzhou Weiqiao‐UCAS Science and Technology Park Binzhou",
+      "Ningbo Research Institute of Dalian University of Technology Ningbo",
+      "School of Materials and Metallurgy University of Science and Technology Liaoning Anshan",
+      "State Key Laboratory of Rolling and Automation Northeastern University Shenyang",
+      "Guangxi Advanced Aluminum Processing Innovation Center Co., Ltd Nanning"
+    ]
   },
   {
     "id": "https://openalex.org/W7131390123",
@@ -1070,7 +1714,30 @@
       "超导线材"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Dazhuo Song",
+      "Juntao Zou",
+      "Jiayue Zhang",
+      "Xinhang Liang",
+      "Mengyu Shan",
+      "Yifan Liu",
+      "Jingqi Feng",
+      "Tong Dang",
+      "Lin Shi",
+      "Yuxuan Wang",
+      "Yuchen Song",
+      "Rong Fei",
+      "Shaodong Sun",
+      "Zhe Zhang",
+      "Lei Zhu",
+      "Lixing Sun"
+    ],
+    "affiliations": [
+      "Engineering Research Center of Conducting Materials and Composite Technology Ministry of Education, Shaanxi Key Laboratory of Electrical Materials and Infiltration Technology Shaanxi Laboratory of Advanced Materials School of Materials Science and Engineering Xi'an University of Technology Xi'an",
+      "Faculty of Humanities and Foreign Languages Xi'an University of Technology Xi'an",
+      "Faculty of Computer Science and Engineering Xi'an University of Technology Xi'an"
+    ]
   },
   {
     "id": "https://openalex.org/W7130640703",
@@ -1093,7 +1760,12 @@
       "超高强度"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Min Seok Kim",
+      "Eun Soo Park"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7128512780",
@@ -1117,7 +1789,39 @@
       "强塑协同"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Zhixin Li",
+      "Xiao‐Tong Li",
+      "Zhaoqi Chen",
+      "Yushan Geng",
+      "Hao Gong",
+      "Sijia Hu",
+      "Wenli Song",
+      "Wanshun Xia",
+      "Chuanzheng Li",
+      "Linfa Peng",
+      "Yue Fan",
+      "Pengfei Guan",
+      "Bo Zhang",
+      "Weihua Wang",
+      "Yong Yang"
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering City University of Hong Kong Hong Kong",
+      "Songshan Lake Materials Laboratory Dongguan Guangdong",
+      "Advanced Interdisciplinary Science Research (AiR) Center Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo",
+      "State Key Laboratory of Advanced Marine Materials Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo",
+      "State Key Laboratory of Solid Lubrication Lanzhou Institute of Chemical Physics Chinese Academy of Sciences Lanzhou",
+      "Institute of High Energy Physics Chinese Academy of Science (CAS) Beijing",
+      "Spallation Neutron Source Science Center Dongguan Guangdong",
+      "Institute of Superalloys Science and Technology School of Materials Science and Engineering Zhejiang University Hangzhou Zhejiang",
+      "State Key Laboratory of Mechanical System and Vibration Shanghai Jiao Tong University Shanghai",
+      "Department of Mechanical Engineering University of Michigan Ann Arbor Michigan",
+      "Beijing Computational Science Research Center Beijing",
+      "Dongguan Institute of Materials Science and Technology Chinese Academy of Sciences Dongguan",
+      "Department of Materials Science and Engineering City University of Hong Kong Hong Kong"
+    ]
   },
   {
     "id": "https://openalex.org/W7128167245",
@@ -1142,7 +1846,31 @@
       "析出相"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Chengyi Yu",
+      "Honghui Wu",
+      "Huihui Zhu",
+      "Xin Chen",
+      "Qinghua Zhang",
+      "Yujie Chen",
+      "Lin Gu",
+      "Qiang Zhang",
+      "Matthias D. Frontzek",
+      "Yan Chen",
+      "Ke An",
+      "Lunhua He",
+      "Kenichi Kato",
+      "Shogo Kawaguchi",
+      "Zeyu Qiao",
+      "Meisa Zhou",
+      "Yili Cao",
+      "Qiang Li",
+      "Jinxia Deng",
+      "Kun Lin",
+      "Xianran Xing"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7128062729",
@@ -1166,7 +1894,21 @@
       "无Ta"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Sudip Kumar Sarkar",
+      "Nachiket Keskar",
+      "Li Ping Tan",
+      "Tirthesh Ingale",
+      "Advika Chesetti",
+      "Sriswaroop Dasari",
+      "Karl P. Davidson",
+      "V. Chaudhary",
+      "Narendra Dahotre",
+      "R. V. Ramanujan",
+      "Rajarshi Banerjee"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7127585864",
@@ -1189,7 +1931,25 @@
       "储能"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Yu-Hao Wang",
+      "Shuang-Jie Tan",
+      "Chao-Hui Zhang",
+      "Jun-Chen Guo",
+      "Xiao-Xi Luo",
+      "Ruo-Xi Jin",
+      "Lin-Bo Huang",
+      "Xiao-Chuan Su",
+      "Chen Li",
+      "Xu-Sheng Zhang",
+      "Xing Zhang",
+      "Sen Xin",
+      "Rui Wen",
+      "Juan Zhang",
+      "Yu-Guo Guo"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7127132316",
@@ -1213,7 +1973,20 @@
       "变形离域化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Dhruv Anjaria",
+      "Milan Heczko",
+      "Daegun You",
+      "Mathieu Calvat",
+      "Shuchi Sanandiya",
+      "Maik Rajkowski",
+      "Aditya Srinivasan Tirunilai",
+      "Huseyin Sehitoglu",
+      "Guillaume Laplanche",
+      "J. C. Stinville"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7126266227",
@@ -1237,7 +2010,22 @@
       "功能材料"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Song Li",
+      "Yuxuan Yang",
+      "Xiaoyu Fei",
+      "Yang Geng",
+      "Jiajun Nan",
+      "Pubao Peng",
+      "Guizhong Li",
+      "Yang Zhang",
+      "Xiaobing Liu",
+      "Yongsheng Zhang",
+      "Haijun Wu",
+      "Guodong Tang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7126183028",
@@ -1261,7 +2049,26 @@
       "超高强度"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Rong Lv",
+      "Jia Li",
+      "Yunzhu Shi",
+      "Shuai Dai",
+      "Shuo Wang",
+      "Xinren Chen",
+      "Xiaoye Zhou",
+      "Fei Zhang",
+      "Meiyuan Jiao",
+      "Chao Ma",
+      "Alexander Schökel",
+      "Shaolou Wei",
+      "Yan Ma",
+      "Claudio Pistidda",
+      "Zhifeng Lei",
+      "Zhaoping Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7126116971",
@@ -1286,7 +2093,16 @@
       "抗疲劳"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Xu Li",
+      "Qianglong Liang",
+      "Chuanxin Liang",
+      "Dong Wang",
+      "Suzhi Li",
+      "Xiangdong Ding"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7126062212",
@@ -1311,7 +2127,31 @@
       "强塑协同"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Xiaobin Lin",
+      "Xudong Rong",
+      "Jiachen Xie",
+      "Xinru Wang",
+      "Jianteng Wang",
+      "Zhihang Xu",
+      "Dongdong Zhao",
+      "Shiwei Pan",
+      "Feng Qian",
+      "Longlong Ma",
+      "Gang Sha",
+      "Xiang Zhang",
+      "Chunsheng Shi",
+      "Chunnian He",
+      "Naiqin Zhao"
+    ],
+    "affiliations": [
+      "Tianjin Key Laboratory of Composite and Functional Materials, School of Materials Science and Engineering Tianjin University Tianjin People's Republic of",
+      "State Key Laboratory of High Performance Roll Materials and Composite Forming Tianjin University Tianjin People's Republic of",
+      "State Key Laboratory of Precious Metal Functional Materials Tianjin University Tianjin People's Republic of",
+      "National Key laboratory of Science and Technology on Materials Under Shock and Impact, School of Materials Science and Engineering Beijing Institute of Technology Beijing People's Republic of",
+      "Herbert Gleiter Institute of Nanoscience, School of Materials Science and Engineering Nanjing University of Science and Technology Nanjing People's Republic of"
+    ]
   },
   {
     "id": "https://openalex.org/W7125677088",
@@ -1334,7 +2174,33 @@
       "强塑协同"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Hailong Huang",
+      "Prashant Singh",
+      "Duane D. Johnson",
+      "Dishant Beniwal",
+      "Pratik K. Ray",
+      "Gaoyuan Ouyang",
+      "Luke Gaydos",
+      "Trevor Riedemann",
+      "Tirthesh Ingale",
+      "Vishal Soni",
+      "Rajarshi Banerjee",
+      "Thomas W. Scharf",
+      "Ping Lu",
+      "Frank W. DelRio",
+      "Andrew B. Kustas",
+      "John A. Sharon",
+      "Ryan Deacon",
+      "Syed I. A. Jalali",
+      "Michael Patullo",
+      "Sharon Park",
+      "Kevin J. Hemker",
+      "Ryan T. Ott",
+      "Nicolas Argibay"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7125393156",
@@ -1358,7 +2224,21 @@
       "准晶"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Enmao Wang",
+      "Chao Ding",
+      "Danyang Zhou",
+      "Chenjin Xu",
+      "Swee Leong Sing",
+      "Jianzhong Jiang",
+      "Huibin Wu"
+    ],
+    "affiliations": [
+      "Collaborative Innovation Center of Steel Technology University of Science and Technology Beijing Beijing",
+      "Department of Mechanical Engineering National University of Singapore Singapore",
+      "School of Materials Science and Engineering Fuyao University of Science and Technology Fuzhou Fujian"
+    ]
   },
   {
     "id": "https://openalex.org/W7124470585",
@@ -1381,7 +2261,12 @@
       "力学行为"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Ting Zhu",
+      "Wen Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7123694755",
@@ -1404,7 +2289,18 @@
       "储氢"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Tianpeng Sun",
+      "Zhengjie Tang",
+      "Jiang Liu",
+      "Xuan Sun",
+      "Qun Luo",
+      "Yu Zhang",
+      "Qian Li",
+      "Yangfan Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7124225910",
@@ -1428,7 +2324,27 @@
       "加工硬化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Tianle Li",
+      "Renhao Wu",
+      "Jiabao Liu",
+      "Sang‐Ho Oh",
+      "Xiang Wu",
+      "Hyojin Park",
+      "Byeong‐Joo Lee",
+      "Hidemi Kato",
+      "Hyoung Seop Kim",
+      "Xiaochun Liu",
+      "Xifeng Li"
+    ],
+    "affiliations": [
+      "School of Material Science and Engineering Changsha University of Science &amp; Technology Changsha",
+      "Advanced Institute for Materials Research (WPI‐AIMR) Tohoku University Sendai 980‐8577",
+      "Department of Materials Science &amp; Engineering Pohang University of Science &amp; Technology Pohang",
+      "Graduate Institute of Ferrous &amp; Eco Materials Technology, Pohang University of Science &amp; Technology Pohang,Korea Pohang",
+      "Department of Plasticity Technology School of Materials Science and Engineering Shanghai Jiao Tong University Shanghai"
+    ]
   },
   {
     "id": "https://openalex.org/W7118185743",
@@ -1452,7 +2368,17 @@
       "加工硬化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Xuliang Chen",
+      "Youneng Xie",
+      "Tianlong Zhang",
+      "Zhihao Jiang",
+      "Xiangren Bai",
+      "Shun Xu",
+      "Jian Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7118162313",
@@ -1476,7 +2402,27 @@
       "理论强度"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Yusha Luo",
+      "Qianqian Wang",
+      "Bo Sun",
+      "Ruixin Sheng",
+      "Zhijun Guo",
+      "Gaopeng Zou",
+      "Zhe Jia",
+      "Yang Tong",
+      "Gang Sha",
+      "Peter K. Liaw",
+      "Baolong Shen"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Jiangsu Key Laboratory for Advanced Metallic Materials Southeast University Nanjing",
+      "Ministry of Education Key Laboratory of Structure and Thermal Protection for High‐Speed Aircraft Southeast University Nanjing",
+      "Advanced Studies in Precision Materials Yantai University Yantai",
+      "School of Materials Science and Engineering Herbert Gleiter Institute of Nanoscience Nanjing University of Science and Technology Nanjing",
+      "Department of Materials Science and Engineering The University of Tennessee Knoxville"
+    ]
   },
   {
     "id": "https://openalex.org/W7167939549",
@@ -1501,7 +2447,9 @@
       "超高强度"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W7116631459",
@@ -1525,7 +2473,23 @@
       "无钴"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Hu Li",
+      "Shubo Gao",
+      "Liming Tan",
+      "Weiming Ji",
+      "Liuliu Han",
+      "Kun Zhou",
+      "Yong Liu"
+    ],
+    "affiliations": [
+      "State Key Laboratory of Powder Metallurgy Central South University Changsha",
+      "State Key Laboratory of Tropic Ocean Engineering Materials and Materials Evaluation Advanced Research Center for Precision Instruments Hainan University Haikou",
+      "Key Lab of Pico Electron Microscopy of Hainan Province Hainan University Haikou Hainan Province",
+      "Singapore Centre for 3D Printing School of Mechanical and Aerospace Engineering Nanyang Technological University 50 Nanyang Avenue Singapore",
+      "Max Planck Institute for Sustainable Materials Max‐Planck‐Straße 1 40237 Düsseldorf"
+    ]
   },
   {
     "id": "https://openalex.org/W4417506454",
@@ -1549,7 +2513,18 @@
       "界面"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Yuhang Hai",
+      "Kaijie Gu",
+      "Yadong Huang",
+      "Sujuan Wu",
+      "Zhihua Dong",
+      "Jiangfeng Song",
+      "Shuailing Ma",
+      "Bin Jiang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4417361621",
@@ -1574,7 +2549,27 @@
       "氧化钇"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Timothy M. Smith",
+      "Christopher A. Kantzos",
+      "Bryan J. Harder",
+      "Andreas Bezold",
+      "Milan Heczko",
+      "Jiashi Miao",
+      "Gabriel Plummer",
+      "Mikhail I. Mendelev",
+      "Aaron C. Thompson",
+      "Bernadette J. Puleo",
+      "Austin J. Whitt",
+      "Andreas Stark",
+      "Steffen Neumeier",
+      "Timothy P. Gabb",
+      "John W. Lawson",
+      "Michael J. Mills",
+      "Paul R. Gradl"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4417304746",
@@ -1599,7 +2594,27 @@
       "低温力学"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Tiwen Lu",
+      "Xiyu Chen",
+      "Binhan Sun",
+      "Xizhen Dong",
+      "Ning Yao",
+      "Yufei Chen",
+      "Zhongji Sun",
+      "Hongyu Chen",
+      "Alisson Kwiatkowski da Silva",
+      "Haitao Lu",
+      "Xiaofeng Yang",
+      "Bingbing Wan",
+      "Jianping Tan",
+      "Sergio Scudino",
+      "Xian-Cheng Zhang",
+      "Dierk Raabe",
+      "Shan-Tung Tu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4417129033",
@@ -1623,7 +2638,17 @@
       "高通量"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Weiqi Wang",
+      "Jian Liu",
+      "Chenyang Li",
+      "Yi-Cheng Lai",
+      "Wei Chen",
+      "Yunzhuo Lu",
+      "Wen Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4417038519",
@@ -1646,7 +2671,19 @@
       "储能"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Mingxu Wang",
+      "Jinyu Yang",
+      "Haoran Ji",
+      "Ziyue Li",
+      "Fengmei Wang",
+      "Fang Fang",
+      "Jiafeng Ruan",
+      "Dalin Sun",
+      "Fei Wang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4416910186",
@@ -1670,7 +2707,21 @@
       "均匀塑性"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Yahui Yang",
+      "Xiuxia Wang",
+      "Biao Chen",
+      "Shenglu Lu",
+      "Kaiyue Liu",
+      "Shota Kariya",
+      "Xianzhe Shi",
+      "Xiaozhou Liao",
+      "Katsuyoshi Kondoh",
+      "Ma Qian",
+      "Jianghua Shen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4416829647",
@@ -1694,7 +2745,26 @@
       "相–力学"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Moses A. Adaan‐Nyiak",
+      "Mack Cleveland",
+      "Benjamin Hewitt",
+      "Ericmoore Jossou",
+      "Mehmet Topsakal",
+      "Simerjeet K. Gill",
+      "Sooyeon Hwang",
+      "Kim Kisslinger",
+      "Ahmed A. Tiamiyu"
+    ],
+    "affiliations": [
+      "Department of Mechanical and Manufacturing Engineering University of Calgary 2500 University Drive NW Calgary Alberta T2N 1N4",
+      "Department of Materials Science and Engineering Massachusetts Institute of Technology Cambridge MA",
+      "Department of Nuclear Science and Engineering Massachusetts Institute of Technology Cambridge MA",
+      "Department of Electrical Engineering and Computer Science Massachusetts Institute of Technology Cambridge MA",
+      "Nuclear Science and Technology Department Brookhaven National Laboratory Upton NY",
+      "Center for Functional Nanomaterials Brookhaven National Laboratory Upton NY"
+    ]
   },
   {
     "id": "https://openalex.org/W4416829746",
@@ -1718,7 +2788,24 @@
       "加工硬化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Dingxuan Zhao",
+      "Kai Zu",
+      "Xu Yue",
+      "Hang Zhang",
+      "Zexuan Li",
+      "Keer Li",
+      "Zehua Zheng",
+      "Jialuo Yang",
+      "Wei Chen",
+      "Jinyu Zhang",
+      "Jun Sun"
+    ],
+    "affiliations": [
+      "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
+      "Xinjiang Xiangrun New Materials Technology Co., Ltd. Hami"
+    ]
   },
   {
     "id": "https://openalex.org/W4416410525",
@@ -1742,7 +2829,23 @@
       "应变硬化"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Huizhi Peng",
+      "Yuman Zhu",
+      "Jun Wang",
+      "Jiaming Zhu",
+      "Jianwen Liu",
+      "Kai Zhang",
+      "Peter Lynch",
+      "Hamish L. Fraser",
+      "Peter Hodgson",
+      "Martin Heilmaier",
+      "Nick Birbilis",
+      "Yunzhi Wang",
+      "Aijun Huang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4416293156",
@@ -1766,7 +2869,18 @@
       "B2纳米析出相"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Raymond Kwesi Nutor",
+      "Waleed Mohammed",
+      "Se‐Ho Kim",
+      "Baptiste Gault"
+    ],
+    "affiliations": [
+      "Max‐Planck‐Institute for Sustainable Materials 40237 Düsseldorf",
+      "Department of Materials Science and Engineering Korea University Seoul 02841 Republic of",
+      "Department of Materials Imperial College London London SW7 2AZ"
+    ]
   },
   {
     "id": "https://openalex.org/W4416214901",
@@ -1791,7 +2905,35 @@
       "仿生"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Xi He",
+      "Gan Li",
+      "Lei Zhang",
+      "Yuhe Huang",
+      "Bingyu Xie",
+      "Zhifang Shi",
+      "Guanghui Feng",
+      "Wenbin Liu",
+      "Fucong Lyu",
+      "Shuo Wang",
+      "Zhengrong Yu",
+      "Junhua Luan",
+      "Chunlu Zhao",
+      "Hongxing Lu",
+      "Xiaogang Hu",
+      "Qiang Zhu",
+      "Jian Lu"
+    ],
+    "affiliations": [
+      "Shenzhen Key Laboratory for Additive Manufacturing of High-performance Materials, Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen,",
+      "City University of Hong Kong Matter Science Research Institute (Futian), Shenzhen,",
+      "Department of Mechanical Engineering, City University of Hong Kong, Hong Kong,",
+      "Center for Advanced Structural Materials, City University of Hong Kong Shenzhen Research Institute, Greater Bay Joint Division, Shenyang National Laboratory for Materials Science, Shenzhen,",
+      "Institute for Carbon Neutrality, University of Science and Technology Beijing, Beijing,",
+      "COMAC Shanghai Aircraft Manufacturing Co. Ltd., Shanghai,",
+      "Jiangxi Baohang Advanced Materials Co. Ltd., Nanchang 330224,"
+    ]
   },
   {
     "id": "https://openalex.org/W4416112707",
@@ -1815,7 +2957,20 @@
       "强塑协同"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Zixu Guo",
+      "Yang Li",
+      "Lei Fan",
+      "Shiwei Wu",
+      "Daijun Hu",
+      "Guochen Peng",
+      "Feng Lin",
+      "Yong-Wei Zhang",
+      "Yilun Xu",
+      "Wentao Yan"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4416112699",
@@ -1839,7 +2994,20 @@
       "强塑协同"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Shubo Gao",
+      "Weiming Ji",
+      "Qi Zhu",
+      "Asker Jarlöv",
+      "Xueyu Bai",
+      "Xiaojun Shen",
+      "Yong Liu",
+      "Mui Ling Sharon Nai",
+      "Huajian Gao",
+      "Kun Zhou"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4415879912",
@@ -1862,7 +3030,20 @@
       "生物医用"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Lian Cui",
+      "Jiangluyi Cai",
+      "Hengli Lu",
+      "Xincheng Huang",
+      "Yuling Shi",
+      "Chunyuan Guo"
+    ],
+    "affiliations": [
+      "Department of Dermatology, Shanghai Skin Disease Hospital Tongji University School of Medicine Shanghai",
+      "Institute of Psoriasis Tongji University School of Medicine Shanghai",
+      "Department of Orthopedic Oncology, Shanghai General Hospital Shanghai Jiao Tong University School of Medicine Shanghai"
+    ]
   },
   {
     "id": "https://openalex.org/W4415737385",
@@ -1886,7 +3067,19 @@
       "强韧"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Siwei Tang",
+      "Guangxiong Luo",
+      "Panzhen Li",
+      "Baishan Chen",
+      "Zhe Huang",
+      "Jing Yang",
+      "Yunzhu Ma",
+      "Wensheng Liu",
+      "Chaoping Liang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4414958446",
@@ -1911,7 +3104,22 @@
       "塑性"
     ],
     "new": false,
-    "added_on": "2026-08-24"
+    "added_on": "2026-08-24",
+    "authors": [
+      "Frauke Hinrichs",
+      "Georg Winkens",
+      "Lena Katharina Kramer",
+      "Gabriely Falcão",
+      "Ewa M. Hahn",
+      "Daniel Schliephake",
+      "Michael Konrad Eusterholz",
+      "Sandipan Sen",
+      "Mathias Christian Galetz",
+      "Haruyuki Inui",
+      "Alexander Kauffmann",
+      "Martin Heilmaier"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4414852308",
@@ -1935,7 +3143,18 @@
       "FCC"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "P. H. F. Oliveira",
+      "C. L. G. P. Martins",
+      "G. C. Stumpf",
+      "J. Spadotto",
+      "E. J. Pickering",
+      "W. J. Botta",
+      "C. Bolfarini",
+      "F. G. Coury"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4414694726",
@@ -1958,7 +3177,13 @@
       "拉伸塑性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "En Ma"
+    ],
+    "affiliations": [
+      "Center for Alloy Innovation and Design, State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049,"
+    ]
   },
   {
     "id": "https://openalex.org/W4414656439",
@@ -1982,7 +3207,21 @@
       "La2O3析出"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Jinhan Xu",
+      "Xuan Chen",
+      "Xiaodan Bai",
+      "Chengyu Ding",
+      "Guisen Liu",
+      "Yuanjun Sun",
+      "Hongxiang Zong",
+      "Xiangdong Ding"
+    ],
+    "affiliations": [
+      "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an Shaanxi",
+      "State Key Lab of Metal Matrix Composites School of Materials Science and Engineering Shanghai Jiao Tong University Shanghai"
+    ]
   },
   {
     "id": "https://openalex.org/W4414407578",
@@ -2006,7 +3245,21 @@
       "析出强化"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Xiaofu Zhang",
+      "Shu Wang",
+      "Ruirun Chen",
+      "Minghao Hua",
+      "Weipeng Xu",
+      "Hongwei Wang",
+      "Shuo Yin"
+    ],
+    "affiliations": [
+      "National Key Laboratory for Precision Hot Processing of Metals School of Materials Science and Engineering Harbin Institute of Technology Harbin",
+      "School of Energy and Power Engineering Shandong University Jinan",
+      "Department of Mechanical Manufacturing and Biomedical Engineering Trinity College Dublin The University of Dublin Dublin 2 Ireland"
+    ]
   },
   {
     "id": "https://openalex.org/W4414294950",
@@ -2030,7 +3283,32 @@
       "生物医用"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Kai Chen",
+      "Ping Li",
+      "Qiang Guan",
+      "Xuenan Gu",
+      "Li Zhao",
+      "Linjun Huang",
+      "Chenyang Huang",
+      "Yu Qin",
+      "Chunhao Yu",
+      "Ting Zhang",
+      "Hejia Li",
+      "Yongcan Huang",
+      "Yufeng Zheng"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Peking University Beijing",
+      "Key Laboratory of Biomechanics and Mechanobiology (Beihang University) Ministry of Education Beijing Advanced Innovation Center for Biomedical Engineering School of Biological Science and Medical Engineering Beihang University Beijing",
+      "Shenzhen Engineering Laboratory of Orthopaedic Regenerative Technologies Department of Spine Surgery Peking University Shenzhen Hospital Shenzhen Peking University‐The Hong Kong University of Science and Technology Medical Center Shenzhen Guangdong Province",
+      "Department of Third Dental Center Peking University School and Hospital of Stomatology Beijing",
+      "Department of Prosthodontics School and Hospital of Stomatology Guangzhou Medical University Guangzhou Guangdong",
+      "Institute for Advanced Materials and Technology University of Science and Technology Beijing Beijing",
+      "School of Life, Beijing Institute of Technology No. 5, Zhongguancun South Street, Haidian District Beijing",
+      "Faculty of Advanced Science and Technology Kumamoto University 2‐39‐1 Kurokami Chuo‐Ku Kumamoto 860‐8555"
+    ]
   },
   {
     "id": "https://openalex.org/W4414092841",
@@ -2053,7 +3331,9 @@
       "研究亮点"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4413842913",
@@ -2077,7 +3357,15 @@
       "范德华相互作用"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Duc Tam Ho",
+      "Udo Schwingenschlögl"
+    ],
+    "affiliations": [
+      "Department of Mechanical and Construction Engineering Northumbria University Newcastle upon Tyne NE1 8ST",
+      "Physical Science and Engineering Division King Abdullah University of Science and Technology (KAUST) Thuwal 23955‐6900 Saudi Arabia"
+    ]
   },
   {
     "id": "https://openalex.org/W4413759612",
@@ -2101,7 +3389,32 @@
       "强度-塑性协同"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Tiwen Lu",
+      "Binhan Sun",
+      "Yue Li",
+      "Sheng Dai",
+      "Ning Yao",
+      "Wenbo Li",
+      "Xizhen Dong",
+      "Xiyu Chen",
+      "Jiacheng Niu",
+      "Fan Ye",
+      "Alisson Kwiatkowski da Silva",
+      "Shuya Zhu",
+      "Yu Xie",
+      "Xiaofeng Yang",
+      "Sihao Deng",
+      "Jianping Tan",
+      "Zhiming Li",
+      "Dirk Ponge",
+      "Lunhua He",
+      "Xian-Cheng Zhang",
+      "Dierk Raabe",
+      "Shan-Tung Tu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4413425585",
@@ -2125,7 +3438,17 @@
       "微观组织"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Zhan Qu",
+      "Zhenjun Zhang",
+      "Rui Liu",
+      "Zhefeng Zhang"
+    ],
+    "affiliations": [
+      "Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016,",
+      "School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016,"
+    ]
   },
   {
     "id": "https://openalex.org/W4413330237",
@@ -2149,7 +3472,29 @@
       "力学坚固性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Ruiheng Li",
+      "Xiao‐Lei Shi",
+      "Jianglong Zhu",
+      "Qian Deng",
+      "Wenxin Ou",
+      "Jie Zheng",
+      "Xiaobo Tan",
+      "Xuri Rao",
+      "Qiang Sun",
+      "Min Hong",
+      "Ran Ang",
+      "Zhi‐Gang Chen"
+    ],
+    "affiliations": [
+      "Key Laboratory of Radiation Physics and Technology Ministry of Education Institute of Nuclear Science and Technology Sichuan University Chengdu",
+      "School of Chemistry and Physics ARC Research Hub in Zero‐emission Power Generation for Carbon Neutrality and Centre for Materials Science Queensland University of Technology Brisbane QLD",
+      "State Key Laboratory of Oral Diseases National Clinical Research Center for Oral Diseases West China Hospital of Stomatology Sichuan University Chengdu Sichuan",
+      "Centre for Future Materials University of Southern Queensland Springfield Campus Springfield Central QLD",
+      "Institute of New Energy and Low‐Carbon Technology Sichuan University Chengdu",
+      "College of Physics Sichuan University Chengdu"
+    ]
   },
   {
     "id": "https://openalex.org/W4413110773",
@@ -2173,7 +3518,22 @@
       "非合金力学"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Liyuan Zhang",
+      "Meihui Wang",
+      "Dongho Jeon",
+      "Yongqiang Meng",
+      "Sun Hwa Lee",
+      "Myeonggi Choe",
+      "Yunqing Li",
+      "Mengran Wang",
+      "Sherilyn J. Lu",
+      "Zonghoon Lee",
+      "Won Kyung Seong",
+      "Rodney S. Ruoff"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4412940422",
@@ -2197,7 +3557,16 @@
       "粉末冶金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yamei Mao",
+      "Qinyang Zhao",
+      "Runqi Zhang",
+      "Ping Guo",
+      "Yongnan Chen",
+      "Yongqing Zhao"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4412929786",
@@ -2221,7 +3590,39 @@
       "BCC"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Chanho Lee",
+      "Deva Prasaad Neelakandan",
+      "Dongyue Xie",
+      "Juntan Li",
+      "Chia‐Yi Wu",
+      "Aomin Huang",
+      "Leeseung Kang",
+      "Shuozhi Xu",
+      "Barton C. Prorok",
+      "Dong‐Joo Kim",
+      "Marc A. Meyers",
+      "Haixuan Xu",
+      "Peter K. Liaw",
+      "Yi‐Chia Chou",
+      "Ke An",
+      "George T. Gray",
+      "Nan Li",
+      "Gian Song",
+      "Saryu J. Fensin"
+    ],
+    "affiliations": [
+      "Materials Engineering Auburn University Auburn AL",
+      "Center for Integrated Nanotechnologies MPA Division Los Alamos National Laboratory Los Alamos NM",
+      "Department of Materials Science and Engineering The University of Tennessee Knoxville TN 37996‐2100",
+      "Department of Electrophysics National Yang Ming Chiao Tung University Hsinchu 30010 Taiwan",
+      "Department of Mechanical and Aerospace Engineering University of California San Diego CA",
+      "Korea Institute for Rare Metals Korea Institute of Industrial Technology (KITECH) Incheon 21655 Republic of",
+      "School of Aerospace and Mechanical Engineering University of Oklahoma Norman OK 73019‐1052",
+      "Neutron Scattering Division Oak Ridge National Laboratory Oak Ridge TN",
+      "Division of Advanced Materials Engineering Kongju National University Cheonan Chungnam 330‐717 Republic of"
+    ]
   },
   {
     "id": "https://openalex.org/W4412929253",
@@ -2243,7 +3644,12 @@
       "金属与合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Qingsong Pan",
+      "Lei Lu"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4412493983",
@@ -2267,7 +3673,34 @@
       "NiCo合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Shuai Dai",
+      "Yunzhu Shi",
+      "Junyang He",
+      "Jie Hou",
+      "Fei Zhang",
+      "Zhenggang Wu",
+      "Chao Ma",
+      "Shaofei Liu",
+      "Alexander Schökel",
+      "Yan Ma",
+      "Shaolou Wei",
+      "Claudio Pistidda",
+      "Zhifeng Lei",
+      "Zhaoping Lu"
+    ],
+    "affiliations": [
+      "College of Materials Science and Engineering, Hunan University, Changsha, 410082,",
+      "State Key Laboratory of Powder Metallurgy, Central South University, Changsha, 410083,",
+      "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, 100049,",
+      "Institute of Materials Plainification, Liaoning Academy of Materials, Shenyang 110167,",
+      "Deutsches Elektronen-Synchrotron DESY, Notkestr. 85, 22607 Hamburg,",
+      "Department of Materials Science and Engineering, Delft University of Technology, Mekelweg 2, 2628 CD, Delft,",
+      "Department of Microstructure Physics and Alloy Design, Max Planck Institute for Sustainable Materials, 40237 Düsseldorf,",
+      "Department of Materials Design, Institute of Hydrogen Technology, Helmholtz-Zentrum hereon GmbH, 21502 Geesthacht,",
+      "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083,"
+    ]
   },
   {
     "id": "https://openalex.org/W4412407513",
@@ -2291,7 +3724,29 @@
       "双相"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Zhen Chen",
+      "Yang Chen",
+      "Daixiu Wei",
+      "Xu Liu",
+      "Xuan Luo",
+      "Henggao Xiang",
+      "Wu Gong",
+      "Stefanus Harjo",
+      "Takuro Kawasaki",
+      "Rui Hou",
+      "Jinpeng Zhang",
+      "Demin Zhu",
+      "Jiheng Tang",
+      "Luo Li",
+      "Jianghui Xie",
+      "Gong Zheng",
+      "Zhixiang Qi",
+      "Howard Sheng",
+      "Guang Chen"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4412382610",
@@ -2315,7 +3770,26 @@
       "异质界面"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yitong Yang",
+      "Jingyu Pang",
+      "Hongwei Zhang",
+      "Jiajia Shen",
+      "Zhenqiang Xing",
+      "Yuan Sun",
+      "Aimin Wang",
+      "J. P. Oliveira",
+      "Wei Wang",
+      "Zengbao Jiao"
+    ],
+    "affiliations": [
+      "Shi‐changxu Innovation Center for Advanced Materials Institute of Metal Research Chinese Academy of Sciences 72 Wenhua Road Shenyang",
+      "School of Material Science and Engineering University of Science and Technology of China 72 Wenhua Road Shenyang",
+      "CENIMAT/I3N Department of Materials Science NOVA School of Science and Technology Universidade NOVA de Lisboa Caparica 2829‐516 Portugal",
+      "Department of Mechanical Engineering Research Institute for Advanced Manufacturing The Hong Kong Polytechnic University Hong Kong",
+      "The Hong Kong Polytechnic University Shenzhen Research Institute Shenzhen"
+    ]
   },
   {
     "id": "https://openalex.org/W4412365383",
@@ -2339,7 +3813,25 @@
       "力学-磁性协同"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Lichen Liu",
+      "Liliang Shao",
+      "Yan Ma",
+      "Zhilin Wen",
+      "Jing Zhou",
+      "Yuqiang Yan",
+      "Weiming Yang",
+      "Haibo Ke",
+      "Weihua Wang"
+    ],
+    "affiliations": [
+      "School of Mechanics and Civil Engineering China University of Mining and Technology Xuzhou",
+      "Songshan Lake Materials Laboratory Dongguan",
+      "College of Materials Science and Engineering Hohai University Changzhou",
+      "Guangdong Key Laboratory for Advanced Metallic Materials Processing South China University of Technology Guangzhou",
+      "Institute of Physics Chinese Academy of Science Beijing"
+    ]
   },
   {
     "id": "https://openalex.org/W4412006436",
@@ -2363,7 +3855,23 @@
       "中熵合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yihan Wang",
+      "Yuan Wu",
+      "Yong Yu",
+      "Yang He",
+      "Xinyang Yu",
+      "Xiongjun Liu",
+      "Hui Wang",
+      "Suihe Jiang",
+      "Xiaobin Zhang",
+      "Zhaoping Lu"
+    ],
+    "affiliations": [
+      "State Key Laboratory for Advanced Metals and Materials University of Science and Technology Beijing Beijing",
+      "Beijing Advanced Innovation Center for Materials Genome Engineering School of Materials Science and Engineering University of Science and Technology Beijing Beijing"
+    ]
   },
   {
     "id": "https://openalex.org/W4411847096",
@@ -2387,7 +3895,19 @@
       "表面改性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Shaojia Liu",
+      "Jingjing Deng",
+      "Hewei Zhao",
+      "Tianbai Wang",
+      "Junfeng Lu",
+      "Baosen Ding",
+      "Tianqi Guo",
+      "Robert O. Ritchie",
+      "Lin Guo"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4411803950",
@@ -2411,7 +3931,28 @@
       "高熵合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Lukas Schweiger",
+      "Florian Spieckermann",
+      "Peter Cengeri",
+      "Michael Burtscher",
+      "Lukas Schretter",
+      "Matthias Eichinger",
+      "Gregor Mori",
+      "Alexander Schökel",
+      "Michael Zehetbauer",
+      "Erhard Schafler",
+      "Daniel Kiener",
+      "Jürgen Eckert"
+    ],
+    "affiliations": [
+      "Department of Materials Science Montanuniversität Leoben Leoben",
+      "Faculty of Physics University of Vienna Wien",
+      "Erich Schmid Institute of Materials Science Austrian Academy of Sciences Leoben",
+      "Chair of General and Analytical Chemistry Montanuniversität Leoben Leoben",
+      "Deutsches Elektronen‐Synchrotron DESY 22607 Germany Hamburg"
+    ]
   },
   {
     "id": "https://openalex.org/W4411450475",
@@ -2435,7 +3976,18 @@
       "异质结构"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Chongle Zhang",
+      "Xuanzhe Li",
+      "Suzhi Li",
+      "Jinyu Zhang",
+      "Gang Liu",
+      "Jun Sun"
+    ],
+    "affiliations": [
+      "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an"
+    ]
   },
   {
     "id": "https://openalex.org/W4411413353",
@@ -2459,7 +4011,22 @@
       "强度-塑性协同"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yasir Sohail",
+      "Chongle Zhang",
+      "Dezhen Xue",
+      "Jinyu Zhang",
+      "Dongdong Zhang",
+      "Shaohua Gao",
+      "Yang Yang",
+      "Xiaoxuan Fan",
+      "Hang Zhang",
+      "Gang Liu",
+      "Jun Sun",
+      "En Ma"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4410140347",
@@ -2483,7 +4050,30 @@
       "力学超材料"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "James U. Surjadi",
+      "Liqiang Wang",
+      "Shuo Qu",
+      "Bastien F.G. Aymon",
+      "Junhao Ding",
+      "Xin Zhou",
+      "Rong Fan",
+      "Hui Yang",
+      "Qi Zhao",
+      "Xu Song",
+      "Yang Lu"
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR,",
+      "Hong Kong Institute for Advanced Study, City University of Hong Kong, Kowloon, Hong Kong SAR,",
+      "Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA,",
+      "Department of Mechanical and Automation Engineering, Chinese University of Hong Kong, Shatin, Hong Kong,",
+      "Physikalisches Institut, Westfälische Wilhelms-Universität, Münster 48149,",
+      "Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong,",
+      "Nano-Manufacturing Laboratory (NML), Shenzhen Research Institute of City University of Hong Kong, Shenzhen,",
+      "Department of Mechanical Engineering, The University of Hong Kong, Pokfulam, Hong Kong"
+    ]
   },
   {
     "id": "https://openalex.org/W4409983689",
@@ -2507,7 +4097,17 @@
       "比强度"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Z. Q. Wang",
+      "X. T. Li",
+      "Z. J. Zhang",
+      "Z. F. Zhang"
+    ],
+    "affiliations": [
+      "Shenyang National Laboratory for Materials Science Institute of Metal Research Chinese Academy of Sciences Shenyang",
+      "School of Materials Science and Engineering University of Science and Technology of China Shenyang"
+    ]
   },
   {
     "id": "https://openalex.org/W4409905020",
@@ -2531,7 +4131,16 @@
       "非合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Xiaolin Lyu",
+      "Kun Yu",
+      "Haoqi Zhang",
+      "Piaopiao Zhou",
+      "Zhihao Shen",
+      "Zhigang Zou"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4409908305",
@@ -2555,7 +4164,28 @@
       "BCC"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Qing Wang",
+      "Zhenhua Wang",
+      "Qixiang Zhang",
+      "Rui Wang",
+      "Tongmin Wang",
+      "Chaoli Ma",
+      "Ang Li",
+      "Xiaodong Han",
+      "Junhua Luan",
+      "Zengbao Jiao",
+      "Peter K. Liaw"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Key Laboratory of Materials Modification by Laser Ion and Electron Beams (Ministry of Education) Dalian University of Technology Dalian",
+      "Tianmushan Laboratory Yuhang District Hangzhou",
+      "Beijing Key Laboratory of Microstructure and Property of Advanced Materials Faculty of Materials and Manufacturing Beijing University of Technology Beijing",
+      "Inter‐University 3D Atom Probe Tomography Unit Center for Advanced Nuclear Safety and Sustainable Development City University of Hong Kong Hong Kong",
+      "Department of Mechanical Engineering Research Institute for Advanced Manufacturing The Hong Kong Polytechnic University Hong Kong",
+      "Department of Materials Science and Engineering University of Tennessee Knoxville TN"
+    ]
   },
   {
     "id": "https://openalex.org/W4409148326",
@@ -2579,7 +4209,34 @@
       "微观组织"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Liufei Huang",
+      "Yicheng Han",
+      "Yaoning Sun",
+      "A. S. L. Subrahmanyam Pattamatta",
+      "Junhua Luan",
+      "Qing Wang",
+      "Congcong Ren",
+      "Yuanfeng Zhou",
+      "Jinfeng Li",
+      "Hengwei Luan",
+      "Peter K. Liaw",
+      "Jian Lu"
+    ],
+    "affiliations": [
+      "Institute of Materials China Academy of Engineering Physics Mianyang",
+      "School of Mechanical Engineering Xinjiang University Urumqi",
+      "CityU‐Shenzhen Futian Research Institute Shenzhen",
+      "Department of Mechanical Engineering City University of Hong Kong Hong Kong",
+      "Department of Mechanical Engineering The University of Hong Kong Hong Kong",
+      "Inter‐University 3D Atom Probe Tomography Unit Department of Mechanical Engineering City University of Hong Kong Hong Kong",
+      "School of Materials Science and Engineering Dalian University of Technology Dalian",
+      "City University of Hong Kong Matter Science Research Institute (Futian) No. 3, Binglang Road, Futian District Shenzhen",
+      "Hong Kong Branch of National Precious Metals Material Engineering Research Center City University of Hong Kong Hong Kong",
+      "Department of Materials Science and Engineering The University of Tennessee (UT) Knoxville TN",
+      "City University of Hong Kong Shenzhen Research Institute Greater Bay Joint Division Shenyang National Laboratory for Materials Science Shenzhen"
+    ]
   },
   {
     "id": "https://openalex.org/W4408892025",
@@ -2603,7 +4260,24 @@
       "L12析出"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "B. C. Hornbuckle",
+      "J. A. Smeltzer",
+      "S. Sharma",
+      "S. Nagar",
+      "C. J. Marvel",
+      "P. R. Cantwell",
+      "M. P. Harmer",
+      "K. Solanki",
+      "K. A. Darling"
+    ],
+    "affiliations": [
+      "Army Research Directorate, DEVCOM, Army Research Laboratory, Aberdeen Proving Ground, MD,",
+      "Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA,",
+      "School for the Engineering of Matter, Transport, and Energy, Arizona State University, Tempe, AZ,",
+      "Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA,"
+    ]
   },
   {
     "id": "https://openalex.org/W4408884096",
@@ -2627,7 +4301,22 @@
       "软磁"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Mian Dai",
+      "Yixuan Zhang",
+      "Xiaoqing Li",
+      "Stephan Schönecker",
+      "Liuliu Han",
+      "Ruiwen Xie",
+      "Chen Shen",
+      "Hongbin Zhang"
+    ],
+    "affiliations": [
+      "Institute of Materials Science Technical University of Darmstadt Alarich‐Weiss‐Str. 2 Darmstadt",
+      "Department of Materials Science and Engineering KTH ‐ Royal, Institute of Technology Stockholm SE‐10044",
+      "Max Planck Institute for Sustainable Materials Max‐Planck‐Str. 1 Düsseldorf"
+    ]
   },
   {
     "id": "https://openalex.org/W4408301203",
@@ -2651,7 +4340,26 @@
       "增韧"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Jinliang Du",
+      "Shukuan Guo",
+      "Hangqi Feng",
+      "Weijie Li",
+      "Zhixin Huang",
+      "Zhongji Sun",
+      "Yunli Feng",
+      "Pei Wang",
+      "Ying Li"
+    ],
+    "affiliations": [
+      "School of Naval Architecture Ocean and Energy Power Engineering Wuhan University of Technology Wuhan",
+      "Beijing Institute of Technology Beijing Institute of Technology Zhuhai",
+      "Institute of Materials Research and Engineering (IMRE) Agency for Science, Technology and Research (A*STAR) Singapore 138634 Republic of",
+      "State Key Laboratory of High‐Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics Chinese Academy of Sciences Shanghai",
+      "Key Laboratory of Modern Metallurgical Technology of Ministry of Education North China University of Science and Technology Tangshan",
+      "Engineering Cluster Singapore Institute of Technology Singapore 519961 Republic of"
+    ]
   },
   {
     "id": "https://openalex.org/W4407874055",
@@ -2675,7 +4383,22 @@
       "超弹性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Zhonghan Li",
+      "Jixiang Cai",
+      "Zhihao Zhao",
+      "Ying Yang",
+      "Yang Ren",
+      "Gang Sha",
+      "Lishan Cui",
+      "Kaiyuan Yu",
+      "Daqiang Jiang",
+      "Yao Xiao",
+      "Shengcheng Mao",
+      "Shijie Hao"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4407662459",
@@ -2698,7 +4421,25 @@
       "精简设计"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Wangwang Ding",
+      "Qiying Tao",
+      "Chang Liu",
+      "Gang Chen",
+      "SangHyuk Yoo",
+      "Wei Cai",
+      "Peng Cao",
+      "Baorui Jia",
+      "Haoyang Wu",
+      "Deyin Zhang",
+      "Hongmin Zhu",
+      "Lin Zhang",
+      "Xuanhui Qu",
+      "Jin Zou",
+      "Mingli Qin"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4407560842",
@@ -2722,7 +4463,30 @@
       "异质纳米结构"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yun Teng",
+      "Wenqing Zhu",
+      "Qing Wang",
+      "Zhibo Zhang",
+      "Hang Wang",
+      "Baisong Guo",
+      "Ziyin Yang",
+      "Hao Gong",
+      "Chuan He",
+      "Boxi Qu",
+      "Shien‐Ping Feng",
+      "Yong Yang"
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering City University of Hong Kong Tat Chee Avenue, Kowloon Tong Kowloon Hong Kong",
+      "State Key Laboratory for Turbulence and Complex System Department of Mechanics and Engineering Science College of Engineering Peking University Beijing",
+      "Laboratory for Microstructures Institute of Materials Shanghai University Shanghai",
+      "Institute of Advanced Wear &amp; Corrosion Resistant and Functional Materials Jinan University Guangzhou Guangdong",
+      "Department of Systems Engineering City University of Hong Kong Tat Chee Avenue, Kowloon Tong Kowloon Hong Kong",
+      "Nano and Advanced Materials Institute Science Park West Avenue Hong Kong Science Park Hong Kong",
+      "Department of Materials Science and Engineering City University of Hong Kong Tat Chee Avenue, Kowloon Tong Kowloon Hong Kong"
+    ]
   },
   {
     "id": "https://openalex.org/W4407392555",
@@ -2745,7 +4509,17 @@
       "生物医用"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Chengcheng Wu",
+      "Fengxiang Lin",
+      "Hong Liu",
+      "Matthew H. Pelletier",
+      "Max Lloyd",
+      "Williams R. Walsh",
+      "Jian-Feng Nie"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4407415705",
@@ -2769,7 +4543,17 @@
       "FeMnCoCr"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Akane Wakai",
+      "Jenniffer Bustillos",
+      "Noah Sargent",
+      "Jamesa L. Stokes",
+      "Wei Xiong",
+      "Timothy M. Smith",
+      "Atieh Moridi"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4406820166",
@@ -2793,7 +4577,26 @@
       "强度-塑性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yinghao Zhou",
+      "Weicheng Xiao",
+      "Dawei Wang",
+      "Xu Tang",
+      "Zheling Shen",
+      "Weipeng Li",
+      "Jun Zhang",
+      "Shijun Zhao",
+      "Junhua Luan",
+      "Zibing An",
+      "Rongpei Shi",
+      "Ming Yan",
+      "Xiaodong. Han",
+      "C. T. Liu",
+      "Yilu Zhao",
+      "Tao Yang"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4406753511",
@@ -2817,7 +4620,29 @@
       "高强合金"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Yong-Qiang Yan",
+      "Wen-Hao Cha",
+      "Sida Liu",
+      "Yan Ma",
+      "Jun-Hua Luan",
+      "Ziyuan Rao",
+      "Chang Liu",
+      "Zhi-Wei Shan",
+      "Jian Lu",
+      "Ge Wu"
+    ],
+    "affiliations": [
+      "Center for Advancing Materials Performance from the Nanoscale (CAMP-Nano), Hysitron Applied Research Center in China (HARCC) and Center for Alloy Innovation and Design (CAID), State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an,",
+      "Laboratory for Multiscale Mechanics and Medical Science, SV LAB, School of Aerospace, Xi’an Jiaotong University, Xi’an,",
+      "Faculty of Georesources and Materials Engineering, RWTH Aachen University, Aachen,",
+      "Department of Materials Science and Engineering, Delft University of Technology, Delft,",
+      "Inter-University 3D Atom Probe Tomography Unit, Department of Mechanical Engineering, City University of Hong Kong, Hong Kong,",
+      "Max Planck Institute for Sustainable Materials, Düsseldorf,",
+      "National Engineering Research Center of Light Alloy Net Forming, Shanghai Jiao Tong University, Shanghai,",
+      "Centre for Advanced Structural Materials, Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong,"
+    ]
   },
   {
     "id": "https://openalex.org/W4406714008",
@@ -2841,7 +4666,17 @@
       "强度-塑性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Jeong Ah Lee",
+      "Jaejung Park",
+      "Man Jae Sagong",
+      "Soung Yeoul Ahn",
+      "Jung-Wook Cho",
+      "Seungchul Lee",
+      "Hyoung Seop Kim"
+    ],
+    "affiliations": []
   },
   {
     "id": "https://openalex.org/W4406657556",
@@ -2865,6 +4700,25 @@
       "强度-塑性"
     ],
     "new": true,
-    "added_on": "2026-08-25"
+    "added_on": "2026-08-25",
+    "authors": [
+      "Botao Jiang",
+      "Liang Wang",
+      "Guotao Zhou",
+      "Xu Liu",
+      "Hongyu Lu",
+      "Guoqiang Zhu",
+      "Jiaxin Du",
+      "Chunzhi Zhao",
+      "Baoxian Su",
+      "Binbin Wang",
+      "Ruirun Chen",
+      "Yanqing Su"
+    ],
+    "affiliations": [
+      "School of Materials Science and Engineering Harbin Institute of Technology Harbin",
+      "Zhengzhou Research Institute Harbin Institute of Technology Zhengzhou",
+      "National Key Laboratory for Precision Hot Processing of Metals School of Materials Science and Engineering Harbin Institute of Technology Harbin"
+    ]
   }
 ]
