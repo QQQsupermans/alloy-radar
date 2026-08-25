@@ -71,7 +71,11 @@
       "Shi Shi",
       "Shuai Wang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7196975768",
@@ -224,7 +228,11 @@
       "Jun Sun",
       "Zibin Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7167814003",
@@ -261,7 +269,11 @@
       "Ruirun Chen",
       "Turab Lookman"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7167518430",
@@ -371,7 +383,11 @@
       "En Ma",
       "Jun Sun"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7165629018",
@@ -403,7 +419,11 @@
       "Baptiste Gault",
       "Surendra Kumar Makineni"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7165569217",
@@ -447,7 +467,11 @@
       "Evan Ma",
       "Zibin Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7165032052",
@@ -479,7 +503,11 @@
       "Yaqiao Wu",
       "Janelle P. Wharry"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7164801580",
@@ -600,7 +628,11 @@
       "Anding Wang",
       "Yong Yang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7162343058",
@@ -804,7 +836,11 @@
       "Robert O. Ritchie",
       "Fuzeng Ren"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7160861634",
@@ -877,7 +913,11 @@
       "G. Jeffrey Snyder",
       "David C. Dunand"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7158990926",
@@ -911,7 +951,11 @@
       "Janice M. Dulieu-Barton",
       "Christopher Holmes"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7159003421",
@@ -957,7 +1001,11 @@
       "Hui Wang",
       "Zhaoping Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7155635144",
@@ -1000,7 +1048,11 @@
       "Haowei Wang",
       "Zhe Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7155502770",
@@ -1043,7 +1095,11 @@
       "Jun Ding",
       "Robert O. Ritchie"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7155542102",
@@ -1073,7 +1129,11 @@
       "Bo Li",
       "Fu-Zhen Xuan"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7155383558",
@@ -1151,7 +1211,11 @@
       "Li-Min Wang",
       "Ri-Ping Liu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7155156628",
@@ -1185,7 +1249,11 @@
       "Vasisht Venkatesh",
       "David Furrer"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7154581324",
@@ -1214,7 +1282,11 @@
       "B. B. He",
       "M. X. Huang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7154485582",
@@ -1304,7 +1376,11 @@
       "Qiang Zhu",
       "Jian Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7154233778",
@@ -1340,7 +1416,11 @@
       "Jian Wang",
       "Swee Leong Sing"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7154165993",
@@ -1378,7 +1458,11 @@
       "Yuhki Toku",
       "Yang Ju"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7151360472",
@@ -1410,7 +1494,11 @@
       "Tiechui Yuan",
       "Ruidi Li"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7147642977",
@@ -1492,7 +1580,11 @@
       "Bin Jiang",
       "Fusheng Pan"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7140282814",
@@ -1611,7 +1703,11 @@
       "Yilu Zhao",
       "Tao Yang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7138081438",
@@ -1644,7 +1740,11 @@
       "Dingshun Yan",
       "Zhiming Li"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7134033725",
@@ -1765,7 +1865,11 @@
       "Min Seok Kim",
       "Eun Soo Park"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7128512780",
@@ -1870,7 +1974,11 @@
       "Kun Lin",
       "Xianran Xing"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7128062729",
@@ -1908,7 +2016,11 @@
       "R. V. Ramanujan",
       "Rajarshi Banerjee"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7127585864",
@@ -1949,7 +2061,11 @@
       "Juan Zhang",
       "Yu-Guo Guo"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7127132316",
@@ -1986,7 +2102,11 @@
       "Guillaume Laplanche",
       "J. C. Stinville"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7126266227",
@@ -2025,7 +2145,11 @@
       "Haijun Wu",
       "Guodong Tang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7126183028",
@@ -2068,7 +2192,11 @@
       "Zhifeng Lei",
       "Zhaoping Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7126116971",
@@ -2102,7 +2230,11 @@
       "Suzhi Li",
       "Xiangdong Ding"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7126062212",
@@ -2200,7 +2332,11 @@
       "Ryan T. Ott",
       "Nicolas Argibay"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7125393156",
@@ -2266,7 +2402,11 @@
       "Ting Zhu",
       "Wen Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7123694755",
@@ -2300,7 +2440,11 @@
       "Qian Li",
       "Yangfan Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7124225910",
@@ -2378,7 +2522,11 @@
       "Shun Xu",
       "Jian Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7118162313",
@@ -2449,7 +2597,12 @@
     "new": false,
     "added_on": "2026-08-24",
     "authors": [],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W7116631459",
@@ -2524,7 +2677,11 @@
       "Shuailing Ma",
       "Bin Jiang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4417361621",
@@ -2569,7 +2726,11 @@
       "Michael J. Mills",
       "Paul R. Gradl"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4417304746",
@@ -2614,7 +2775,11 @@
       "Dierk Raabe",
       "Shan-Tung Tu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4417129033",
@@ -2648,7 +2813,11 @@
       "Yunzhuo Lu",
       "Wen Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4417038519",
@@ -2683,7 +2852,11 @@
       "Dalin Sun",
       "Fei Wang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4416910186",
@@ -2721,7 +2894,11 @@
       "Ma Qian",
       "Jianghua Shen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4416829647",
@@ -2845,7 +3022,11 @@
       "Yunzhi Wang",
       "Aijun Huang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4416293156",
@@ -2970,7 +3151,11 @@
       "Yilun Xu",
       "Wentao Yan"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4416112699",
@@ -3007,7 +3192,11 @@
       "Huajian Gao",
       "Kun Zhou"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4415879912",
@@ -3079,7 +3268,11 @@
       "Wensheng Liu",
       "Chaoping Liang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4414958446",
@@ -3119,7 +3312,11 @@
       "Alexander Kauffmann",
       "Martin Heilmaier"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4414852308",
@@ -3154,7 +3351,11 @@
       "C. Bolfarini",
       "F. G. Coury"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4414694726",
@@ -3333,7 +3534,12 @@
     "new": true,
     "added_on": "2026-08-25",
     "authors": [],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4413842913",
@@ -3414,7 +3620,11 @@
       "Dierk Raabe",
       "Shan-Tung Tu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4413425585",
@@ -3533,7 +3743,11 @@
       "Won Kyung Seong",
       "Rodney S. Ruoff"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4412940422",
@@ -3566,7 +3780,11 @@
       "Yongnan Chen",
       "Yongqing Zhao"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4412929786",
@@ -3649,7 +3867,11 @@
       "Qingsong Pan",
       "Lei Lu"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4412493983",
@@ -3746,7 +3968,11 @@
       "Howard Sheng",
       "Guang Chen"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4412382610",
@@ -3907,7 +4133,11 @@
       "Robert O. Ritchie",
       "Lin Guo"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4411803950",
@@ -4026,7 +4256,11 @@
       "Jun Sun",
       "En Ma"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4410140347",
@@ -4140,7 +4374,11 @@
       "Zhihao Shen",
       "Zhigang Zou"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4409908305",
@@ -4398,7 +4636,11 @@
       "Shengcheng Mao",
       "Shijie Hao"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4407662459",
@@ -4439,7 +4681,11 @@
       "Jin Zou",
       "Mingli Qin"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4407560842",
@@ -4519,7 +4765,11 @@
       "Williams R. Walsh",
       "Jian-Feng Nie"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4407415705",
@@ -4553,7 +4803,11 @@
       "Timothy M. Smith",
       "Atieh Moridi"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4406820166",
@@ -4596,7 +4850,11 @@
       "Yilu Zhao",
       "Tao Yang"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4406753511",
@@ -4676,7 +4934,11 @@
       "Seungchul Lee",
       "Hyoung Seop Kim"
     ],
-    "affiliations": []
+    "affiliations": [],
+    "backfill_pending": true,
+    "backfill_missing": [
+      "affiliations"
+    ]
   },
   {
     "id": "https://openalex.org/W4406657556",
