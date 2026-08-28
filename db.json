@@ -21,7 +21,14 @@
       "无缺陷设计"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W7204246388",
@@ -45,7 +52,14 @@
       "马氏体相变"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4416052750",
@@ -68,7 +82,14 @@
       "微观组织"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W7204082545",
@@ -92,7 +113,14 @@
       "亚稳β相"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W7203936728",
@@ -131,7 +159,9 @@
       "Songshan Lake Materials Laboratory Dongguan",
       "Tongling Weiyi New Material Co., Ltd. Tongling",
       "State Key Laboratory of Artificial Microstructure and Mesoscopic Physics School of Physics Peking University Beijing"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7202360797",
@@ -200,7 +230,9 @@
     ],
     "affiliations": [
       "Department of Materials Science and Engineering The University of Tennessee Knoxville Tennessee"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7170694801",
@@ -242,7 +274,9 @@
       "Department of Materials Science and Engineering City University of Hong Kong Hong Kong",
       "Department of Mechanical Engineering The Hong Kong Polytechnic University Hong Kong",
       "Department of Materials Science and Engineering University of California Berkeley California"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7169541057",
@@ -284,7 +318,9 @@
       "Centre for Future Materials Springfield Campus University of Southern Queensland Queensland",
       "College of Physics Sichuan University Chengdu",
       "Institute of New Energy and Low‐Carbon Technology Sichuan University Chengdu"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7168143166",
@@ -402,7 +438,9 @@
     "affiliations": [
       "School of Materials Science and Engineering Central South University Changsha",
       "State Key Laboratory of Powder Metallurgy Central South University Changsha"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7166530591",
@@ -444,7 +482,9 @@
       "School of Materials Science and Engineering Xi'an University of Science and Technology Xi'an People's Republic of",
       "School of Materials Science and Engineering Inner Mongolia University of Technology Hohhot People's Republic of",
       "Instrumental Analysis Center of Xi'an Jiaotong University Xi'an Jiaotong University Xi'an People's Republic of"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7165778512",
@@ -641,7 +681,9 @@
       "The State Key Laboratory of Digital Steel Northeastern University Shenyang",
       "Software College Northeastern University Shenyang",
       "Ansteel Beijing Research Institute Co., Ltd. Beijing"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7164185885",
@@ -687,7 +729,9 @@
       "School of Mechanical and Mining Engineering, The University of Queensland, Brisbane, QLD 4072,",
       "Department of Engineering, University of Leicester, Leicester LE1 7RH,",
       "Institute for Materials Research, Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai 980-8577,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7162687757",
@@ -767,7 +811,9 @@
       "Department of Mechanical Manufacturing and Biomedical Engineering Trinity College University of Dublin Dublin Ireland",
       "State Key Laboratory For Mechanical Behavior of Materials State Key Laboratory of Porous Metal Materials School of Materials Science and Engineering Xi'an Jiatong University Xi'an",
       "AiMaterials Research LLC Santa Fe New Mexico"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7162123726",
@@ -809,7 +855,9 @@
       "College of Materials Science and Engineering Sichuan University Chengdu",
       "Institute of High Energy Physics Chinese Academy of Sciences (CAS) Beijing",
       "Spallation Neutron Source Science Center Dongguan"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7162012302",
@@ -846,7 +894,9 @@
       "George W Woodruff School of Mechanical Engineering Georgia Institute of Technology Atlanta Georgia",
       "Center for Alloy Innovation and Design State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
       "Department of Materials Science and Engineering Department of Mechanical Engineering City University of Hong Kong Hong Kong"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7161643716",
@@ -893,7 +943,9 @@
       "Erich Schmid Institute of Materials Science Austrian Academy of Sciences Leoben",
       "Department of Materials Science Montanuniversität Leoben Leoben",
       "Key Laboratory of Silicon‐based Materials Key Laboratory of Automotive Glass of Fujian Smart Automotive Glass Engineering Research Center of Fujian The Ministry of Education and School of Materials Science and Engineering Fuyao University of Science and Technology Fuzhou"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7160980604",
@@ -974,7 +1026,9 @@
       "School of Materials Science and Engineering Anhui Polytechnic University Wuhu",
       "Nano and Heterogeneous Materials Center School of Materials Science and Engineering Nanjing University of Science and Technology Nanjing",
       "Institute of Materials Henan Academy of Sciences Zhengzhou"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7160334014",
@@ -1267,7 +1321,9 @@
       "School of Materials Science and Engineering University of Science and Technology of China Shenyang",
       "Center For Advanced Nuclear Safety and Sustainable Development Inter‐university 3D Atom Probe Tomography Unit City University of Hong Kong Hong Kong",
       "The Hong Kong Polytechnic University Shenzhen Research Institute Shenzhen"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155208823",
@@ -1423,7 +1479,9 @@
       "Beijing Laboratory of Metallic Materials and Processing for Modern Transportation School of Advanced Materials Innovation University of Science and Technology Beijing Beijing",
       "Institute of Materials Intelligent Technology Liaoning Academy of Materials Shenyang",
       "Science and Technology on Advanced High Temperature Structural Materials Laboratory Beijing Institute of Aeronautical Materials AECC Beijing"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7154462841",
@@ -1638,7 +1696,9 @@
       "Materials Science and Engineering Clemson University Clemson SC",
       "School of Mechanical and Automotive Engineering Clemson University Clemson SC",
       "Los Alamos National Laboratory Los Alamos NM"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7140909021",
@@ -1720,7 +1780,9 @@
       "Institute of Engineering Thermophysics, Chinese Academy of Sciences, Beijing 100190,",
       "School of Integrated Circuits, Shanghai Jiao Tong University, Shanghai 200240,",
       "State Key Laboratory of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7140109887",
@@ -1755,7 +1817,9 @@
     "affiliations": [
       "School of Aerospace Mechanical and Mechatronic Engineering and Sydney Nano Institute (Sydney Nano) The University of Sydney Sydney NSW",
       "Sanya Research Institute of Hunan University of Science and Technology Sanya Hainan"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7138840261",
@@ -1884,7 +1948,9 @@
       "School of Materials and Metallurgy University of Science and Technology Liaoning Anshan",
       "State Key Laboratory of Rolling and Automation Northeastern University Shenyang",
       "Guangxi Advanced Aluminum Processing Innovation Center Co., Ltd Nanning"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7131390123",
@@ -1932,7 +1998,9 @@
       "Engineering Research Center of Conducting Materials and Composite Technology Ministry of Education, Shaanxi Key Laboratory of Electrical Materials and Infiltration Technology Shaanxi Laboratory of Advanced Materials School of Materials Science and Engineering Xi'an University of Technology Xi'an",
       "Faculty of Humanities and Foreign Languages Xi'an University of Technology Xi'an",
       "Faculty of Computer Science and Engineering Xi'an University of Technology Xi'an"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7130640703",
@@ -2020,7 +2088,9 @@
       "Beijing Computational Science Research Center Beijing",
       "Dongguan Institute of Materials Science and Technology Chinese Academy of Sciences Dongguan",
       "Department of Materials Science and Engineering City University of Hong Kong Hong Kong"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7128167245",
@@ -2378,7 +2448,9 @@
       "State Key Laboratory of Precious Metal Functional Materials Tianjin University Tianjin People's Republic of",
       "National Key laboratory of Science and Technology on Materials Under Shock and Impact, School of Materials Science and Engineering Beijing Institute of Technology Beijing People's Republic of",
       "Herbert Gleiter Institute of Nanoscience, School of Materials Science and Engineering Nanjing University of Science and Technology Nanjing People's Republic of"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7125677088",
@@ -2469,7 +2541,9 @@
       "Collaborative Innovation Center of Steel Technology University of Science and Technology Beijing Beijing",
       "Department of Mechanical Engineering National University of Singapore Singapore",
       "School of Materials Science and Engineering Fuyao University of Science and Technology Fuzhou Fujian"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7124470585",
@@ -2583,7 +2657,9 @@
       "Department of Materials Science &amp; Engineering Pohang University of Science &amp; Technology Pohang",
       "Graduate Institute of Ferrous &amp; Eco Materials Technology, Pohang University of Science &amp; Technology Pohang,Korea Pohang",
       "Department of Plasticity Technology School of Materials Science and Engineering Shanghai Jiao Tong University Shanghai"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7118185743",
@@ -2665,7 +2741,9 @@
       "Advanced Studies in Precision Materials Yantai University Yantai",
       "School of Materials Science and Engineering Herbert Gleiter Institute of Nanoscience Nanjing University of Science and Technology Nanjing",
       "Department of Materials Science and Engineering The University of Tennessee Knoxville"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7167939549",
@@ -2737,7 +2815,9 @@
       "Key Lab of Pico Electron Microscopy of Hainan Province Hainan University Haikou Hainan Province",
       "Singapore Centre for 3D Printing School of Mechanical and Aerospace Engineering Nanyang Technological University 50 Nanyang Avenue Singapore",
       "Max Planck Institute for Sustainable Materials Max‐Planck‐Straße 1 40237 Düsseldorf"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4417506454",
@@ -3036,7 +3116,9 @@
       "Department of Electrical Engineering and Computer Science Massachusetts Institute of Technology Cambridge MA",
       "Nuclear Science and Technology Department Brookhaven National Laboratory Upton NY",
       "Center for Functional Nanomaterials Brookhaven National Laboratory Upton NY"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416829746",
@@ -3077,7 +3159,9 @@
     "affiliations": [
       "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an",
       "Xinjiang Xiangrun New Materials Technology Co., Ltd. Hami"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416410525",
@@ -3156,7 +3240,9 @@
       "Max‐Planck‐Institute for Sustainable Materials 40237 Düsseldorf",
       "Department of Materials Science and Engineering Korea University Seoul 02841 Republic of",
       "Department of Materials Imperial College London London SW7 2AZ"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416214901",
@@ -3209,7 +3295,9 @@
       "Institute for Carbon Neutrality, University of Science and Technology Beijing, Beijing,",
       "COMAC Shanghai Aircraft Manufacturing Co. Ltd., Shanghai,",
       "Jiangxi Baohang Advanced Materials Co. Ltd., Nanchang 330224,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416112707",
@@ -3327,7 +3415,9 @@
       "Department of Dermatology, Shanghai Skin Disease Hospital Tongji University School of Medicine Shanghai",
       "Institute of Psoriasis Tongji University School of Medicine Shanghai",
       "Department of Orthopedic Oncology, Shanghai General Hospital Shanghai Jiao Tong University School of Medicine Shanghai"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4415737385",
@@ -3479,7 +3569,9 @@
     ],
     "affiliations": [
       "Center for Alloy Innovation and Design, State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414656439",
@@ -3517,7 +3609,9 @@
     "affiliations": [
       "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an Shaanxi",
       "State Key Lab of Metal Matrix Composites School of Materials Science and Engineering Shanghai Jiao Tong University Shanghai"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414407578",
@@ -3555,7 +3649,9 @@
       "National Key Laboratory for Precision Hot Processing of Metals School of Materials Science and Engineering Harbin Institute of Technology Harbin",
       "School of Energy and Power Engineering Shandong University Jinan",
       "Department of Mechanical Manufacturing and Biomedical Engineering Trinity College Dublin The University of Dublin Dublin 2 Ireland"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414294950",
@@ -3604,7 +3700,9 @@
       "Institute for Advanced Materials and Technology University of Science and Technology Beijing Beijing",
       "School of Life, Beijing Institute of Technology No. 5, Zhongguancun South Street, Haidian District Beijing",
       "Faculty of Advanced Science and Technology Kumamoto University 2‐39‐1 Kurokami Chuo‐Ku Kumamoto 860‐8555"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414092841",
@@ -3666,7 +3764,9 @@
     "affiliations": [
       "Department of Mechanical and Construction Engineering Northumbria University Newcastle upon Tyne NE1 8ST",
       "Physical Science and Engineering Division King Abdullah University of Science and Technology (KAUST) Thuwal 23955‐6900 Saudi Arabia"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4413759612",
@@ -3753,7 +3853,9 @@
     "affiliations": [
       "Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016,",
       "School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4413330237",
@@ -3799,7 +3901,9 @@
       "Centre for Future Materials University of Southern Queensland Springfield Campus Springfield Central QLD",
       "Institute of New Energy and Low‐Carbon Technology Sichuan University Chengdu",
       "College of Physics Sichuan University Chengdu"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4413110773",
@@ -3935,7 +4039,9 @@
       "School of Aerospace and Mechanical Engineering University of Oklahoma Norman OK 73019‐1052",
       "Neutron Scattering Division Oak Ridge National Laboratory Oak Ridge TN",
       "Division of Advanced Materials Engineering Kongju National University Cheonan Chungnam 330‐717 Republic of"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412929253",
@@ -4017,7 +4123,9 @@
       "Department of Microstructure Physics and Alloy Design, Max Planck Institute for Sustainable Materials, 40237 Düsseldorf,",
       "Department of Materials Design, Institute of Hydrogen Technology, Helmholtz-Zentrum hereon GmbH, 21502 Geesthacht,",
       "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412407513",
@@ -4110,7 +4218,9 @@
       "CENIMAT/I3N Department of Materials Science NOVA School of Science and Technology Universidade NOVA de Lisboa Caparica 2829‐516 Portugal",
       "Department of Mechanical Engineering Research Institute for Advanced Manufacturing The Hong Kong Polytechnic University Hong Kong",
       "The Hong Kong Polytechnic University Shenzhen Research Institute Shenzhen"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412365383",
@@ -4152,7 +4262,9 @@
       "College of Materials Science and Engineering Hohai University Changzhou",
       "Guangdong Key Laboratory for Advanced Metallic Materials Processing South China University of Technology Guangzhou",
       "Institute of Physics Chinese Academy of Science Beijing"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412006436",
@@ -4192,7 +4304,9 @@
     "affiliations": [
       "State Key Laboratory for Advanced Metals and Materials University of Science and Technology Beijing Beijing",
       "Beijing Advanced Innovation Center for Materials Genome Engineering School of Materials Science and Engineering University of Science and Technology Beijing Beijing"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4411847096",
@@ -4277,7 +4391,9 @@
       "Erich Schmid Institute of Materials Science Austrian Academy of Sciences Leoben",
       "Chair of General and Analytical Chemistry Montanuniversität Leoben Leoben",
       "Deutsches Elektronen‐Synchrotron DESY 22607 Germany Hamburg"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4411450475",
@@ -4312,7 +4428,9 @@
     ],
     "affiliations": [
       "State Key Laboratory for Mechanical Behavior of Materials Xi'an Jiaotong University Xi'an"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4411413353",
@@ -4402,7 +4520,9 @@
       "Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong,",
       "Nano-Manufacturing Laboratory (NML), Shenzhen Research Institute of City University of Hong Kong, Shenzhen,",
       "Department of Mechanical Engineering, The University of Hong Kong, Pokfulam, Hong Kong"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4409983689",
@@ -4436,7 +4556,9 @@
     "affiliations": [
       "Shenyang National Laboratory for Materials Science Institute of Metal Research Chinese Academy of Sciences Shenyang",
       "School of Materials Science and Engineering University of Science and Technology of China Shenyang"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4409905020",
@@ -4518,7 +4640,9 @@
       "Inter‐University 3D Atom Probe Tomography Unit Center for Advanced Nuclear Safety and Sustainable Development City University of Hong Kong Hong Kong",
       "Department of Mechanical Engineering Research Institute for Advanced Manufacturing The Hong Kong Polytechnic University Hong Kong",
       "Department of Materials Science and Engineering University of Tennessee Knoxville TN"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4409148326",
@@ -4569,7 +4693,9 @@
       "Hong Kong Branch of National Precious Metals Material Engineering Research Center City University of Hong Kong Hong Kong",
       "Department of Materials Science and Engineering The University of Tennessee (UT) Knoxville TN",
       "City University of Hong Kong Shenzhen Research Institute Greater Bay Joint Division Shenyang National Laboratory for Materials Science Shenzhen"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4408892025",
@@ -4610,7 +4736,9 @@
       "Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA,",
       "School for the Engineering of Matter, Transport, and Energy, Arizona State University, Tempe, AZ,",
       "Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4408884096",
@@ -4649,7 +4777,9 @@
       "Institute of Materials Science Technical University of Darmstadt Alarich‐Weiss‐Str. 2 Darmstadt",
       "Department of Materials Science and Engineering KTH ‐ Royal, Institute of Technology Stockholm SE‐10044",
       "Max Planck Institute for Sustainable Materials Max‐Planck‐Str. 1 Düsseldorf"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4408301203",
@@ -4692,7 +4822,9 @@
       "State Key Laboratory of High‐Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics Chinese Academy of Sciences Shanghai",
       "Key Laboratory of Modern Metallurgical Technology of Ministry of Education North China University of Science and Technology Tangshan",
       "Engineering Cluster Singapore Institute of Technology Singapore 519961 Republic of"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4407874055",
@@ -4827,7 +4959,9 @@
       "Department of Systems Engineering City University of Hong Kong Tat Chee Avenue, Kowloon Tong Kowloon Hong Kong",
       "Nano and Advanced Materials Institute Science Park West Avenue Hong Kong Science Park Hong Kong",
       "Department of Materials Science and Engineering City University of Hong Kong Tat Chee Avenue, Kowloon Tong Kowloon Hong Kong"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4407392555",
@@ -4995,7 +5129,9 @@
       "Max Planck Institute for Sustainable Materials, Düsseldorf,",
       "National Engineering Research Center of Light Alloy Net Forming, Shanghai Jiao Tong University, Shanghai,",
       "Centre for Advanced Structural Materials, Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong,"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4406714008",
@@ -5076,7 +5212,9 @@
       "School of Materials Science and Engineering Harbin Institute of Technology Harbin",
       "Zhengzhou Research Institute Harbin Institute of Technology Zhengzhou",
       "National Key Laboratory for Precision Hot Processing of Metals School of Materials Science and Engineering Harbin Institute of Technology Harbin"
-    ]
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4406375849",
@@ -5099,7 +5237,14 @@
       "骨整合"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4406300203",
@@ -5123,7 +5268,14 @@
       "强度预测"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4406322878",
@@ -5146,7 +5298,14 @@
       "电子结构"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4406027921",
@@ -5170,7 +5329,14 @@
       "第一性原理"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4406001160",
@@ -5194,7 +5360,14 @@
       "低热膨胀"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4405478157",
@@ -5219,7 +5392,14 @@
       "短程有序"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4405230952",
@@ -5243,7 +5423,14 @@
       "肿瘤增敏"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4405022457",
@@ -5267,7 +5454,14 @@
       "强度塑性"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4404840246",
@@ -5291,7 +5485,14 @@
       "加工硬化"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4404599639",
@@ -5315,7 +5516,14 @@
       "合金简化"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4403745815",
@@ -5338,7 +5546,14 @@
       "综述"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402666544",
@@ -5362,7 +5577,14 @@
       "第一性原理"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402584204",
@@ -5386,7 +5608,14 @@
       "轻质"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402483332",
@@ -5410,7 +5639,14 @@
       "电子结构"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402298935",
@@ -5434,7 +5670,14 @@
       "力学性能"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402221466",
@@ -5458,7 +5701,14 @@
       "抗疲劳"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402007148",
@@ -5482,7 +5732,14 @@
       "抗屈曲"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4402007606",
@@ -5505,7 +5762,14 @@
       "柔性电路"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401961180",
@@ -5529,7 +5793,14 @@
       "电子封装"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401794128",
@@ -5553,7 +5824,14 @@
       "共格析出"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401758284",
@@ -5577,7 +5855,14 @@
       "增材制造"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401695877",
@@ -5601,7 +5886,14 @@
       "综述"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401672571",
@@ -5625,7 +5917,14 @@
       "高压"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401503531",
@@ -5649,7 +5948,14 @@
       "裂纹偏转"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4401452152",
@@ -5673,7 +5979,14 @@
       "热稳定性"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4400447395",
@@ -5697,7 +6010,14 @@
       "强塑性"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4400248596",
@@ -5721,7 +6041,14 @@
       "表征方法"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4400237811",
@@ -5744,7 +6071,14 @@
       "观点"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4400001401",
@@ -5767,7 +6101,14 @@
       "富镍正极"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4399776655",
@@ -5791,7 +6132,14 @@
       "增材制造"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4399150554",
@@ -5815,7 +6163,14 @@
       "强韧平衡"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4399038433",
@@ -5839,7 +6194,14 @@
       "负极"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4396951878",
@@ -5863,7 +6225,14 @@
       "稀土"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4396925673",
@@ -5887,7 +6256,14 @@
       "旋锻"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4396808207",
@@ -5911,7 +6287,14 @@
       "形变孪晶"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4395668251",
@@ -5934,7 +6317,14 @@
       "变形机制"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4395668803",
@@ -5957,7 +6347,14 @@
       "高温力学"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4395011710",
@@ -5980,7 +6377,14 @@
       "电极材料"
     ],
     "new": false,
-    "added_on": "2026-08-27"
+    "added_on": "2026-08-27",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4394713438",
@@ -6004,7 +6408,14 @@
       "韧化"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4394718102",
@@ -6028,7 +6439,14 @@
       "位错增殖"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4392761766",
@@ -6052,7 +6470,14 @@
       "异质结构"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4392656369",
@@ -6076,7 +6501,14 @@
       "预张力"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4392289100",
@@ -6100,7 +6532,14 @@
       "高温力学"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4392242824",
@@ -6123,7 +6562,14 @@
       "孔隙缺陷"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4392120341",
@@ -6147,7 +6593,14 @@
       "蠕变"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391883310",
@@ -6171,7 +6624,14 @@
       "原位透射电镜"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391756148",
@@ -6195,7 +6655,14 @@
       "Nb-Cr合金化"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391657930",
@@ -6219,7 +6686,14 @@
       "强塑性"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391640529",
@@ -6241,7 +6715,14 @@
       "评论"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391318870",
@@ -6265,7 +6746,14 @@
       "蜂窝组织"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4391052797",
@@ -6288,7 +6776,14 @@
       "骨整合"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4390570927",
@@ -6311,7 +6806,14 @@
       "塑性"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4390540622",
@@ -6335,7 +6837,14 @@
       "热处理"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4390841965",
@@ -6357,7 +6866,14 @@
       "软体机器人"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4389509881",
@@ -6380,7 +6896,14 @@
       "多组元合金"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4389474896",
@@ -6404,7 +6927,14 @@
       "CALPHAD"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4388851605",
@@ -6427,7 +6957,14 @@
       "疲劳"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4388750736",
@@ -6451,7 +6988,14 @@
       "位错"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4388523645",
@@ -6474,7 +7018,14 @@
       "力学稳定性"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4388035479",
@@ -6498,7 +7049,14 @@
       "组织架构"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4387611194",
@@ -6522,7 +7080,14 @@
       "形状记忆"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4387096185",
@@ -6543,7 +7108,14 @@
       "评述"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4386988753",
@@ -6567,7 +7139,14 @@
       "力学性能"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4386735425",
@@ -6591,7 +7170,14 @@
       "化学不均匀"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4386706511",
@@ -6615,7 +7201,14 @@
       "相变塑性"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4386726849",
@@ -6638,7 +7231,14 @@
       "综述"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4385948799",
@@ -6661,7 +7261,14 @@
       "AlSi10Mg"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4385568365",
@@ -6684,7 +7291,14 @@
       "自旋涨落"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4383872232",
@@ -6708,7 +7322,14 @@
       "位错钉扎"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4383710571",
@@ -6731,7 +7352,14 @@
       "体内实验"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4382632242",
@@ -6754,7 +7382,14 @@
       "力学强化"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4380589692",
@@ -6778,7 +7413,14 @@
       "铁合金"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4379600914",
@@ -6801,7 +7443,14 @@
       "磁性"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4379117785",
@@ -6825,7 +7474,14 @@
       "第一性原理"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4378469099",
@@ -6847,7 +7503,14 @@
       "超高真空"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   },
   {
     "id": "https://openalex.org/W4378227025",
@@ -6870,6 +7533,13 @@
       "位错传递"
     ],
     "new": true,
-    "added_on": "2026-08-28"
+    "added_on": "2026-08-28",
+    "authors": [],
+    "affiliations": [],
+    "backfill_missing": [
+      "authors",
+      "affiliations"
+    ],
+    "backfill_pending": true
   }
 ]
