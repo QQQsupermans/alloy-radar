@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://openalex.org/W7204222821",
+    "doi": "10.1038/s41467-026-77119-6",
+    "url": "https://doi.org/10.1038/s41467-026-77119-6",
+    "title_en": "Knowledge-informed graph attention networks enable defect-free alloy design for laser additive manufacturing",
+    "title_zh": "知识引导的图注意力网络实现激光增材制造用无缺陷合金设计",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2026-08-26",
+    "year": 2026,
+    "abstract_en": "Machine learning offers a promising approach to design high-performance alloys for laser additive manufacturing, by bypassing convoluted physical models and identifying correlations among composition, processing, microcracks/porosity and properties. However, conventional machine learning methods face limitations, e.g., overfitting or unreasonable design results, due to reliance on large, high-quality datasets. Here, we introduce a generic framework operable with smaller experimental datasets, by integrating knowledge-informed graph modeling alongside data uncertainty quantification. The generic physical-metallurgy knowledge and the stochasticity of experimental defect distributions from produced material are rationally balanced. To validate the approach, we detail the development of a new defect-free Ni superalloy possessing excellent laser printability, thermal stability, and high mechanical strength. Mechanism mining revealed a possible origin for this performance, which was confirmed by atom probe tomography. Subsequently, we developed a new laser-printable aluminum alloy through the same approach, highlighting the framework’s potential to accelerate next-generation alloy design for additive manufacturing. The authors report a machine-learning framework that combines a physical-metallurgy knowledge graph with uncertainty analysis to design alloys for laser powder bed fusion from small datasets, yielding crack-free nickel and aluminum alloys with high performance.",
+    "abstract_zh": "机器学习为设计激光增材制造用高性能合金提供了有前景的途径，可绕过繁复的物理模型、识别成分-工艺-微裂纹/孔隙-性能之间的关联。然而传统机器学习方法因依赖大规模高质量数据集而存在过拟合或设计结果不合理等局限。本文提出一个可在较小实验数据集上运行的通用框架，将知识引导的图建模与数据不确定性量化相结合，合理平衡通用物理冶金知识与所制材料实验缺陷分布的随机性。为验证该方法，作者据此开发出一种兼具优异激光可打印性、热稳定性与高力学性能的新型无缺陷镍基高温合金。",
+    "summary_zh": "提出融合物理冶金知识与数据不确定性量化的图注意力网络框架，可在小样本数据集上工作，据此设计出兼具优异激光可打印性、热稳定性与高力学性能的新型无缺陷镍基高温合金。",
+    "subtopic": "计算 / 机器学习设计",
+    "keywords": [
+      "机器学习",
+      "增材制造",
+      "图神经网络",
+      "镍基高温合金",
+      "无缺陷设计"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W7204246388",
+    "doi": "10.1126/sciadv.aee6666",
+    "url": "https://doi.org/10.1126/sciadv.aee6666",
+    "title_en": "Amorphization-templated nanocrystallization endows TiNi alloys with ultrahigh strength and programmable superelasticity",
+    "title_zh": "非晶模板化纳米晶化赋予TiNi合金超高强度与可编程超弹性",
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "date": "2026-08-26",
+    "year": 2026,
+    "abstract_en": "The concurrent achievement of high strength, ductility, and superelasticity in metals remains a grand challenge. Conventional TiNi alloys, although superelastic, suffer from low strength and modest superelasticity. Here, we report a bulk nanostructuring strategy that not only overcomes these limitations but also enables programmable mechanical response. By combining moderate cryogenic deformation to create a bulk amorphous precursor with pulsed electric current–driven nanocrystallization, we produce a Ti 49 Ni 51 alloy that exhibits an exceptional combination of properties: a tensile strength over 2 gigapascals (GPa), ductility up to 12%, and a giant recoverable strain of 9%. The enhanced functionality stems from a nanoscale martensitic transformation that proceeds sequentially across nanograins of varying sizes, rather than simultaneously as in coarse-grained materials. This mechanism allows the superelastic response to be tunable, offering tailored stress-strain curves with adjustable transformation stresses and shapes ranging from plateau-like to linear. Our amorphization-templated nanocrystallization method is potentially scalable and bridges the gap between ultrastrong structural materials and advanced functional applications.",
+    "abstract_zh": "在金属中同时实现高强度、塑性与超弹性仍是重大挑战。传统TiNi合金虽具超弹性，但强度低、超弹性有限。本文报道一种块体纳米结构化策略，不仅克服上述局限，还实现可编程的力学响应：通过适度低温变形制备块体非晶前驱体，再结合脉冲电流驱动的纳米晶化，制备出Ti49Ni51合金，展现出优异的性能组合——抗拉强度超过2 GPa、塑性达12%、巨大可回复应变9%。功能增强源于纳米级马氏体相变在不同尺寸纳米晶间顺序进行（而非粗晶材料中的同时进行）。",
+    "summary_zh": "通过低温变形制备块体非晶前驱体并以脉冲电流驱动纳米晶化，使Ti49Ni51合金同时获得>2 GPa抗拉强度、12%塑性和9%可回复应变，源于纳米晶间尺寸梯度的顺序马氏体相变机制。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "形状记忆合金",
+      "超弹性",
+      "纳米晶",
+      "非晶",
+      "马氏体相变"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
     "id": "https://openalex.org/W4416052750",
     "doi": "10.1038/s41563-026-02727-y",
     "url": "https://doi.org/10.1038/s41563-026-02727-y",
@@ -19,7 +67,7 @@
       "形核长大",
       "微观组织"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -43,7 +91,7 @@
       "成分构筑",
       "亚稳β相"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5050,7 +5098,7 @@
       "光热涂层",
       "骨整合"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5074,7 +5122,7 @@
       "紧束缚模型",
       "强度预测"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5097,7 +5145,7 @@
       "面内各向异性",
       "电子结构"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5121,7 +5169,7 @@
       "抗辐照",
       "第一性原理"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5145,7 +5193,7 @@
       "原位析出",
       "低热膨胀"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5170,7 +5218,7 @@
       "调幅分解",
       "短程有序"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5194,7 +5242,7 @@
       "产氢",
       "肿瘤增敏"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5218,7 +5266,7 @@
       "B2有序",
       "强度塑性"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5242,7 +5290,7 @@
       "位错交滑移",
       "加工硬化"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5266,7 +5314,7 @@
       "马氏体",
       "合金简化"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5289,7 +5337,7 @@
       "高熵",
       "综述"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5313,7 +5361,7 @@
       "螺型位错",
       "第一性原理"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5337,7 +5385,7 @@
       "阻尼",
       "轻质"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5361,7 +5409,7 @@
       "高熵合金",
       "电子结构"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5385,7 +5433,7 @@
       "量热",
       "力学性能"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5409,7 +5457,7 @@
       "马氏体相变",
       "抗疲劳"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5433,7 +5481,7 @@
       "增材制造",
       "抗屈曲"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5456,7 +5504,7 @@
       "非晶碳",
       "柔性电路"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5480,7 +5528,7 @@
       "热导率",
       "电子封装"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5504,7 +5552,7 @@
       "短程有序",
       "共格析出"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5528,7 +5576,7 @@
       "光镊",
       "增材制造"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5552,7 +5600,7 @@
       "层错能",
       "综述"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5576,7 +5624,7 @@
       "固溶强化",
       "高压"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5600,7 +5648,7 @@
       "梯度结构",
       "裂纹偏转"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5624,7 +5672,7 @@
       "有序无序",
       "热稳定性"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5648,7 +5696,7 @@
       "时效",
       "强塑性"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5672,7 +5720,7 @@
       "CoCrNi",
       "表征方法"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5695,7 +5743,7 @@
       "可复现性",
       "观点"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5718,7 +5766,7 @@
       "凝胶聚合物电解质",
       "富镍正极"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5742,7 +5790,7 @@
       "热力学",
       "增材制造"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5766,7 +5814,7 @@
       "L1₂",
       "强韧平衡"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5790,7 +5838,7 @@
       "纳米压痕",
       "负极"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5814,7 +5862,7 @@
       "磁热效应",
       "稀土"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5838,7 +5886,7 @@
       "位错源",
       "旋锻"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5862,7 +5910,7 @@
       "共格界面",
       "形变孪晶"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5885,7 +5933,7 @@
       "加工硬化",
       "变形机制"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5908,7 +5956,7 @@
       "耐热",
       "高温力学"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
   },
   {
@@ -5931,7 +5979,897 @@
       "锂离子电池",
       "电极材料"
     ],
-    "new": true,
+    "new": false,
     "added_on": "2026-08-27"
+  },
+  {
+    "id": "https://openalex.org/W4394713438",
+    "doi": "10.1126/science.adn2428",
+    "url": "https://doi.org/10.1126/science.adn2428",
+    "title_en": "Kink bands promote exceptional fracture resistance in a NbTaTiHf refractory medium-entropy alloy",
+    "title_zh": "扭折带促进NbTaTiHf难熔中熵合金的优异断裂抗力",
+    "journal": "Science",
+    "issn": "0036-8075",
+    "date": "2024-04-11",
+    "year": 2024,
+    "abstract_en": "Single-phase body-centered cubic (bcc) refractory medium- or high-entropy alloys can retain compressive strength at elevated temperatures but suffer from extremely low tensile ductility and fracture toughness. We examined the strength and fracture toughness of a bcc refractory alloy, NbTaTiHf, from 77 to 1473 kelvin. This alloy’s behavior differed from that of comparable systems by having fracture toughness over 253 MPa·m 1/2 , which we attribute to a dynamic competition between screw and edge dislocations in controlling the plasticity at a crack tip. Whereas the glide and intersection of screw and mixed dislocations promotes strain hardening controlling uniform deformation, the coordinated slip of <111> edge dislocations with {110} and {112} glide planes prolongs nonuniform strain through formation of kink bands. These bands suppress strain hardening by reorienting microscale bands of the crystal along directions of higher resolved shear stress and continually nucleate to accommodate localized strain and distribute damage away from a crack tip.",
+    "abstract_zh": "单相体心立方（bcc）难熔中/高熵合金可在高温下保持压缩强度，但拉伸塑性与断裂韧性极低。本文研究了bcc难熔合金NbTaTiHf在77至1473 K的强度与断裂韧性。该合金断裂韧性超过253 MPa·m^0.5，行为不同于同类体系，作者将其归因于裂尖处螺型与刃型位错在控制塑性时的动态竞争：螺型与混合位错的滑移与交割促进应变硬化以控制均匀变形，而<111>刃型位错在{110}和{112}滑移面上的协调滑移通过形成扭折带延长非均匀应变，这些扭折带通过重新取向抑制应变硬化。",
+    "summary_zh": "在NbTaTiHf体心立方难熔中熵合金中，刃型位错协调滑移形成的扭折带使断裂韧性超过253 MPa·m^0.5，揭示螺型与刃型位错的动态竞争主导裂尖塑性。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "难熔中熵合金",
+      "断裂韧性",
+      "扭折带",
+      "位错",
+      "韧化"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4394718102",
+    "doi": "10.1038/s41563-024-01871-7",
+    "url": "https://doi.org/10.1038/s41563-024-01871-7",
+    "title_en": "Harnessing instability for work hardening in multi-principal element alloys",
+    "title_zh": "在多主元合金中驾驭失稳以实现加工硬化",
+    "journal": "Nature Materials",
+    "issn": "1476-1122",
+    "date": "2024-04-11",
+    "year": 2024,
+    "abstract_en": "The strength-ductility trade-off has long been a Gordian knot in conventional metallic structural materials and it is no exception in multi-principal element alloys. In particular, at ultrahigh yield strengths, plastic instability, that is, necking, happens prematurely, because of which ductility almost entirely disappears. This is due to the growing difficulty in the production and accumulation of dislocations from the very beginning of tensile deformation that renders the conventional dislocation hardening insufficient. Here we propose that premature necking can be harnessed for work hardening in a VCoNi multi-principal element alloy. Lüders banding as an initial tensile response induces the ongoing localized necking at the band front to produce both triaxial stress and strain gradient, which enables the rapid multiplication of dislocations. This leads to forest dislocation hardening, plus extra work hardening due to the interaction of dislocations with the local-chemical-order regions. The dual work hardening combines to restrain and stabilize the premature necking in reverse as well as to facilitate uniform deformation. Consequently, a superior strength-and-ductility synergy is achieved with a ductility of ~20% and yield strength of 2 GPa during room-temperature and cryogenic deformation. These findings offer an instability-control paradigm for synergistic work hardening to conquer the strength-ductility paradox at ultrahigh yield strengths.",
+    "abstract_zh": "强度-塑性倒置长期以来是传统金属结构材料的\"戈尔迪之结\"，多主元合金亦不例外。尤其在超高屈服强度下，塑性失稳（即颈缩）过早发生，导致塑性几乎完全消失，这是因为从拉伸变形一开始位错的产生与累积就日益困难，使传统位错硬化不足。本文提出可将过早颈缩转化为加工硬化：在VCoNi多主元合金中，吕德斯带作为初始拉伸响应在带前沿诱导持续的局部颈缩，产生三轴应力与应变梯度，从而使位错快速增殖，导致森林位错硬化。",
+    "summary_zh": "提出利用吕德斯带诱导的局部颈缩在VCoNi多主元合金中产生三轴应力与应变梯度、驱动位错快速增殖实现森林位错硬化，从而\"变害为利\"克服超高强度下的过早颈缩。",
+    "subtopic": "塑性 / 强韧平衡",
+    "keywords": [
+      "多主元合金",
+      "加工硬化",
+      "吕德斯带",
+      "颈缩",
+      "位错增殖"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4392761766",
+    "doi": "10.1038/s41467-024-46613-0",
+    "url": "https://doi.org/10.1038/s41467-024-46613-0",
+    "title_en": "An isotropic zero thermal expansion alloy with super-high toughness",
+    "title_zh": "一种各向同性零热膨胀且具超高韧性的合金",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-03-13",
+    "year": 2024,
+    "abstract_en": "Abstract Zero thermal expansion (ZTE) alloys with high mechanical response are crucial for their practical usage. Yet, unifying the ZTE behavior and mechanical response in one material is a grand obstacle, especially in multicomponent ZTE alloys. Herein, we report a near isotropic zero thermal expansion (αl = 1.10 × 10−6 K−1, 260–310 K) in the natural heterogeneous LaFe54Co3.5Si3.35 alloy, which exhibits a super-high toughness of 277.8 ± 14.7 J cm−3. Chemical partition, in the dual-phase structure, assumes the role of not only modulating thermal expansion through magnetic interaction but also enhancing mechanical properties via interface bonding. The comprehensive analysis reveals that the hierarchically synergistic enhancement among lattice, phase interface, and heterogeneous structure is significant for strong toughness. Our findings pave the way to tailor thermal expansion and obtain prominent mechanical properties in multicomponent alloys, which is essential to ultra-stable functional materials.",
+    "abstract_zh": "兼具高力学响应的零热膨胀（ZTE）合金对其实际应用至关重要，然而在一种材料中统一ZTE行为与力学响应是巨大障碍，尤其在多组元ZTE合金中。本文报道在天然异质LaFe54Co3.5Si3.35合金中实现近各向同性零热膨胀（αl=1.10×10^-6 K^-1，260–310 K），并展现277.8±14.7 J/cm³的超高韧性。双相结构中的化学配分既通过磁相互作用调控热膨胀，又通过界面结合增强力学性能。分析表明晶格、相界面与异质结构之间的层次协同增强对高韧性至关重要。",
+    "summary_zh": "在天然异质LaFe54Co3.5Si3.35合金中实现近各向同性零热膨胀（260–310 K）的同时获得277.8 J/cm³超高韧性，双相结构的化学配分兼顾磁性调控热膨胀与界面强化力学性能。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "零热膨胀",
+      "韧性",
+      "双相组织",
+      "界面强化",
+      "异质结构"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4392656369",
+    "doi": "10.1038/s41467-024-46502-6",
+    "url": "https://doi.org/10.1038/s41467-024-46502-6",
+    "title_en": "Float-stacked graphene–PMMA laminate",
+    "title_zh": "漂浮堆叠的石墨烯–PMMA层压材料",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-03-11",
+    "year": 2024,
+    "abstract_en": "Abstract Semi-infinite single-atom-thick graphene is an ideal reinforcing material that can simultaneously improve the mechanical, electrical, and thermal properties of matrix. Here, we present a float-stacking strategy to accurately align the monolayer graphene reinforcement in polymer matrix. We float graphene-poly(methylmethacrylate) (PMMA) membrane (GPM) at the water–air interface, and wind-up layer-by-layer by roller. During the stacking process, the inherent water meniscus continuously induces web tension of the GPM, suppressing wrinkle and folding generation. Moreover, rolling-up and hot-rolling mill process above the glass transition temperature of PMMA induces conformal contact between each layer. This allows for pre-tension of the composite, maximizing its reinforcing efficiency. The number and spacing of the embedded graphene fillers are precisely controlled. Notably, we accurately align 100 layers of monolayer graphene in a PMMA matrix with the same intervals to achieve a specific strength of about 118.5 MPa g −1 cm 3 , which is higher than that of lightweight Al alloy, and a thermal conductivity of about 4.00 W m −1 K −1 , which is increased by about 2,000 %, compared to the PMMA film.",
+    "abstract_zh": "半无限单原子厚石墨烯是一种理想增强材料，可同时改善基体的力学、电学与热学性能。本文提出一种漂浮堆叠策略，将单层石墨烯增强体精确排列于聚合物基体中：在水-气界面漂浮石墨烯-聚甲基丙烯酸甲酯（PMMA）膜，用辊逐层卷绕。堆叠过程中固有的水弯月面持续对膜施加张力，抑制皱褶与折叠。玻璃化温度以上的卷绕与热轧使各层共形接触，实现复合材料预张力，最大化增强效率，并精确控制石墨烯填料的数量与间距。",
+    "summary_zh": "（非合金力学工作）提出漂浮堆叠策略将单层石墨烯精确排列于PMMA基体中，逐层卷绕并热轧实现共形接触与预张力，最大化石墨烯增强效率。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "石墨烯",
+      "聚合物复合材料",
+      "层压",
+      "增强",
+      "预张力"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4392289100",
+    "doi": "10.1002/advs.202309693",
+    "url": "https://doi.org/10.1002/advs.202309693",
+    "title_en": "Ink‐Extrusion 3D Printing and Silicide Coating of HfNbTaTiZr Refractory High‐Entropy Alloy for Extreme Temperature Applications",
+    "title_zh": "面向极端温度应用的HfNbTaTiZr难熔高熵合金墨水挤出3D打印与硅化物涂层",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2024-02-28",
+    "year": 2024,
+    "abstract_en": "Abstract An oxygen‐resistant refractory high‐entropy alloy is synthesized in microlattice or bulk form by 3D ink‐extrusion printing, interdiffusion, and silicide coating. Additive manufacturing of equiatomic HfNbTaTiZr is implemented by extruding inks containing hydride powders, de‐binding under H2, and sintering under vacuum. The sequential decomposition of hydride powders (HfH2+NbH+TaH0.5+TiH2+ZrH2) is followed by in situ X‐ray diffraction. Upon sintering at 1400 °C for 18 h, a nearly fully densified, equiatomic HfNbTaTiZr alloy is synthesized; on slow cooling, both α‐HCP and β‐BCC phases are formed, but on quenching, a metastable single β‐BCC phase is obtained. Printed and sintered HfNbTaTiZr alloys with ≈1 wt.% O shows excellent mechanical properties at high temperatures. Oxidation resistance is achieved by silicide coating via pack cementation. A small‐size lattice‐core sandwich is fabricated and tested with high‐temperature flames to demonstrate the versatility of this sequential approach (printing, sintering, and siliconizing) for high‐temperature, high‐stress applications of refractory high‐entropy alloys.",
+    "abstract_zh": "本文通过3D墨水挤出打印、互扩散与硅化物涂层，制备出微点阵或块体形式的抗氧化难熔高熵合金。等原子比HfNbTaTiZr的增材制造通过挤出含氢化物粉末的墨水、在H2下脱粘、真空烧结实现。氢化物粉末（HfH2+NbH+TaH0.5+TiH2+ZrH2）的顺序分解由原位X射线衍射跟踪。1400°C烧结18 h后获得近全致密等原子比HfNbTaTiZr合金；缓冷形成α-HCP与β-BCC两相，淬火则获得亚稳单一β-BCC相。含约1 wt%氧的打印烧结HfNbTaTiZr合金在高温下展现优异力学性能，包渗硅化物涂层赋予抗氧化性。",
+    "summary_zh": "通过墨水挤出3D打印氢化物粉末并烧结制备近全致密等原子比HfNbTaTiZr难熔高熵合金，硅化物涂层赋予抗氧化性，在极端高温下展现优异力学性能。",
+    "subtopic": "增材制造 / 加工–力学",
+    "keywords": [
+      "难熔高熵合金",
+      "增材制造",
+      "墨水挤出",
+      "硅化物涂层",
+      "高温力学"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4392242824",
+    "doi": "10.1038/s41586-024-07048-1",
+    "url": "https://doi.org/10.1038/s41586-024-07048-1",
+    "title_en": "High fatigue resistance in a titanium alloy via near-void-free 3D printing",
+    "title_zh": "通过近无孔隙3D打印在钛合金中实现高疲劳抗力",
+    "journal": "Nature",
+    "issn": "0028-0836",
+    "date": "2024-02-28",
+    "year": 2024,
+    "abstract_en": "",
+    "abstract_zh": "",
+    "summary_zh": "（无摘要）通过近无孔隙3D打印在钛合金中实现高疲劳抗力。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "钛合金",
+      "疲劳",
+      "增材制造",
+      "孔隙缺陷"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4392120341",
+    "doi": "10.1038/s41467-024-45639-8",
+    "url": "https://doi.org/10.1038/s41467-024-45639-8",
+    "title_en": "Intrinsic factors responsible for brittle versus ductile nature of refractory high-entropy alloys",
+    "title_zh": "决定难熔高熵合金脆性与韧性本质的内在因素",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-02-24",
+    "year": 2024,
+    "abstract_en": "Refractory high-entropy alloys (RHEAs) are of interest for ultrahigh-temperature applications. To overcome their drawbacks - low-temperature brittleness and poor creep strength at high temperatures - improved fundamental understanding is needed. Using experiments, theory, and modeling, we investigated prototypical body-centered cubic (BCC) RHEAs, TiZrHfNbTa and VNbMoTaW. The former is compressible to 77 K, whereas the latter is not below 298 K. Hexagonal close-packed (HCP) elements in TiZrHfNbTa lower its dislocation core energy, increase lattice distortion, and lower its shear modulus relative to VNbMoTaW whose elements are all BCC. Screw dislocations dominate TiZrHfNbTa plasticity, but equal numbers of edges and screws exist in VNbTaMoW. Dislocation cores are compact in VNbTaMoW and extended in TiZrHfNbTa, and different macroscopic slip planes are activated in the two RHEAs, which we attribute to the concentration of HCP elements. Our findings demonstrate how ductility and strength can be controlled through the ratio of HCP to BCC elements in RHEAs.",
+    "abstract_zh": "难熔高熵合金（RHEA）在超高温应用中备受关注。为克服其低温脆性与高温蠕变强度差的缺陷，需要更深入的基础理解。作者结合实验、理论与模拟研究了原型体心立方（BCC）RHEA——TiZrHfNbTa与VNbMoTaW。前者可压缩至77 K，后者在298 K以下则不可压缩。TiZrHfNbTa中的密排六方（HCP）元素降低其位错核心能、增大晶格畸变并降低剪切模量（相对于全BCC元素的VNbMoTaW）。螺型位错主导TiZrHfNbTa塑性，而VNbTaMoW中刃型与螺型位错数量相当；VNbTaMoW位错核紧凑、TiZrHfNbTa位错核扩展，两者激活不同的宏观滑移面。",
+    "summary_zh": "结合实验与理论揭示TiZrHfNbTa中HCP元素降低位错核心能、增大晶格畸变并降低剪切模量使其低温可塑，阐明难熔高熵合金脆-韧本征差异源于位错核结构与滑移面的不同。",
+    "subtopic": "变形机制 / 位错·孪生",
+    "keywords": [
+      "难熔高熵合金",
+      "脆性",
+      "位错核",
+      "晶格畸变",
+      "蠕变"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391883310",
+    "doi": "10.1038/s41467-024-45696-z",
+    "url": "https://doi.org/10.1038/s41467-024-45696-z",
+    "title_en": "Rejuvenation as the origin of planar defects in the CrCoNi medium entropy alloy",
+    "title_zh": "回春作为CrCoNi中熵合金平面缺陷的起源",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-02-16",
+    "year": 2024,
+    "abstract_en": "High or medium- entropy alloys (HEAs/MEAs) are multi-principal element alloys with equal atomic elemental composition, some of which have shown record-breaking mechanical performance. However, the link between short-range order (SRO) and the exceptional mechanical properties of these alloys has remained elusive. The local destruction of SRO by dislocation glide has been predicted to lead to a rejuvenated state with increased entropy and free energy, creating softer zones within the matrix and planar fault boundaries that enhance the ductility, but this has not been verified. Here, we integrate in situ nanomechanical testing with energy-filtered four-dimensional scanning transmission electron microscopy (4D-STEM) and directly observe the rejuvenation during cyclic mechanical loading in single crystal CrCoNi at room temperature. Surprisingly, stacking faults (SFs) and twin boundaries (TBs) are reversible in initial cycles but become irreversible after a thousand cycles, indicating SF energy reduction and rejuvenation. Molecular dynamics (MD) simulation further reveals that the local breakdown of SRO in the MEA triggers these SF reversibility changes. As a result, the deformation features in HEAs/MEAs remain planar and highly localized to the rejuvenated planes, leading to the superior damage tolerance characteristic in this class of alloys.",
+    "abstract_zh": "高熵/中熵合金（HEA/MEA）是等原子成分的多主元合金，其中一些展现出破纪录的力学性能。然而短程有序（SRO）与这些合金优异力学性能之间的联系仍不明确。理论预测位错滑移对SRO的局部破坏会导致熵与自由能增加的回春态，在基体内形成较软区域与平面缺陷边界从而增强塑性，但此前未被验证。本文将原位纳米力学测试与能量过滤四维扫描透射电镜（4D-STEM）结合，在室温循环加载下直接观测到CrCoNi单晶中的回春现象，并发现层错与孪晶界的形成。",
+    "summary_zh": "通过原位纳米力学测试结合4D-STEM直接观测CrCoNi单晶循环加载中的\"回春\"现象，证实位错滑移局部破坏短程有序产生软化区与平面缺陷从而增强塑性。",
+    "subtopic": "变形机制 / 位错·孪生",
+    "keywords": [
+      "中熵合金",
+      "短程有序",
+      "层错",
+      "回春",
+      "原位透射电镜"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391756148",
+    "doi": "10.1038/s41467-024-45470-1",
+    "url": "https://doi.org/10.1038/s41467-024-45470-1",
+    "title_en": "Ultrastrong and ductile steel welds achieved by fine interlocking microstructures with film-like retained austenite",
+    "title_zh": "通过含膜状残余奥氏体的细互锁组织实现超强高韧钢焊缝",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-02-12",
+    "year": 2024,
+    "abstract_en": "The degradation of mechanical properties caused by grain coarsening or the formation of brittle phases during welding reduces the longevity of products. Here, we report advances in the weld quality of ultra-high strength steels by utilizing Nb and Cr instead of Ni. Sole addition of Cr, as an alternative to Ni, has limitations in developing fine weld microstructure, while it is revealed that the coupling effects of Nb and Cr additions make a finer interlocking weld microstructures with a higher fraction of retained austenite due to the decrease in austenite to acicular ferrite and bainite transformation temperature and carbon activity. As a result, an alloying design with Nb and Cr creates ultrastrong and ductile steel welds with enhanced tensile properties, impact toughness, and fatigue strength, at 45% lower material costs and lower environmental impact by removing Ni.",
+    "abstract_zh": "焊接过程中晶粒粗化或脆性相形成导致的力学性能退化会缩短产品寿命。本文报道利用Nb和Cr替代Ni提升超高强度钢焊缝质量的进展。单独添加Cr替代Ni在形成细焊缝组织方面存在局限，而Nb与Cr的耦合作用因降低奥氏体向针状铁素体、贝氏体的转变温度及碳活度，形成更细的互锁焊缝组织与更高比例的残余奥氏体。结果表明Nb-Cr合金设计在材料成本降低45%、去除Ni降低环境影响的同时，制备出兼具优异拉伸性能、冲击韧性与疲劳强度的超强高韧钢焊缝。",
+    "summary_zh": "用Nb+Cr替代Ni细化焊缝互锁组织并提高膜状残余奥氏体比例，使超高强钢焊缝在材料成本降低45%的同时兼具高强度、塑性、冲击韧性与疲劳强度。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "焊接",
+      "残余奥氏体",
+      "超高强钢",
+      "组织细化",
+      "Nb-Cr合金化"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391657930",
+    "doi": "10.1126/science.adj0141",
+    "url": "https://doi.org/10.1126/science.adj0141",
+    "title_en": "Ultrauniform, strong, and ductile 3D-printed titanium alloy through bifunctional alloy design",
+    "title_zh": "通过双功能合金设计实现超均匀、高强度且高塑性的3D打印钛合金",
+    "journal": "Science",
+    "issn": "0036-8075",
+    "date": "2024-02-08",
+    "year": 2024,
+    "abstract_en": "Coarse columnar grains and heterogeneously distributed phases commonly form in metallic alloys produced by three-dimensional (3D) printing and are often considered undesirable because they can impart nonuniform and inferior mechanical properties. We demonstrate a design strategy to unlock consistent and enhanced properties directly from 3D printing. Using Ti-5Al-5Mo-5V-3Cr as a model alloy, we show that adding molybdenum (Mo) nanoparticles promotes grain refinement during solidification and suppresses the formation of phase heterogeneities during solid-state thermal cycling. The microstructural change because of the bifunctional additive results in uniform mechanical properties and simultaneous enhancement of both strength and ductility. We demonstrate how this alloy can be modified by a single component to address unfavorable microstructures, providing a pathway to achieve desirable mechanical characteristics directly from 3D printing.",
+    "abstract_zh": "3D打印金属合金中常形成粗大柱状晶与非均匀分布的相，通常被认为不利，因其会导致非均匀且较差的力学性能。本文展示一种可直接从3D打印中获得一致且增强性能的设计策略：以Ti-5Al-5Mo-5V-3Cr为模型合金，添加钼（Mo）纳米颗粒在凝固时促进晶粒细化，并在固态热循环中抑制相异质性形成。这种双功能添加剂引起的组织变化带来均匀的力学性能并同时提升强度与塑性，展示了如何通过单一组分改性合金以解决不利组织。",
+    "summary_zh": "在Ti-5Al-5Mo-5V-3Cr中添加Mo纳米颗粒，凝固时细化晶粒并抑制固态热循环中的相异质性，使3D打印钛合金获得均匀且同步提升的强度与塑性。",
+    "subtopic": "增材制造 / 加工–力学",
+    "keywords": [
+      "钛合金",
+      "增材制造",
+      "晶粒细化",
+      "双功能设计",
+      "强塑性"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391640529",
+    "doi": "10.1126/science.adn6566",
+    "url": "https://doi.org/10.1126/science.adn6566",
+    "title_en": "Stabilizing 3D-printed metal alloys",
+    "title_zh": "稳定3D打印金属合金",
+    "journal": "Science",
+    "issn": "0036-8075",
+    "date": "2024-02-08",
+    "year": 2024,
+    "abstract_en": "A design strategy overcomes the strength-ductility trade-off in alloy manufacturing.",
+    "abstract_zh": "一种设计策略克服了合金制造中的强度-塑性倒置。",
+    "summary_zh": "（评论文章）介绍一种克服合金制造中强度-塑性倒置的设计策略。",
+    "subtopic": "增材制造 / 加工–力学",
+    "keywords": [
+      "增材制造",
+      "强塑性倒置",
+      "评论"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391318870",
+    "doi": "10.1038/s41467-024-45178-2",
+    "url": "https://doi.org/10.1038/s41467-024-45178-2",
+    "title_en": "A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure intrinsically toughened by 3D-printing",
+    "title_zh": "通过3D打印本征增韧、具纳米桥蜂窝组织的强抗断裂高熵合金",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2024-01-29",
+    "year": 2024,
+    "abstract_en": "Abstract Strengthening materials via conventional “top-down” processes generally involves restricting dislocation movement by precipitation or grain refinement, which invariably restricts the movement of dislocations away from, or towards, a crack tip, thereby severely compromising their fracture resistance. In the present study, a high-entropy alloy Al 0.5 CrCoFeNi is produced by the laser powder-bed fusion process, a “bottom-up” additive manufacturing process similar to how nature builds structures, with the microstructure resembling a nano-bridged honeycomb structure consisting of a face-centered cubic ( fcc ) matrix and an interwoven hexagonal net of an ordered body-centered cubic B2 phase. While the B2 phase, combined with high-dislocation density and solid-solution strengthening, provides strength to the material, the nano-bridges of dislocations connecting the fcc cells, i.e ., the channels between the B2 phase on the cell boundaries, provide highways for dislocation movement away from the crack tip. Consequently, the nature-inspired microstructure imparts the material with an excellent combination of strength and toughness.",
+    "abstract_zh": "传统\"自上而下\"工艺通过析出或晶粒细化限制位错运动来强化材料，但这不可避免地限制了位错离开或趋向裂尖的运动，从而严重损害其抗断裂性。本文用激光粉末床熔融\"自下而上\"增材制造工艺制备Al0.5CrCoFeNi高熵合金，其组织类似纳米桥蜂窝结构，由面心立方（fcc）基体与有序体心立方B2相交织的六方网构成。B2相结合高位错密度与固溶强化提供强度，而连接fcc胞的位错纳米桥提供本征断裂韧性。",
+    "summary_zh": "用激光粉末床熔融制备Al0.5CrCoFeNi高熵合金，形成FCC基体与B2相交织的纳米桥蜂窝组织，B2相与固溶强化提供强度、位错纳米桥提供本征断裂韧性。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "高熵合金",
+      "断裂抗力",
+      "增材制造",
+      "纳米桥",
+      "蜂窝组织"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4391052797",
+    "doi": "10.1002/advs.202307812",
+    "url": "https://doi.org/10.1002/advs.202307812",
+    "title_en": "Biodegradable Zn‐5Dy Alloy with Enhanced Osteo/Angio‐Genic Activity and Osteointegration Effect via Regulation of SIRT4‐Dependent Mitochondrial Function",
+    "title_zh": "通过调控SIRT4依赖的线粒体功能增强成骨/血管生成活性与骨整合的可降解Zn-5Dy合金",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2024-01-19",
+    "year": 2024,
+    "abstract_en": "Zinc (Zn)-dysprosium (Dy) binary alloys are promising biodegradable bone fracture fixation implants owing to their attractive biodegradability and mechanical properties. However, their clinical application is a challenge for bone fracture healing, due to the lack of Zn-Dy alloys with tailored proper bio-mechanical and osteointegration properties for bone regeneration. A Zn-5Dy alloy with high strength and ductility and a degradation rate aligned with the bone remodeling cycle is developed. Here, mechanical stability is further confirmed, proving that Zn-5Dy alloy can resist aging in the degradation process, thus meeting the mechanical requirements of fracture fixation. In vitro cellular experiments reveal that the Zn-5Dy alloy enhances osteogenesis and angiogenesis by elevating SIRT4-mediated mitochondrial function. In vivo Micro-CT, SEM-EDS, and immunohistochemistry analyses further indicate good biosafety, suitable biodegradation rate, and great osteointegration of Zn-5Dy alloy during bone healing, which also depends on the upregulation of SIRT4-mediated mitochondrial events. Overall, the study is the first to report a Zn-5Dy alloy that exerts remarkable osteointegration properties and has a strong potential to promote bone healing. Furthermore, the results highlight the importance of mitochondrial modulation and shall guide the future development of mitochondria-targeting materials in enhancing bone fracture healing.",
+    "abstract_zh": "锌（Zn）-镝（Dy）二元合金因其良好的生物降解性与力学性能，是有前景的可降解骨折固定植入材料。然而其临床应用因缺乏具有合适生物力学与骨整合性能的Zn-Dy合金而受限。本文开发出兼具高强度、塑性及与骨重塑周期匹配的降解速率的Zn-5Dy合金，并证实其力学稳定性——可抵抗降解过程中的老化，满足骨折固定的力学要求。体外细胞实验表明Zn-5Dy合金通过提升SIRT4介导的线粒体功能增强成骨与血管生成；体内Micro-CT、SEM-EDS与免疫组化进一步证实其骨整合效果。",
+    "summary_zh": "（偏生物医用）开发兼具高强度、塑性与匹配骨重塑周期降解速率的可降解Zn-5Dy合金，通过SIRT4介导线粒体功能促进成骨与血管生成，改善骨折固定植入体骨整合。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "可降解锌合金",
+      "生物医用",
+      "强塑性",
+      "骨整合"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4390570927",
+    "doi": "10.1038/s41586-023-06894-9",
+    "url": "https://doi.org/10.1038/s41586-023-06894-9",
+    "title_en": "Negative mixing enthalpy solid solutions deliver high strength and ductility",
+    "title_zh": "负混合焓固溶体实现高强度与高塑性",
+    "journal": "Nature",
+    "issn": "0028-0836",
+    "date": "2024-01-03",
+    "year": 2024,
+    "abstract_en": "",
+    "abstract_zh": "",
+    "summary_zh": "（无摘要）负混合焓固溶体实现高强度与高塑性的兼顾。",
+    "subtopic": "强度 / 强化机制",
+    "keywords": [
+      "固溶体",
+      "负混合焓",
+      "强度",
+      "塑性"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4390540622",
+    "doi": "10.1002/advs.202307982",
+    "url": "https://doi.org/10.1002/advs.202307982",
+    "title_en": "Interpretable Predicting Creep Rupture Life of Superalloys: Enhanced by Domain‐Specific Knowledge",
+    "title_zh": "可解释地预测高温合金蠕变断裂寿命：领域知识增强",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2024-01-02",
+    "year": 2024,
+    "abstract_en": "Evaluating and understanding the effect of manufacturing processes on the creep performance in superalloys poses a significant challenge due to the intricate composition involved. This study presents a machine-learning strategy capable of evaluating the effect of the heat treatment process on the creep performance of superalloys and predicting creep rupture life with high accuracy. This approach integrates classification and regression models with domain-specific knowledge. The physical constraints lead to significantly enhanced prediction accuracy of the classification and regression models. Moreover, the heat treatment process is evaluated as the most important descriptor by integrating machine learning with superalloy creep theory. The heat treatment design of Waspaloy alloy is used as the experimental validation. The improved heat treatment leads to a significant enhancement in creep performance (5.5 times higher than the previous study). The research provides novel insights for enhancing the precision of predicting creep rupture life in superalloys, with the potential to broaden its applicability to the study of the effects of heat treatment processes on other properties. Furthermore, it offers auxiliary support for the utilization of machine learning in the design of heat treatment processes of superalloys.",
+    "abstract_zh": "由于成分复杂，评估与理解制造工艺对高温合金蠕变性能的影响极具挑战。本研究提出一种机器学习策略，能评估热处理工艺对高温合金蠕变性能的影响并高精度预测蠕变断裂寿命。该方法将分类与回归模型和领域专门知识相结合，物理约束显著提升了分类与回归模型的预测精度。此外，通过将机器学习与高温合金蠕变理论结合，热处理工艺被评估为最重要的描述符。以Waspaloy合金的热处理设计作为实验验证，改进的热处理显著提升蠕变性能。",
+    "summary_zh": "提出融合领域知识的机器学习策略，将分类与回归模型结合物理约束高精度预测高温合金蠕变断裂寿命，并识别热处理为最重要因素，经Waspaloy实验验证。",
+    "subtopic": "计算 / 机器学习设计",
+    "keywords": [
+      "高温合金",
+      "蠕变寿命",
+      "机器学习",
+      "可解释性",
+      "热处理"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4390841965",
+    "doi": "10.1002/advs.202470014",
+    "url": "https://doi.org/10.1002/advs.202470014",
+    "title_en": "Soft Self‐Healing Robot Driven by New Micro Two‐Way Shape Memory Alloy Spring (Adv. Sci. 2/2024)",
+    "title_zh": "由新型微型双程形状记忆合金弹簧驱动的软体自愈合机器人（Adv. Sci. 2/2024封面）",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2024-01-01",
+    "year": 2024,
+    "abstract_en": "Soft Self-Healing Robot Soft robotic bodies are susceptible to mechanical fatigue, punctures, electrical breakdown, and ageing. Chaoying Wan, Min Pan, and co-workers create a soft self-healing robot using a thermoplastic MG-SBS elastomer tube fabricated by melt-extrusion to allow the robot to self-heal autonomously at room temperature. After repeated damage and being separated into several parts, the robot is able to heal and enable almost complete recovery of robot performance. More details can be found in article number 2305163.",
+    "abstract_zh": "软体自愈合机器人：软体机器人本体易受机械疲劳、穿刺、电击穿与老化影响。Chaoying Wan、Min Pan等人利用熔融挤出制备的热塑性MG-SBS弹性体管制造软体自愈合机器人，使其可在室温下自主自愈合。在反复损伤并被分离为数块后，机器人能够自愈并几乎完全恢复性能。",
+    "summary_zh": "（封面/非合金力学）介绍由新型微型双程形状记忆合金弹簧驱动、可室温自愈合的软体机器人。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "形状记忆合金",
+      "自愈合",
+      "软体机器人"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4389509881",
+    "doi": "10.1038/s41467-023-43953-1",
+    "url": "https://doi.org/10.1038/s41467-023-43953-1",
+    "title_en": "Strong and ductile high temperature soft magnets through Widmanstätten precipitates",
+    "title_zh": "通过魏氏组织析出相实现强而韧的高温软磁材料",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-12-09",
+    "year": 2023,
+    "abstract_en": "Fast growth of sustainable energy production requires massive electrification of transport, industry and households, with electrical motors as key components. These need soft magnets with high saturation magnetization, mechanical strength, and thermal stability to operate efficiently and safely. Reconciling these properties in one material is challenging because thermally-stable microstructures for strength increase conflict with magnetic performance. Here, we present a material concept that combines thermal stability, soft magnetic response, and high mechanical strength. The strong and ductile soft ferromagnet is realized as a multicomponent alloy in which precipitates with a large aspect ratio form a Widmanstätten pattern. The material shows excellent magnetic and mechanical properties at high temperatures while the reference alloy with identical composition devoid of precipitates significantly loses its magnetization and strength at identical temperatures. The work provides a new avenue to develop soft magnets for high-temperature applications, enabling efficient use of sustainable electrical energy under harsh operating conditions.",
+    "abstract_zh": "可持续能源生产的快速增长需要交通、工业与家庭的大规模电气化，电动机是关键部件，其需要具有高饱和磁化强度、力学强度与热稳定性的软磁材料以高效安全运行。在一种材料中协调这些性能颇具挑战，因为提升强度所需的热稳定组织与磁性能相冲突。本文提出一种兼具热稳定性、软磁响应与高力学强度的材料概念：这种强而韧的软铁磁体是一种多组元合金，其中大长径比的析出相形成魏氏组织图案。该材料在高温下展现优异磁性与力学性能，而无析出相的同成分参比合金则显著逊色。",
+    "summary_zh": "提出在多组元合金中形成大长径比魏氏组织析出相的材料概念，兼顾热稳定性、软磁响应与高力学强度，高温下磁性与力学性能均优于无析出的同成分参比合金。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "软磁",
+      "魏氏组织析出",
+      "高温强度",
+      "多组元合金"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4389474896",
+    "doi": "10.1126/sciadv.adj1511",
+    "url": "https://doi.org/10.1126/sciadv.adj1511",
+    "title_en": "Origin of age softening in the refractory high-entropy alloys",
+    "title_zh": "难熔高熵合金中时效软化的起源",
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "date": "2023-12-08",
+    "year": 2023,
+    "abstract_en": "Refractory high-entropy alloys (RHEAs) are emerging materials with potential for use under extreme conditions. As a newly developed material system, a comprehensive understanding of their long-term stability under potential service temperatures remains to be established. This study examined a titanium-vanadium-niobium-tantalum alloy, a promising RHEA known for its superior high-temperature strength and room-temperature ductility. Using a combination of advanced analytical microscopies, Calculation of Phase Diagrams (CALPHAD) software, and nanoindentation, we investigated the evolution of its microstructure and mechanical properties upon aging at 700°C. Trace interstitials such as oxygen and nitrogen, initially contributing to solid solution strengthening, promote phase segregation during thermal aging. As a result of the depletion of solute interstitials within the metal matrix, a progressive softening is observed in the alloy as a function of aging time. This study, therefore, underscores the need for a better control of impurities in future development and application of RHEAs.",
+    "abstract_zh": "难熔高熵合金（RHEA）是有望用于极端条件的新兴材料。作为新开发的材料体系，其在潜在服役温度下的长期稳定性仍待建立。本研究考察了钛-钒-铌-钽合金——一种以优异高温强度与室温塑性著称的有前景RHEA。结合先进分析显微术、相图计算（CALPHAD）软件与纳米压痕，研究其在700°C时效时的组织与力学性能演变。氧、氮等痕量间隙原子初期贡献固溶强化，但在热时效期间促进相偏析，导致金属基体内溶质间隙原子耗尽，使硬度渐进下降。",
+    "summary_zh": "揭示Ti-V-Nb-Ta难熔高熵合金700°C时效软化的根源：氧氮等痕量间隙原子初期固溶强化，随后促进相偏析导致基体间隙原子耗尽，引起硬度渐进下降。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "难熔高熵合金",
+      "时效软化",
+      "间隙原子",
+      "固溶强化",
+      "CALPHAD"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4388851605",
+    "doi": "10.1002/advs.202305163",
+    "url": "https://doi.org/10.1002/advs.202305163",
+    "title_en": "Soft Self‐Healing Robot Driven by New Micro Two‐Way Shape Memory Alloy Spring",
+    "title_zh": "由新型微型双程形状记忆合金弹簧驱动的软体自愈合机器人",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-11-20",
+    "year": 2023,
+    "abstract_en": "Soft robotic bodies are susceptible to mechanical fatigue, punctures, electrical breakdown, and aging, which can result in the degradation of performance or unexpected failure. To overcome these challenges, a soft self-healing robot is created using a thermoplastic methyl thioglycolate-modified styrene-butadiene-styrene (MG-SBS) elastomer tube fabricated by melt-extrusion, to allow the robot to self-heal autonomously at room temperature. After repeated damage and being separated into several parts, the robot is able to heal its stiffness and elongation to break to enable almost complete recovery of robot performance after being allowed to heal at room temperature for 24 h. The self-healing capability of the robot is examined across the material scale to robot scale by detailed investigations of the healing process, healing efficiency, mechanical characterization of the robot, and assessment of dynamic performance before and after healing. The self-healing robot is driven by a new micro two-way shape-memory alloy (TWSMA) spring actuator which achieved a crawling speed of 21.6 cm/min, equivalent to 1.57 body length per minute. An analytical model of the robot is created to understand the robot dynamics and to act as an efficient tool for self-healing robot design and optimization. This work therefore provides a new methodology to create efficient, robust, and damage-tolerant soft robots.",
+    "abstract_zh": "软体机器人本体易受机械疲劳、穿刺、电击穿与老化影响，可能导致性能退化或意外失效。为克服这些挑战，本文用熔融挤出制备的热塑性巯基乙酸甲酯改性苯乙烯-丁二烯-苯乙烯（MG-SBS）弹性体管制造软体自愈合机器人，使其可在室温下自主自愈合。反复损伤并被分离为数块后，机器人在室温下愈合24 h即可恢复刚度与断裂伸长率，几乎完全恢复性能。作者从材料尺度到机器人尺度详细研究了愈合过程、愈合效率与力学表征。",
+    "summary_zh": "（非合金力学）用改性SBS弹性体管制备可室温自主自愈合的软体机器人，反复损伤甚至断裂后24 h内几乎完全恢复刚度、断裂伸长率与性能。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "形状记忆合金",
+      "自愈合",
+      "软体机器人",
+      "疲劳"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4388750736",
+    "doi": "10.1038/s41467-023-42894-z",
+    "url": "https://doi.org/10.1038/s41467-023-42894-z",
+    "title_en": "Room-temperature super-elongation in high-entropy alloy nanopillars",
+    "title_zh": "高熵合金纳米柱中的室温超延伸",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-11-17",
+    "year": 2023,
+    "abstract_en": "Nanoscale small-volume metallic materials typically exhibit high strengths but often suffer from a lack of tensile ductility due to undesirable premature failure. Here, we report unusual room-temperature uniform elongation up to ~110% at a high flow stress of 0.6-1.0 GPa in single-crystalline <110>-oriented CoCrFeNi high-entropy alloy nanopillars with well-defined geometries. By combining high-resolution microscopy and large-scale atomistic simulations, we reveal that this ultrahigh uniform tensile ductility is attributed to spatial and synergistic coordination of deformation twinning and dislocation slip, which effectively promote deformation delocalization and delay necking failure. These joint and/or sequential activations of the underlying displacive deformation mechanisms originate from chemical compositional heterogeneities at the atomic level and resulting wide variations in generalized stacking fault energy and associated dislocation activities. Our work provides mechanistic insights into superplastic deformations of multiple-principal element alloys at the nanoscale and opens routes for designing nanodevices with high mechanical reliability.",
+    "abstract_zh": "纳米尺度小体积金属材料通常表现出高强度，但常因过早失效而缺乏拉伸塑性。本文报道在具明确几何形状的<110>取向CoCrFeNi高熵合金单晶纳米柱中，于0.6–1.0 GPa高流变应力下实现约110%的室温均匀延伸率。结合高分辨显微术与大规模原子模拟，揭示这种超高均匀拉伸塑性归因于变形孪生与位错滑移的空间协同配合，有效促进变形离域并延迟颈缩失效。这些位移型变形机制的联合/顺序激活源于原子层面的化学成分异质性。",
+    "summary_zh": "在<110>取向CoCrFeNi高熵合金单晶纳米柱中实现室温~110%均匀延伸率（0.6–1.0 GPa高流变应力），源于孪生与位错滑移协同促进变形离域、延迟颈缩失效。",
+    "subtopic": "塑性 / 强韧平衡",
+    "keywords": [
+      "高熵合金",
+      "纳米柱",
+      "超延伸",
+      "孪生",
+      "位错"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4388523645",
+    "doi": "10.1038/s41467-023-43093-6",
+    "url": "https://doi.org/10.1038/s41467-023-43093-6",
+    "title_en": "Tailoring chemical composition of solid electrolyte interphase by selective dissolution for long-life micron-sized silicon anode",
+    "title_zh": "通过选择性溶解定制固态电解质界面化学成分以实现长寿命微米硅负极",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-11-09",
+    "year": 2023,
+    "abstract_en": "Abstract Micron-sized Si anode promises a much higher theoretical capacity than the traditional graphite anode and more attractive application prospect compared to its nanoscale counterpart. However, its severe volume expansion during lithiation requires solid electrolyte interphase (SEI) with reinforced mechanical stability. Here, we propose a solvent-induced selective dissolution strategy to in situ regulate the mechanical properties of SEI. By introducing a high-donor-number solvent, gamma-butyrolactone, into conventional electrolytes, low-modulus components of the SEI, such as Li alkyl carbonates, can be selectively dissolved upon cycling, leaving a robust SEI mainly consisting of lithium fluoride and polycarbonates. With this strategy, raw micron-sized Si anode retains 87.5% capacity after 100 cycles at 0.5 C (1500 mA g−1, 25°C), which can be improved to >300 cycles with carbon-coated micron-sized Si anode. Furthermore, the Si||LiNi0.8Co0.1Mn0.1O2 battery using the raw micron-sized Si anode with the selectively dissolved SEI retains 83.7% capacity after 150 cycles at 0.5 C (90 mA g−1). The selective dissolution effect for tailoring the SEI, as well as the corresponding cycling life of the Si anodes, is positively related to the donor number of the solvents, which highlights designing high-donor-number electrolytes as a guideline to tailor the SEI for stabilizing volume-changing alloying-type anodes in high-energy rechargeable batteries.",
+    "abstract_zh": "微米硅负极理论容量远高于传统石墨负极，应用前景也比纳米级硅更具吸引力。然而其锂化过程中严重的体积膨胀要求具有增强力学稳定性的固态电解质界面（SEI）。本文提出溶剂诱导选择性溶解策略原位调控SEI力学性能：向常规电解液引入高给体数溶剂γ-丁内酯，可选择性溶解SEI中的低模量组分（如烷基碳酸锂），留下主要由氟化锂与聚碳酸酯构成的坚固SEI。该策略使原始微米硅负极在0.5 C下循环100次后保持87.5%容量，配碳包覆可提升至300次以上。",
+    "summary_zh": "（非合金力学/电池）提出溶剂诱导选择性溶解策略原位调控硅负极SEI力学稳定性，微米硅负极循环稳定性显著提升。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "固态电解质界面",
+      "硅负极",
+      "锂电池",
+      "力学稳定性"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4388035479",
+    "doi": "10.1038/s41467-023-42326-y",
+    "url": "https://doi.org/10.1038/s41467-023-42326-y",
+    "title_en": "Additive manufacturing of alloys with programmable microstructure and properties",
+    "title_zh": "具可编程微观组织与性能的合金增材制造",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-10-30",
+    "year": 2023,
+    "abstract_en": "In metallurgy, mechanical deformation is essential to engineer the microstructure of metals and to tailor their mechanical properties. However, this practice is inapplicable to near-net-shape metal parts produced by additive manufacturing (AM), since it would irremediably compromise their carefully designed geometries. In this work, we show how to circumvent this limitation by controlling the dislocation density and thermal stability of a steel alloy produced by laser powder bed fusion (LPBF) technology. We show that by manipulating the alloy's solidification structure, we can 'program' recrystallization upon heat treatment without using mechanical deformation. When employed site-specifically, our strategy enables designing and creating complex microstructure architectures that combine recrystallized and non-recrystallized regions with different microstructural features and properties. We show how this heterogeneity may be conducive to materials with superior performance compared to those with monolithic microstructure. Our work inspires the design of high-performance metal parts with artificially engineered microstructures by AM.",
+    "abstract_zh": "在冶金学中，机械变形对于调控金属组织、定制其力学性能至关重要。然而这一做法不适用于增材制造（AM）生产的近净成形金属零件，因其会不可逆地破坏精心设计的几何形状。本文展示如何规避这一局限：通过控制激光粉末床熔融（LPBF）技术制备的钢合金的位错密度与热稳定性——通过操控合金的凝固组织，可在不使用机械变形的情况下\"编程\"热处理时的再结晶。当位点特异性应用时，该策略可设计并创建结合再结晶区与非再结晶区、具不同组织特征与性能的复杂组织架构。",
+    "summary_zh": "通过操控激光粉末床熔融钢的凝固组织与位错密度、热稳定性，在无机械变形下\"编程\"热处理再结晶，实现结合再结晶与非再结晶区的复杂组织架构。",
+    "subtopic": "增材制造 / 加工–力学",
+    "keywords": [
+      "增材制造",
+      "钢",
+      "位错密度",
+      "再结晶",
+      "组织架构"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4387611194",
+    "doi": "10.1126/sciadv.adi5817",
+    "url": "https://doi.org/10.1126/sciadv.adi5817",
+    "title_en": "Ideal plasticity and shape memory of nanolamellar high-entropy alloys",
+    "title_zh": "纳米层状高熵合金的理想塑性与形状记忆",
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "date": "2023-10-13",
+    "year": 2023,
+    "abstract_en": "Understanding the relationship among elemental compositions, nanolamellar microstructures, and mechanical properties enables the rational design of high-entropy alloys (HEAs). Here, we construct nanolamellar Al x CoCuFeNi HEAs with alternating high– and low–Al concentration layers and explore their mechanical properties using a combination of molecular dynamic simulation and density functional theory calculation. Our results show that the HEAs with nanolamellar structures exhibit ideal plastic behavior during uniaxial tensile loading, a feature not observed in homogeneous HEAs. This remarkable ideal plasticity is attributed to the unique deformation mechanisms of phase transformation coupled with dislocation nucleation and propagation in the high–Al concentration layers and the confinement and slip-blocking effect of the low–Al concentration layers. Unexpectedly, this ideal plasticity is fully reversible upon unloading, leading to a remarkable shape memory effect. Our work highlights the importance of nanolamellar structures in controlling the mechanical and functional properties of HEAs and presents a fascinating route for the design of HEAs for both functional and structural applications.",
+    "abstract_zh": "理解元素成分、纳米层状组织与力学性能之间的关系可实现高熵合金（HEA）的理性设计。本文构建了交替高、低Al浓度层的纳米层状AlxCoCuFeNi高熵合金，结合分子动力学模拟与密度泛函理论计算探究其力学性能。结果表明具纳米层状结构的HEA在单轴拉伸加载下表现出理想塑性行为，这是均质HEA所不具备的。这种理想塑性归因于高Al浓度层中相变与位错形核、扩展的耦合，以及低Al浓度层的约束与阻滑效应。",
+    "summary_zh": "用分子动力学与DFT构建交替高低Al浓度的纳米层状AlxCoCuFeNi高熵合金，展现单轴拉伸下的理想塑性，源于高Al层相变+位错与低Al层约束滑移的协同。",
+    "subtopic": "变形机制 / 位错·孪生",
+    "keywords": [
+      "高熵合金",
+      "纳米层状",
+      "理想塑性",
+      "相变",
+      "形状记忆"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4387096185",
+    "doi": "10.1038/s41563-023-01666-2",
+    "url": "https://doi.org/10.1038/s41563-023-01666-2",
+    "title_en": "Resistance to fatigue",
+    "title_zh": "抗疲劳",
+    "journal": "Nature Materials",
+    "issn": "1476-1122",
+    "date": "2023-09-27",
+    "year": 2023,
+    "abstract_en": "",
+    "abstract_zh": "",
+    "summary_zh": "（无摘要/评述）关于疲劳抗力的评述文章。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "疲劳",
+      "评述"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4386988753",
+    "doi": "10.1002/advs.202302997",
+    "url": "https://doi.org/10.1002/advs.202302997",
+    "title_en": "Unlocking the Potential of CuAgZr Metallic Glasses: A Comprehensive Exploration with Combinatorial Synthesis, High‐Throughput Characterization, and Machine Learning",
+    "title_zh": "释放CuAgZr金属玻璃的潜力：组合合成、高通量表征与机器学习的综合探索",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-09-23",
+    "year": 2023,
+    "abstract_en": "In this work, the CuAgZr metallic glasses (MGs) are investigated, a promising material for biomedical applications due to their high strength, corrosion resistance, and antibacterial activity. Using an integrated approach of combinatorial synthesis, high-throughput characterization, and machine learning (ML), the mechanical properties of CuAgZr MGs are efficiently explored. The investigation find that post-deposition oxidation in inter-columnar regions with looser packing causes high oxygen content in Cu-rich regions, significantly affecting the alloys' mechanical behavior. The study also reveals that nanoscale structural features greatly impact plastic yielding and flow in the alloys. ML algorithms are tested, and the multi-layer perceptron algorithm produced satisfactory predictions for the alloys' hardness of untested alloys, providing valuable clues for future research. The work demonstrates the potential of using combinatorial synthesis, high-throughput characterization, and ML techniques to facilitate the development of new MGs with improved strength and economic feasibility.",
+    "abstract_zh": "本文研究CuAgZr金属玻璃（MG）——一种因高强度、耐腐蚀与抗菌活性而在生物医学应用中有前景的材料。采用组合合成、高通量表征与机器学习（ML）的集成方法高效探索CuAgZr MG的力学性能。研究发现堆积较松的柱间区域沉积后氧化导致Cu富集区高氧含量，显著影响合金力学行为，纳米尺度结构特征极大影响合金的塑性屈服与流动。测试的多种ML算法中，多层感知机对未测试合金的硬度给出满意预测，为未来研究提供线索。",
+    "summary_zh": "用组合合成+高通量表征+机器学习高效探索CuAgZr金属玻璃力学性能，发现柱间氧化影响其力学行为，多层感知机可较好预测硬度。",
+    "subtopic": "计算 / 机器学习设计",
+    "keywords": [
+      "金属玻璃",
+      "高通量",
+      "机器学习",
+      "组合合成",
+      "力学性能"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4386735425",
+    "doi": "10.1038/s41467-023-41485-2",
+    "url": "https://doi.org/10.1038/s41467-023-41485-2",
+    "title_en": "Chemical inhomogeneity–induced profuse nanotwinning and phase transformation in AuCu nanowires",
+    "title_zh": "化学不均匀诱导AuCu纳米线中大量纳米孪生与相变",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-09-14",
+    "year": 2023,
+    "abstract_en": "Nanosized metals usually exhibit ultrahigh strength but suffer from low homogeneous plasticity. The origin of a strength-ductility trade-off has been well studied for pure metals, but not for random solid solution (RSS) alloys. How RSS alloys accommodate plasticity and whether they can achieve synergy between high strength and superplasticity has remained unresolved. Here, we show that face-centered cubic (FCC) RSS AuCu alloy nanowires (NWs) exhibit superplasticity of ~260% and ultrahigh strength of ~6 GPa, overcoming the trade-off between strength and ductility. These excellent properties originate from profuse hexagonal close-packed (HCP) phase generation (2H and 4H phases), recurrence of reversible FCC-HCP phase transition, and zigzag-like nanotwin generation, which has rarely been reported before. Such a mechanism stems from the inherent chemical inhomogeneity, which leads to widely distributed and overlapping energy barriers for the concurrent activation of multiple plasticity mechanisms. This naturally implies a similar deformation behavior for other highly concentrated solid-solution alloys with multiple principal elements, such as high/medium-entropy alloys. Our findings shed light on the effect of chemical inhomogeneity on the plastic deformation mechanism of solid-solution alloys.",
+    "abstract_zh": "纳米金属通常表现出超高强度但均匀塑性低。强度-塑性倒置的起源在纯金属中已有充分研究，但随机固溶（RSS）合金尚未研究。RSS合金如何协调塑性、能否实现高强度与超塑性的协同仍未解决。本文表明面心立方（FCC）随机固溶AuCu合金纳米线展现约260%的超塑性与约6 GPa的超高强度，克服了强度-塑性倒置。这些优异性能源于大量密排六方（HCP）相（2H与4H相）生成、可逆FCC-HCP相变的反复发生及锯齿状纳米孪晶生成，此前鲜有报道。该机制源于固有化学不均匀性。",
+    "summary_zh": "揭示FCC随机固溶AuCu纳米线因化学不均匀诱发大量HCP相生成、可逆FCC-HCP相变及锯齿状纳米孪晶，实现~260%超塑性与~6 GPa超高强度，克服强塑性倒置。",
+    "subtopic": "变形机制 / 位错·孪生",
+    "keywords": [
+      "纳米线",
+      "纳米孪晶",
+      "相变",
+      "超塑性",
+      "化学不均匀"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4386706511",
+    "doi": "10.1126/sciadv.adi2960",
+    "url": "https://doi.org/10.1126/sciadv.adi2960",
+    "title_en": "Valence electron concentration as key parameter to control the fracture resistance of refractory high-entropy carbides",
+    "title_zh": "价电子浓度作为控制难熔高熵碳化物断裂抗力的关键参数",
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "date": "2023-09-13",
+    "year": 2023,
+    "abstract_en": "Although high-entropy carbides (HECs) have hardness often superior to that of parent compounds, their brittleness-a problem shared with most ceramics-has severely limited their reliability. Refractory HECs in particular are attracting considerable interest due to their unique combination of mechanical and physical properties, tunable over a vast compositional space. Here, combining statistics of crack formation in bulk specimens subject to mild, moderate, and severe nanoindentation loading with ab initio molecular dynamics simulations of alloys under tension, we show that the resistance to fracture of cubic-B1 HECs correlates with their valence electron concentration (VEC). Electronic structure analyses show that VEC ≳ 9.4 electrons per formula unit enhances alloy fracture resistance due to a facile rehybridization of electronic metallic states, which activates transformation plasticity at the yield point. Our work demonstrates a reliable strategy for computationally guided and rule-based (i.e., VEC) engineering of deformation mechanisms in high entropy, solid solution, and doped ceramics.",
+    "abstract_zh": "尽管高熵碳化物（HEC）硬度常优于母体化合物，但其脆性（与多数陶瓷共有的问题）严重限制了可靠性。难熔HEC因其在广阔成分空间可调的独特力学与物理性能组合尤受关注。本文结合块体试样在轻、中、重纳米压痕载荷下裂纹形成统计与拉伸下合金的从头算分子动力学模拟，表明立方B1型HEC的抗断裂性与其价电子浓度（VEC）相关。电子结构分析表明VEC≳9.4电子/化学式单位时，金属态的易再杂化增强抗断裂性，激活相变塑性。",
+    "summary_zh": "结合裂纹统计与从头算分子动力学揭示立方B1高熵碳化物断裂抗力与价电子浓度相关，VEC≳9.4时金属态再杂化激活相变塑性以增强抗断裂。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "高熵碳化物",
+      "断裂抗力",
+      "价电子浓度",
+      "第一性原理",
+      "相变塑性"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4386726849",
+    "doi": "10.1002/advs.202303958",
+    "url": "https://doi.org/10.1002/advs.202303958",
+    "title_en": "Functionally Tailored Metal–Organic Framework Coatings for Mediating Ti Implant Osseointegration",
+    "title_zh": "功能定制的金属有机框架涂层介导钛植入体骨整合",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-09-13",
+    "year": 2023,
+    "abstract_en": "Owing to their mechanical resilience and non-toxicity, titanium implants are widely applied as the major treatment modality for the clinical intervention against bone fractures. However, the intrinsic bioinertness of Ti and its alloys often impedes the effective osseointegration of the implants, leading to severe adverse complications including implant loosening, detachment, and secondary bone damage. Consequently, new Ti implant engineering strategies are urgently needed to improve their osseointegration after implantation. Remarkably, metalorganic frameworks (MOFs) are a class of novel synthetic material consisting of coordinated metal species and organic ligands, which have demonstrated a plethora of favorable properties for modulating the interfacial properties of Ti implants. This review comprehensively summarizes the recent progress in the development of MOF-coated Ti implants and highlights their potential utility for modulating the bio-implant interface to improve implant osseointegration, of which the discussions are outlined according to their physical traits, chemical composition, and drug delivery capacity. A perspective is also provided in this review regarding the current limitations and future opportunities of MOF-coated Ti implants for orthopedic applications. The insights in this review may facilitate the rational design of more advanced Ti implants with enhanced therapeutic performance and safety.",
+    "abstract_zh": "钛植入体因其力学韧性与无毒性，被广泛用作骨折临床干预的主要治疗手段。然而钛及其合金固有的生物惰性常阻碍植入体的有效骨整合，导致植入体松动、脱落与继发骨损伤等严重并发症，因此亟需新的钛植入体工程策略以改善植入后骨整合。金属有机框架（MOF）是由配位金属物种与有机配体构成的新型合成材料，展现出调控钛植入体界面性能的诸多有利特性。本综述全面总结了MOF涂层钛植入体的最新进展。",
+    "summary_zh": "（综述/非合金力学）综述金属有机框架涂层介导钛植入体骨整合的研究进展。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "钛植入体",
+      "MOF涂层",
+      "骨整合",
+      "综述"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4385948799",
+    "doi": "10.1038/s41563-023-01651-9",
+    "url": "https://doi.org/10.1038/s41563-023-01651-9",
+    "title_en": "Achieving ultrahigh fatigue resistance in AlSi10Mg alloy by additive manufacturing",
+    "title_zh": "通过增材制造在AlSi10Mg合金中实现超高疲劳抗力",
+    "journal": "Nature Materials",
+    "issn": "1476-1122",
+    "date": "2023-08-17",
+    "year": 2023,
+    "abstract_en": "",
+    "abstract_zh": "",
+    "summary_zh": "（无摘要）通过增材制造在AlSi10Mg合金中实现超高疲劳抗力。",
+    "subtopic": "断裂 / 疲劳",
+    "keywords": [
+      "铝合金",
+      "疲劳",
+      "增材制造",
+      "AlSi10Mg"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4385568365",
+    "doi": "10.1002/advs.202303967",
+    "url": "https://doi.org/10.1002/advs.202303967",
+    "title_en": "Large Improvement of Thermoelectric Performance by Magnetism in Co‐Based Full‐Heusler Alloys",
+    "title_zh": "磁性大幅提升Co基全霍伊斯勒合金的热电性能",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-08-04",
+    "year": 2023,
+    "abstract_en": "Abstract Full‐Heusler alloys (fHAs) exhibit high mechanical strength with earth‐abundant elements, but their metallic properties tend to display small electron diffusion thermopower, limiting potential applications as excellent thermoelectric (TE) materials. Here, it is demonstrated that the Co‐based fHAs Co 2 X Al ( X = Ti, V, Nb) exhibit relatively high thermoelectric performance due to spin and charge coupling. Thermopower contributions from different magnetic mechanisms, including spin fluctuation and magnon drag are extracted. A significant contribution to thermopower from magnetism compared to that from electron diffusion is demonstrated. In Co 2 TiAl, the contribution to thermopower from spin fluctuation is higher than that from electron diffusion, resulting in an increment of 280 µW m −1 K −2 in the power factor value. Interestingly, the thermopower contribution from magnon drag can reach up to ‐47 µV K −1 , which is over 2400% larger than the electron diffusion thermopower. The power factor of Co 2 TiAl can reach 4000 µW m −1 K −2 which is comparable to that of conventional semiconducting TE materials. Moreover, the corresponding figure of merit zT can reach ≈0.1 at room temperature, which is significantly larger than that of traditional metallic materials. The work shows a promising unconventional way to create and optimize TE materials by introducing magnetism.",
+    "abstract_zh": "全霍伊斯勒合金（fHA）以地球丰富元素展现高力学强度，但其金属性往往表现出较小的电子扩散热电势，限制了其作为优异热电材料的应用潜力。本文证明Co基fHA——Co2XAl（X=Ti、V、Nb）因自旋与电荷耦合展现相对较高的热电性能。作者提取了自旋涨落、磁振子拖曳等不同磁机制对热电势的贡献，证明磁性对热电势的贡献显著大于电子扩散。在Co2TiAl中，自旋涨落对热电势的贡献高于电子扩散，功率因子提升280 µW m^-1 K^-2。",
+    "summary_zh": "（非合金力学/热电）证明Co基全霍伊斯勒合金Co2XAl因自旋-电荷耦合具较高热电性能，自旋涨落与磁振子拖曳显著贡献热电势。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "全霍伊斯勒合金",
+      "热电",
+      "磁性",
+      "自旋涨落"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4383872232",
+    "doi": "10.1002/advs.202207208",
+    "url": "https://doi.org/10.1002/advs.202207208",
+    "title_en": "A Novel Al–Cu Composite with Ultra‐High Strength at 350 °C via Dual‐Phase Particle Reinforced Submicron‐Structure",
+    "title_zh": "通过双相颗粒增强亚微米结构实现350°C下超高强度的新型Al–Cu复合材料",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-07-11",
+    "year": 2023,
+    "abstract_en": "Abstract Thermal stability determines a material's ability to maintain its performance at desired service temperatures. This is especially important for aluminum (Al) alloys, which are widely used in the commercial sector. Herein, an ultra‐strong and heat‐resistant Al‐Cu composite is fabricated with a structure of nano‐AlN and submicron‐Al2O3 particles uniformly distributed in the matrix. At 350 °C, the (8.2AlN+1Al2O3)p/Al‐0.9Cu composite achieves a high strength of 187 MPa along with a 4.6% ductility under tension. The high strength and good ductility benefit from strong pinning effect on dislocation motion and grain boundary sliding by uniform dispersion of nano‐AlN particles, in conjunction with the precipitation of Guinier–Preston (GP) zones, enhancing strain hardening capacity during plastic deformation. This work can expand the selection of Al–Cu composites for potential applications at service temperatures as high as ≈350 °C.",
+    "abstract_zh": "热稳定性决定材料在所需服役温度下保持性能的能力，这对广泛用于商业领域的铝合金尤为重要。本文制备了纳米AlN与亚微米Al2O3颗粒均匀分布于基体的超强耐热Al-Cu复合材料。350°C下，(8.2AlN+1Al2O3)p/Al-0.9Cu复合材料在拉伸下实现187 MPa的高强度与4.6%塑性。高强度与良好塑性得益于纳米AlN颗粒均匀弥散对位错运动与晶界滑移的强钉扎，以及Guinier–Preston（GP）区析出增强塑性变形中的应变硬化能力。",
+    "summary_zh": "制备纳米AlN+亚微米Al2O3颗粒均匀分布的Al-Cu复合材料，350°C下强度达187 MPa、塑性4.6%，源于颗粒对位错的强钉扎、晶界滑移抑制及GP区析出增强加工硬化。",
+    "subtopic": "强度 / 强化机制",
+    "keywords": [
+      "铝铜复合材料",
+      "高温强度",
+      "颗粒增强",
+      "GP区",
+      "位错钉扎"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4383710571",
+    "doi": "10.1002/advs.202302702",
+    "url": "https://doi.org/10.1002/advs.202302702",
+    "title_en": "Evolution from Bioinert to Bioresorbable: In Vivo Comparative Study of Additively Manufactured Metal Bone Scaffolds",
+    "title_zh": "从生物惰性到生物可吸收的演变：增材制造金属骨支架的体内对比研究",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-07-10",
+    "year": 2023,
+    "abstract_en": "Additively manufactured scaffolds offer significant potential for treating bone defects, owing to their porous, customizable architecture and functionalization capabilities. Although various biomaterials have been investigated, metals - the most successful orthopedic material - have yet to yield satisfactory results. Conventional bio-inert metals, such as titanium (Ti) and its alloys, are widely used for fixation devices and reconstructive implants, but their non-bioresorbable nature and the mechanical property mismatch with human bones limit their application as porous scaffolds for bone regeneration. Advancements in additive manufacturing have facilitated the use of bioresorbable metals, including magnesium (Mg), zinc (Zn), and their alloys, as porous scaffolds via Laser Powder Bed Fusion (L-PBF) technology. This in vivo study presents a comprehensive, side-by-side comparative analysis of the interactions between bone regeneration and additively manufactured bio-inert/bioresorbable metal scaffolds, as well as their therapeutic outcomes. The research offers an in-depth understanding of the metal scaffold-assisted bone healing process, illustrating that Mg and Zn scaffolds contribute to the bone healing process in distinct ways, but ultimately deliver superior therapeutic outcomes compared to Ti scaffolds. These findings suggest that bioresorbable metal scaffolds hold considerable promise for the clinical treatment of bone defects in the near future.",
+    "abstract_zh": "增材制造支架因其多孔、可定制的架构与功能化能力，在治疗骨缺损方面潜力巨大。尽管已研究多种生物材料，但作为最成功的骨科材料，金属尚未取得满意结果。传统生物惰性金属（如钛及其合金）广泛用于固定装置与重建植入体，但其非生物可吸收性及与人骨的力学性能失配限制了其作为骨再生多孔支架的应用。增材制造的进步促进了镁、锌及其合金等生物可吸收金属通过激光粉末床熔融（L-PBF）技术作为多孔支架的应用。本体内研究对其进行了全面的并列对比分析。",
+    "summary_zh": "（偏生物医用）体内对比研究增材制造钛与可降解镁、锌合金多孔骨支架，探讨从生物惰性到生物可吸收的演变及力学-骨再生匹配。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "骨支架",
+      "可降解金属",
+      "增材制造",
+      "体内实验"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4382632242",
+    "doi": "10.1002/advs.202302688",
+    "url": "https://doi.org/10.1002/advs.202302688",
+    "title_en": "Gibbs Adsorption and Zener Pinning Enable Mechanically Robust High‐Performance Bi 2 Te 3 ‐Based Thermoelectric Devices",
+    "title_zh": "Gibbs吸附与Zener钉扎实现力学稳健的高性能Bi2Te3基热电器件",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-06-29",
+    "year": 2023,
+    "abstract_en": "Abstract Bi 2 Te 3 ‐based alloys have great market demand in miniaturized thermoelectric (TE) devices for solid‐state refrigeration and power generation. However, their poor mechanical properties increase the fabrication cost and decrease the service durability. Here, this work reports on strengthened mechanical robustness in Bi 2 Te 3 ‐based alloys due to thermodynamic Gibbs adsorption and kinetic Zener pinning at grain boundaries enabled by MgB 2 decomposition. These effects result in much‐refined grain size and twofold enhancement of the compressive strength and Vickers hardness in (Bi 0.5 Sb 1.5 Te 3 ) 0.97 (MgB 2 ) 0.03 compared with that of traditional powder‐metallurgy‐derived Bi 0.5 Sb 1.5 Te 3 . High mechanical properties enable excellent cutting machinability in the MgB 2 ‐added samples, showing no missing corners or cracks. Moreover, adding MgB 2 facilitates the simultaneous optimization of electron and phonon transport for enhancing the TE figure of merit (ZT). By further optimizing the Bi/Sb ratio, the sample (Bi 0.4 Sb 1.6 Te 3 ) 0.97 (MgB 2 ) 0.03 shows a maximum ZT of ≈1.3 at 350 K and an average ZT of 1.1 within 300–473 K. As a consequence, robust TE devices with an energy conversion efficiency of 4.2% at a temperature difference of 215 K are fabricated. This work paves a new way for enhancing the machinability and durability of TE materials, which is especially promising for miniature devices.",
+    "abstract_zh": "Bi2Te3基合金在用于固态制冷与发电的微型热电（TE）器件中有巨大市场需求，但其较差的力学性能增加制造成本、降低服役耐久性。本文报道通过MgB2分解引发的热力学Gibbs吸附与动力学Zener钉扎在晶界处增强Bi2Te3基合金力学稳健性：这些效应使晶粒明显细化，(Bi0.5Sb1.5Te3)0.97(MgB2)0.03的压缩强度与维氏硬度较传统粉末冶金Bi0.5Sb1.5Te3提升两倍。高力学性能使MgB2添加样品具优异切削加工性，无缺角或裂纹，同时MgB2还促进热电性能优化。",
+    "summary_zh": "（偏热电/功能）通过MgB2分解引发的Gibbs吸附与Zener钉扎细化Bi2Te3基合金晶界，压缩强度与维氏硬度翻倍，兼顾优异切削加工性与热电性能。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "热电",
+      "Bi2Te3",
+      "晶界钉扎",
+      "力学强化"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4380589692",
+    "doi": "10.1038/s41467-023-39302-x",
+    "url": "https://doi.org/10.1038/s41467-023-39302-x",
+    "title_en": "Atomic motifs govern the decoration of grain boundaries by interstitial solutes",
+    "title_zh": "原子基元主导间隙溶质对晶界的装饰",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-06-15",
+    "year": 2023,
+    "abstract_en": "Grain boundaries, the two-dimensional defects between differently oriented crystals, tend to preferentially attract solutes for segregation. Solute segregation has a significant effect on the mechanical and transport properties of materials. At the atomic level, however, the interplay of structure and composition of grain boundaries remains elusive, especially with respect to light interstitial solutes like B and C. Here, we use Fe alloyed with B and C to exploit the strong interdependence of interface structure and chemistry via charge-density imaging and atom probe tomography methods. Direct imaging and quantifying of light interstitial solutes at grain boundaries provide insight into decoration tendencies governed by atomic motifs. We find that even a change in the inclination of the grain boundary plane with identical misorientation impacts grain boundary composition and atomic arrangement. Thus, it is the smallest structural hierarchical level, the atomic motifs, that controls the most important chemical properties of the grain boundaries. This insight not only closes a missing link between the structure and chemical composition of such defects but also enables the targeted design and passivation of the chemical state of grain boundaries to free them from their role as entry gates for corrosion, hydrogen embrittlement, or mechanical failure.",
+    "abstract_zh": "晶界是不同取向晶体间的二维缺陷，倾向于优先吸引溶质偏析。溶质偏析对材料的力学与输运性能有显著影响。然而在原子层面，晶界结构与成分的相互作用仍不明确，尤其对B、C等轻间隙溶质。本文用合金化B、C的Fe，通过电荷密度成像与原子探针层析方法，利用界面结构与化学的强相互依赖性，直接成像并定量晶界处的轻间隙溶质，揭示由原子基元主导的装饰倾向。研究发现即使相同取向差下晶界面倾角的改变也会影响晶界成分与原子排列。",
+    "summary_zh": "用电荷密度成像与原子探针层析揭示Fe中B、C轻间隙溶质在晶界的偏析由原子基元主导，晶界面倾角改变即影响晶界成分与原子排列，进而影响力学性能。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "晶界",
+      "间隙溶质",
+      "偏析",
+      "原子基元",
+      "铁合金"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4379600914",
+    "doi": "10.1002/advs.202302444",
+    "url": "https://doi.org/10.1002/advs.202302444",
+    "title_en": "Spin Glass Behavior in Amorphous Cr2Ge2Te6 Phase‐Change Alloy",
+    "title_zh": "非晶Cr2Ge2Te6相变合金中的自旋玻璃行为",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-06-06",
+    "year": 2023,
+    "abstract_en": "Abstract The layered crystal structure of Cr2Ge2Te6 shows ferromagnetic ordering at the two‐dimensional limit, which holds promise for spintronic applications. However, external voltage pulses can trigger amorphization of the material in nanoscale electronic devices, and it is unclear whether the loss of structural ordering leads to a change in magnetic properties. Here, it is demonstrated that Cr2Ge2Te6 preserves the spin‐polarized nature in the amorphous phase, but undergoes a magnetic transition to a spin glass state below 20 K. Quantum‐mechanical computations reveal the microscopic origin of this transition in spin configuration: it is due to strong distortions of the CrTeCr bonds, connecting chromium‐centered octahedra, and to the overall increase in disorder upon amorphization. The tunable magnetic properties of Cr2Ge2Te6 can be exploited for multifunctional, magnetic phase‐change devices that switch between crystalline and amorphous states.",
+    "abstract_zh": "Cr2Ge2Te6的层状晶体结构在二维极限下展现铁磁有序，对自旋电子学应用有前景。然而外部电压脉冲可在纳米电子器件中触发该材料的非晶化，而结构有序的丧失是否导致磁性能改变尚不清楚。本文证明Cr2Ge2Te6在非晶相中保持自旋极化性质，但在20 K以下经历向自旋玻璃态的磁转变。量子力学计算揭示这一自旋组态转变的微观起源在于连接铬中心八面体的Cr-Te-Cr键的强烈畸变及非晶化时整体无序度的增加。可调磁性能可用于多功能磁性相变应用。",
+    "summary_zh": "（非合金力学/磁性）证明非晶Cr2Ge2Te6保持自旋极化但在20 K以下转变为自旋玻璃态，源于Cr-Te-Cr键强烈畸变与非晶化无序增加。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "相变合金",
+      "自旋玻璃",
+      "非晶",
+      "磁性"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4379117785",
+    "doi": "10.1126/sciadv.adf7426",
+    "url": "https://doi.org/10.1126/sciadv.adf7426",
+    "title_en": "Elucidating the role of a unique step-like interfacial structure of η 4 precipitates in Al-Zn-Mg alloy",
+    "title_zh": "阐明Al-Zn-Mg合金中η4析出相独特台阶状界面结构的作用",
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "date": "2023-06-02",
+    "year": 2023,
+    "abstract_en": "Al-Zn-Mg alloys are widely used in the transportation industry owing to their high strength-to-weight ratio. In these alloys, the main strengthening mechanism is precipitation hardening that occurs because of the formation of nano-sized precipitates. Herein, an interfacial structure of η 4 precipitates, one of the main precipitates in these alloys, is revealed using aberration-corrected scanning transmission electron microscopy and first-principles calculations. These precipitates exhibit a pseudo-periodic steps and bridges. The results of this study demonstrate that the peculiar interface structure of η 4 /Al relieves the strain energy of η 4 precipitates thus stabilizing them. The atomistic role of this interfacial structure in the nucleation and growth of the precipitates is elucidated. This study paves the way for tailoring the mechanical properties of alloys by controlling their precipitation kinetics.",
+    "abstract_zh": "Al-Zn-Mg合金因其高比强度广泛用于交通运输业。这些合金中主要强化机制是纳米级析出相形成引起的析出硬化。本文用球差校正扫描透射电镜与第一性原理计算揭示了η4析出相（这些合金主要析出相之一）的界面结构，其呈现伪周期台阶与桥接。结果表明η4/Al的特殊界面结构缓解了η4析出相的应变能从而稳定它们，并阐明了该界面结构在析出相形核与长大中的原子级作用，为通过控制析出相定制合金力学性能铺平道路。",
+    "summary_zh": "用球差校正STEM与第一性原理揭示Al-Zn-Mg合金η4析出相的伪周期台阶-桥接界面结构可缓解应变能而稳定析出相，为通过调控析出相调节力学性能铺路。",
+    "subtopic": "微观组织 / 相–力学关联",
+    "keywords": [
+      "铝合金",
+      "析出相",
+      "界面结构",
+      "析出强化",
+      "第一性原理"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4378469099",
+    "doi": "10.1002/advs.202301243",
+    "url": "https://doi.org/10.1002/advs.202301243",
+    "title_en": "In Situ Exfoliation Method of Large‐Area 2D Materials",
+    "title_zh": "大面积二维材料的原位剥离方法",
+    "journal": "Advanced Science",
+    "issn": "2198-3844",
+    "date": "2023-05-26",
+    "year": 2023,
+    "abstract_en": "2D materials provide a rich platform to study novel physical phenomena arising from quantum confinement of charge carriers. Many of these phenomena are discovered by surface sensitive techniques, such as photoemission spectroscopy, that work in ultra-high vacuum (UHV). Success in experimental studies of 2D materials, however, inherently relies on producing adsorbate-free, large-area, high-quality samples. The method that yields 2D materials of highest quality is mechanical exfoliation from bulk-grown samples. However, as this technique is traditionally performed in a dedicated environment, the transfer of samples into vacuum requires surface cleaning that might diminish the quality of the samples. In this article, a simple method for in situ exfoliation directly in UHV is reported, which yields large-area, single-layered films. Multiple metallic and semiconducting transition metal dichalcogenides are exfoliated in situ onto Au, Ag, and Ge. The exfoliated flakes are found to be of sub-millimeter size with excellent crystallinity and purity, as supported by angle-resolved photoemission spectroscopy, atomic force microscopy, and low-energy electron diffraction. The approach is well-suited for air-sensitive 2D materials, enabling the study of a new suite of electronic properties. In addition, the exfoliation of surface alloys and the possibility of controlling the substrate-2D material twist angle is demonstrated.",
+    "abstract_zh": "二维材料为研究电荷载流子量子限域引起的新奇物理现象提供了丰富平台。许多现象由在超高真空（UHV）下工作的表面敏感技术（如光电子能谱）发现。然而二维材料实验研究的成功本质上依赖于制备无吸附、大面积、高质量样品。产生最高质量二维材料的方法是从块体生长样品中机械剥离，但该技术传统上在专门环境中进行，将样品转移至真空需要表面清洁，可能降低样品质量。本文报道一种在UHV中直接原位剥离的简易方法，可产生大面积单层膜。",
+    "summary_zh": "（非合金力学/二维材料）报道超高真空中原位剥离大面积单层2D材料的简易方法，避免样品转移中的表面污染。",
+    "subtopic": "其他（非力学）",
+    "keywords": [
+      "二维材料",
+      "机械剥离",
+      "超高真空"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
+  },
+  {
+    "id": "https://openalex.org/W4378227025",
+    "doi": "10.1038/s41467-023-38531-4",
+    "url": "https://doi.org/10.1038/s41467-023-38531-4",
+    "title_en": "Ultra-strong tungsten refractory high-entropy alloy via stepwise controllable coherent nanoprecipitations",
+    "title_zh": "通过逐步可控共格纳米析出实现超强钨基难熔高熵合金",
+    "journal": "Nature Communications",
+    "issn": "2041-1723",
+    "date": "2023-05-25",
+    "year": 2023,
+    "abstract_en": "High-performance refractory alloys with ultrahigh strength and ductility are in demand for a wide range of critical applications, such as plasma-facing components. However, it remains challenging to increase the strength of these alloys without seriously compromising their tensile ductility. Here, we put forward a strategy to \"defeat\" this trade-off in tungsten refractory high-entropy alloys by stepwise controllable coherent nanoprecipitations (SCCPs). The coherent interfaces of SCCPs facilitate the dislocation transmission and relieve the stress concentrations that can lead to premature crack initiation. As a consequence, our alloy displays an ultrahigh strength of 2.15 GPa with a tensile ductility of 15% at ambient temperature, with a high yield strength of 1.05 GPa at 800 °C. The SCCPs design concept may afford a means to develop a wide range of ultrahigh-strength metallic materials by providing a pathway for alloy design.",
+    "abstract_zh": "具超高强度与塑性的高性能难熔合金在等离子体面向部件等众多关键应用中有需求，然而在不严重损害拉伸塑性的情况下提升这些合金的强度仍具挑战。本文提出通过逐步可控共格纳米析出（SCCP）在钨基难熔高熵合金中\"击败\"这一倒置的策略：SCCP的共格界面促进位错传递、缓解可能导致过早裂纹萌生的应力集中。结果表明该合金在室温下展现2.15 GPa的超高强度与15%拉伸塑性，800°C下屈服强度达1.05 GPa。SCCP设计理念可为开发多种超高强度金属材料提供途径。",
+    "summary_zh": "提出逐步可控共格纳米析出策略在钨基难熔高熵合金中\"击败\"强塑性倒置，共格界面促进位错传递、缓解应力集中，实现2.15 GPa超高强度与15%塑性、800°C下1.05 GPa屈服强度。",
+    "subtopic": "塑性 / 强韧平衡",
+    "keywords": [
+      "钨基难熔高熵合金",
+      "共格纳米析出",
+      "强塑性",
+      "位错传递"
+    ],
+    "new": true,
+    "added_on": "2026-08-28"
   }
 ]
