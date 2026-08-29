@@ -22,13 +22,26 @@
     ],
     "new": false,
     "added_on": "2026-08-28",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Jiabo Fu",
+      "Hao Yu",
+      "Chenchong Wang",
+      "Lingyu Wang",
+      "Zhongji Sun",
+      "Jinguo Li",
+      "Sybrand van der Zwaag",
+      "Dierk Raabe",
+      "Wei Xu"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Northeastern University",
+      "Institute of Materials Research and Engineering",
+      "Chinese Academy of Sciences",
+      "Delft University of Technology",
+      "Max-Planck-Institut für Nachhaltige Materialien"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W7204246388",
@@ -53,13 +66,43 @@
     ],
     "new": false,
     "added_on": "2026-08-28",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Qianyong Zhu",
+      "Yin Zhang",
+      "Ran Li",
+      "Cheng Zhang",
+      "Dechang Zhang",
+      "Ruhao Zhou",
+      "Bo Sun",
+      "Hongliang Dong",
+      "Zhiwei Zhang",
+      "Hanqi Wang",
+      "Xichen Zhou",
+      "Xiao Liang",
+      "Chang Lü",
+      "Nithin B. Venkataraman",
+      "Ruixiao Zheng",
+      "Zhijian Wang",
+      "Xinqing Zhao",
+      "Yu Deng",
+      "Marc A. Meyers",
+      "Robert O. Ritchie",
+      "Shiteng Zhao",
+      "Hongbo Guo"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Tianmushan Laboratory",
+      "Beihang University",
+      "Peking University",
+      "Collaborative Innovation Center of Advanced Microstructures",
+      "Shanghai Advanced Research Institute",
+      "Center for High Pressure Science and Technology Advanced Research",
+      "Tescan (Czechia)",
+      "University of California San Diego",
+      "University of California, Berkeley"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4416052750",
@@ -83,13 +126,31 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Yakun Yuan",
+      "Saman Moniri",
+      "Yao Yang",
+      "Jihan Zhou",
+      "Andrew Yuan",
+      "Dennis Kim",
+      "Yongsoo Yang",
+      "Chenyang Li",
+      "Kun Luo",
+      "Qi An",
+      "Wei Chen",
+      "Peter Ercius",
+      "Jianwei Miao"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "California NanoSystems Institute",
+      "University of California, Los Angeles",
+      "Shanghai Jiao Tong University",
+      "University at Buffalo, State University of New York",
+      "Iowa State University",
+      "Lawrence Berkeley National Laboratory"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W7204082545",
@@ -114,13 +175,31 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Yaorui Ma",
+      "Yongchun Zou",
+      "Zhenghua Huang",
+      "Jiyang Yan",
+      "Di Wu",
+      "Chongrui Wang",
+      "Jianye Liu",
+      "Jichen Jin",
+      "Yuteng Gui",
+      "Kaihua Hu",
+      "Quanqing Zeng",
+      "C.T. Liu",
+      "Yunzhi Wang",
+      "Tianlong Zhang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Hong Kong University of Science and Technology",
+      "Harbin Institute of Technology",
+      "TCL (China)",
+      "City University of Hong Kong",
+      "The Ohio State University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W7203936728",
@@ -189,18 +268,20 @@
     "authors": [
       "Zairan Luo",
       "Qian Liu",
-      "Jiang Yi",
+      "Yi Jiang",
       "Boyang Wu",
       "Zhiqian Rao",
       "Mujin Yang",
       "Shi Shi",
       "Shuai Wang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Southern University of Science and Technology",
+      "Zhejiang Energy Research Institute",
+      "Zhejiang Energy Group (China)"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7196975768",
@@ -346,12 +427,12 @@
     "new": false,
     "added_on": "2026-08-16",
     "authors": [
-      "Dongdong Zhang",
+      "D.D. Zhang",
       "Hengchao Shi",
       "Jinyu Zhang",
       "Jianjun Bian",
       "Yating Ran",
-      "Qi Liu",
+      "Liu Q",
       "Xuanlai Chen",
       "Junhua Luan",
       "Zengbao Jiao",
@@ -359,11 +440,14 @@
       "Jun Sun",
       "Zibin Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Hong Kong Polytechnic University",
+      "Xi'an Jiaotong University",
+      "Xi'an University of Architecture and Technology",
+      "City University of Hong Kong"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7167814003",
@@ -395,16 +479,17 @@
       "Qi Wang",
       "Jingyue Yu",
       "Shu Wang",
-      "Jingjie Guo",
+      "J Z Guo",
       "Hengzhi Fu",
-      "Ruirun Chen",
+      "Rui Chen",
       "Turab Lookman"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Harbin Institute of Technology",
+      "OFM Research (United States)"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7167518430",
@@ -512,17 +597,17 @@
     "authors": [
       "Mintao Xue",
       "Suzhi Li",
-      "Jing Wang",
-      "Jinyang Li",
+      "Yi-Xiang Wang",
+      "J H Li",
       "Xiangdong Ding",
-      "En Ma",
+      "E. Ma",
       "Jun Sun"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Xi'an Jiaotong University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7165629018",
@@ -554,11 +639,16 @@
       "Baptiste Gault",
       "Surendra Kumar Makineni"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Indian Institute of Science Bangalore",
+      "Max-Planck-Institut für Nachhaltige Materialien",
+      "Centre National de la Recherche Scientifique",
+      "Groupe de Physique des Matériaux",
+      "Université de Rouen Normandie",
+      "Institut National des Sciences Appliquées Rouen Normandie"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7165569217",
@@ -584,29 +674,36 @@
     "new": false,
     "added_on": "2026-08-16",
     "authors": [
-      "Dongdong Zhang",
+      "D.D. Zhang",
       "Jinyu Zhang",
       "Mengyuan Hao",
       "Jianjun Bian",
       "Hengchao Shi",
       "Ranming Niu",
-      "Julie Cairney",
+      "Julie M. Cairney",
       "Song Ni",
-      "Kang Cheung Chan",
-      "Yiu Wing Mai",
+      "K.C. Chan",
+      "Yiu‐Wing Mai",
       "Min Song",
       "Wenhai Ji",
       "Ping Miao",
       "Ting Zhu",
       "Jun Sun",
-      "Evan Ma",
+      "E. Ma",
       "Zibin Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Hong Kong Polytechnic University",
+      "Xi'an Jiaotong University",
+      "Northwest Institute For Non-Ferrous Metal Research",
+      "Xi'an University of Architecture and Technology",
+      "The University of Sydney",
+      "Central South University",
+      "China Spallation Neutron Source",
+      "Georgia Institute of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7165032052",
@@ -638,11 +735,18 @@
       "Yaqiao Wu",
       "Janelle P. Wharry"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Illinois College",
+      "Urbana University",
+      "University of Illinois Urbana-Champaign",
+      "Micron (United States)",
+      "Boise State University",
+      "Eurofins (Netherlands)",
+      "Kansas State University",
+      "University of Illinois System"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7164801580",
@@ -760,18 +864,23 @@
       "Hao Gong",
       "Yushan Geng",
       "Qing Wang",
-      "Zhaoqi Chen",
+      "Z W Chen",
       "Baisong Guo",
-      "Zhixin Li",
+      "Z. C. Li",
       "Sijia Hu",
       "Anding Wang",
-      "Yong Yang"
+      "Yi Yang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "City University of Hong Kong",
+      "Chinese Academy of Sciences",
+      "Lanzhou Institute of Chemical Physics",
+      "Shanghai University",
+      "Jinan University",
+      "Dongguan University of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7162343058",
@@ -983,11 +1092,18 @@
       "Robert O. Ritchie",
       "Fuzeng Ren"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Hong Kong University of Science and Technology",
+      "Southern University of Science and Technology",
+      "Harbin Institute of Technology",
+      "Peking University",
+      "Air Force Engineering University",
+      "Xi'an Jiaotong University",
+      "University of Hong Kong",
+      "University of California, Berkeley"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7160861634",
@@ -1062,11 +1178,12 @@
       "G. Jeffrey Snyder",
       "David C. Dunand"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Northwestern University",
+      "Jet Propulsion Laboratory"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7158990926",
@@ -1093,18 +1210,20 @@
     "authors": [
       "Pawel Maniewski",
       "Robin Hartley",
-      "Timothy Lee",
-      "Matthew Whitaker",
+      "T J Lee",
+      "Matt Whitaker",
       "Bruno Moog",
       "Martynas Beresna",
       "Janice M. Dulieu-Barton",
-      "Christopher Holmes"
+      "C Holmes"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "University of Southampton",
+      "KTH Royal Institute of Technology",
+      "University of Bristol"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7159003421",
@@ -1130,31 +1249,34 @@
     "new": false,
     "added_on": "2026-08-16",
     "authors": [
-      "Yansheng Li",
+      "LI Yansheng",
       "Jiawei Yin",
       "Meiyuan Jiao",
       "Tengfei Zheng",
       "Yuan Wu",
       "Shimiao Li",
-      "Guohui Zhang",
+      "G Zhang",
       "Jiabin Yu",
       "Yunzhuo Lu",
       "Chun Shang",
-      "Haiou Yang",
+      "H Yang",
       "Yang He",
       "Huihui Zhu",
       "Sheng Zhang",
-      "Xiaobin Zhang",
-      "Xiongjun Liu",
+      "X Zhang",
+      "X C Liu",
       "Suihe Jiang",
       "Hui Wang",
-      "Zhaoping Lu"
+      "Zhaoping Lü"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "University of Science and Technology Beijing",
+      "Advanced Technology & Materials (China)",
+      "Dalian Jiaotong University",
+      "Northwestern Polytechnical University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155635144",
@@ -1181,27 +1303,35 @@
     "added_on": "2026-08-16",
     "authors": [
       "Yang Li",
-      "Tingting Chen",
+      "T Chen",
       "Shengyi Zhong",
       "Haixing Fang",
       "Pucong Sheng",
       "Siming Ma",
-      "Han Chen",
+      "H Z Chen",
       "Yuchi Cui",
       "Gang Ji",
-      "Yihao Wang",
+      "Y X Wang",
       "Yirui Chang",
       "Lei Hu",
       "Mingliang Wang",
-      "Shixin Nie",
+      "S. Nie",
       "Haowei Wang",
       "Zhe Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Shanghai Jiao Tong University",
+      "NIST Center for Neutron Research",
+      "East China University of Science and Technology",
+      "European Synchrotron Radiation Facility",
+      "Centre National de la Recherche Scientifique",
+      "École Nationale Supérieure de Chimie de Lille",
+      "Université de Lille",
+      "Unité Matériaux et Transformations",
+      "Materials Technology (United Kingdom)"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155502770",
@@ -1238,17 +1368,23 @@
       "Tao Dong",
       "Wenyao Sun",
       "Zubin Chen",
-      "Haixin Li",
+      "H H Li",
       "Zhenlin Yang",
       "Shiteng Zhao",
       "Jun Ding",
       "Robert O. Ritchie"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Harbin Engineering University",
+      "Shandong Institute of Business and Technology",
+      "Yantai University",
+      "XLAB (Slovenia)",
+      "Tianmushan Laboratory",
+      "Xi'an Jiaotong University",
+      "University of California, Berkeley"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155542102",
@@ -1275,14 +1411,15 @@
     "added_on": "2026-08-16",
     "authors": [
       "Yun Cheng",
-      "Bo Li",
-      "Fu-Zhen Xuan"
+      "B Li",
+      "Fu‐Zhen Xuan"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "East China University of Science and Technology",
+      "Shanghai Innovative Research Center of Traditional Chinese Medicine"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155383558",
@@ -1352,21 +1489,27 @@
       "Shidong Feng",
       "Zhen-Qiang Song",
       "Yanhui Liu",
+      "Yanhui Liu",
       "Bo Xu",
       "Zijing Li",
       "Yanhui Zhang",
-      "Yingdan Liu",
+      "Y. Liu",
+      "Y. Liu",
       "Ruilin Zheng",
       "Xinyu Zhang",
       "Weihua Wang",
-      "Li-Min Wang",
-      "Ri-Ping Liu"
+      "Li‐Min Wang",
+      "Ri-ping LIU"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Yanshan University",
+      "Institute of Physics",
+      "Chinese Academy of Sciences",
+      "Shanghai Institute of Optics and Fine Mechanics",
+      "Hebei University of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7155156628",
@@ -1400,11 +1543,15 @@
       "Vasisht Venkatesh",
       "David Furrer"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Johns Hopkins University",
+      "Johns Hopkins Medicine",
+      "Whitney Museum of American Art",
+      "Hartford Financial Services (United States)",
+      "Pratt Institute"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7154581324",
@@ -1430,14 +1577,15 @@
     "added_on": "2026-08-16",
     "authors": [
       "S. Pan",
-      "B. B. He",
-      "M. X. Huang"
+      "Binbin He",
+      "M.X. Huang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Southern University of Science and Technology",
+      "University of Hong Kong"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7154485582",
@@ -1507,13 +1655,13 @@
     "new": false,
     "added_on": "2026-08-16",
     "authors": [
-      "Gan Li",
+      "G LI",
       "Yuhe Huang",
       "Chunlu Zhao",
       "Xi He",
       "Shuo Wang",
       "Qiyang Tan",
-      "Ying Li",
+      "Y Li",
       "Fucong Lyu",
       "Guanghui Feng",
       "Junhua Luan",
@@ -1524,16 +1672,25 @@
       "Yuansong Zeng",
       "Zhiqiang Li",
       "Xinping Mao",
-      "Ming-Xing Zhang",
+      "Ming‐Xing Zhang",
       "Lehua Qi",
       "Qiang Zhu",
       "Jian Lu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "City University of Hong Kong",
+      "City University of Hong Kong, Shenzhen Research Institute",
+      "Shenyang Academy of Environmental Sciences (China)",
+      "University of Science and Technology Beijing",
+      "Advanced Technology & Materials (China)",
+      "Advanced Micro-Fabrication Equipment (China)",
+      "Southern University of Science and Technology",
+      "AviChina Industry & Technology (China)",
+      "The University of Queensland",
+      "Northwestern Polytechnical University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7154233778",
@@ -1561,7 +1718,7 @@
     "authors": [
       "Jinlong Su",
       "Fulin Jiang",
-      "Jin Wu",
+      "Jin‐Ming Wu",
       "Yuehua Li",
       "Ri Han",
       "Lu Wang",
@@ -1569,11 +1726,17 @@
       "Jian Wang",
       "Swee Leong Sing"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Agency for Science, Technology and Research",
+      "National University of Singapore",
+      "Hunan University",
+      "City University of Hong Kong",
+      "Singapore Institute of Manufacturing Technology",
+      "University of Nebraska–Lincoln",
+      "SingHealth"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7154165993",
@@ -1602,20 +1765,24 @@
       "Shaojie Gu",
       "Yasuhiro Kimura",
       "Yi Cui",
-      "Yasuyuki Morita",
+      "Yasuyuki MORITA",
       "Sora Isoi",
       "Chang Liu",
       "Xinming Yan",
       "Bingfeng Ju",
       "Huayong Yang",
-      "Yuhki Toku",
+      "Yuhki TOKU",
       "Yang Ju"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Nagoya University",
+      "Kumamoto University",
+      "Kyushu University",
+      "Kumamoto Health Science University",
+      "Zhejiang University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7151360472",
@@ -1647,11 +1814,11 @@
       "Tiechui Yuan",
       "Ruidi Li"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Central South University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7147642977",
@@ -1735,11 +1902,19 @@
       "Bin Jiang",
       "Fusheng Pan"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Chongqing University",
+      "Chongqing University of Science and Technology",
+      "Key Laboratory for High Strength Lightweight Metallic Materials of Shandong Province",
+      "Chongqing University of Technology",
+      "Beihang University",
+      "Université d'Orléans",
+      "Centre National de la Recherche Scientifique",
+      "Groupe de Recherches sur l'Energétique des Milieux Ionisés",
+      "HealthInsight"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7140282814",
@@ -1845,7 +2020,7 @@
     "new": false,
     "added_on": "2026-08-24",
     "authors": [
-      "Qian Li",
+      "Q. Li",
       "Lijun Jing",
       "Fenghui Duan",
       "Yantao Sun",
@@ -1854,7 +2029,7 @@
       "Dongpeng Hua",
       "Jianyang Zhang",
       "Zheling Shen",
-      "Weihua Zhou",
+      "W.H. Zhou",
       "Junhua Luan",
       "Peter K. Liaw",
       "Xiaodong Han",
@@ -1862,11 +2037,19 @@
       "Yilu Zhao",
       "Tao Yang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "City University of Hong Kong",
+      "Harbin Institute of Technology",
+      "Liaoning Academy of Materials",
+      "Chinese Academy of Sciences",
+      "Suzhou Institute of Biomedical Engineering and Technology",
+      "University of Tennessee at Knoxville",
+      "Southern University of Science and Technology",
+      "City University of Hong Kong, Shenzhen Research Institute",
+      "Shenzhen Institute of Information Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7138081438",
@@ -1894,16 +2077,16 @@
     "authors": [
       "Qiankun Yang",
       "Weisong Wu",
-      "Wei Zhang",
-      "Yong Zhang",
+      "Wei Emma Zhang",
+      "Yong E. Zhang",
       "Dingshun Yan",
       "Zhiming Li"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Central South University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7134033725",
@@ -2028,11 +2211,12 @@
       "Min Seok Kim",
       "Eun Soo Park"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Seoul National University",
+      "National University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7128512780",
@@ -2125,7 +2309,7 @@
       "Yujie Chen",
       "Lin Gu",
       "Qiang Zhang",
-      "Matthias D. Frontzek",
+      "Matthias Frontzek",
       "Yan Chen",
       "Ke An",
       "Lunhua He",
@@ -2139,11 +2323,18 @@
       "Kun Lin",
       "Xianran Xing"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Beijing Institute of Technology",
+      "Advanced Technology & Materials (China)",
+      "Beijing Advanced Sciences and Innovation Center",
+      "University of Science and Technology Beijing",
+      "Oak Ridge National Laboratory",
+      "Tsinghua University",
+      "SPring-8",
+      "Japan Synchrotron Radiation Research Institute"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7128062729",
@@ -2175,17 +2366,21 @@
       "Tirthesh Ingale",
       "Advika Chesetti",
       "Sriswaroop Dasari",
-      "Karl P. Davidson",
+      "Karl Peter Davidson",
       "V. Chaudhary",
       "Narendra Dahotre",
       "R. V. Ramanujan",
       "Rajarshi Banerjee"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "University of North Texas",
+      "Nanyang Technological University",
+      "The University of Texas at El Paso",
+      "Curtin University",
+      "Chalmers University of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7127585864",
@@ -2214,23 +2409,24 @@
       "Shuang-Jie Tan",
       "Chao-Hui Zhang",
       "Jun-Chen Guo",
-      "Xiao-Xi Luo",
+      "Xiaoxi Luo",
       "Ruo-Xi Jin",
       "Lin-Bo Huang",
-      "Xiao-Chuan Su",
+      "SU Xiao-chuan",
       "Chen Li",
-      "Xu-Sheng Zhang",
-      "Xing Zhang",
+      "Xusheng Zhang",
+      "Xi Zhang",
       "Sen Xin",
       "Rui Wen",
-      "Juan Zhang",
-      "Yu-Guo Guo"
+      "J. Zhang",
+      "Yu‐Guo Guo"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Beijing National Laboratory for Molecular Sciences",
+      "University of Chinese Academy of Sciences"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7127132316",
@@ -2263,15 +2459,17 @@
       "Shuchi Sanandiya",
       "Maik Rajkowski",
       "Aditya Srinivasan Tirunilai",
-      "Huseyin Sehitoglu",
+      "Hüseyin Sehitoglu",
       "Guillaume Laplanche",
       "J. C. Stinville"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "University of Illinois Urbana-Champaign",
+      "Czech Academy of Sciences, Institute of Physics of Materials",
+      "Ruhr University Bochum"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7126266227",
@@ -2305,16 +2503,20 @@
       "Pubao Peng",
       "Guizhong Li",
       "Yang Zhang",
+      "Yang Zhang",
       "Xiaobing Liu",
+      "Yongsheng Zhang",
       "Yongsheng Zhang",
       "Haijun Wu",
       "Guodong Tang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Nanjing University of Science and Technology",
+      "Xi'an Jiaotong University",
+      "Qufu Normal University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7126183028",
@@ -2355,13 +2557,22 @@
       "Yan Ma",
       "Claudio Pistidda",
       "Zhifeng Lei",
-      "Zhaoping Lu"
+      "Zhaoping Lü"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Hunan University",
+      "University of Science and Technology Beijing",
+      "Max-Planck-Institut für Nachhaltige Materialien",
+      "Shenzhen University",
+      "Shenzhen Technology University",
+      "Chinese Academy of Sciences",
+      "Institute of High Energy Physics",
+      "Deutsches Elektronen-Synchrotron DESY",
+      "Delft University of Technology",
+      "Helmholtz-Zentrum Hereon"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7126116971",
@@ -2395,11 +2606,11 @@
       "Suzhi Li",
       "Xiangdong Ding"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Xi'an Jiaotong University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7126062212",
@@ -2477,7 +2688,7 @@
     "authors": [
       "Hailong Huang",
       "Prashant Singh",
-      "Duane D. Johnson",
+      "Duane Douglas Johnson",
       "Dishant Beniwal",
       "Pratik K. Ray",
       "Gaoyuan Ouyang",
@@ -2488,22 +2699,31 @@
       "Rajarshi Banerjee",
       "Thomas W. Scharf",
       "Ping Lu",
-      "Frank W. DelRio",
+      "Frank W. DelRio‬",
       "Andrew B. Kustas",
-      "John A. Sharon",
-      "Ryan Deacon",
+      "John Anthony Sharon",
+      "Ryan M. Deacon",
       "Syed I. A. Jalali",
-      "Michael Patullo",
+      "Michael S. Patullo",
       "Sharon Park",
-      "Kevin J. Hemker",
-      "Ryan T. Ott",
+      "K. Hemker",
+      "Ryan Ott",
       "Nicolas Argibay"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Ames National Laboratory",
+      "Iowa State University",
+      "Indian Institute of Technology Ropar",
+      "Argonne National Laboratory",
+      "University of North Texas",
+      "Sandia National Laboratories California",
+      "Sandia National Laboratories",
+      "Radikal Therapeutics",
+      "Hartford Financial Services (United States)",
+      "Johns Hopkins University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7125393156",
@@ -2571,11 +2791,12 @@
       "Ting Zhu",
       "Wen Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Georgia Institute of Technology",
+      "University of Southern California"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7123694755",
@@ -2609,11 +2830,15 @@
       "Qian Li",
       "Yangfan Lu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Chongqing University",
+      "Chongqing University of Science and Technology",
+      "Chongqing University of Technology",
+      "Shanghai University",
+      "Chongqing 2D Materials Institute (China)"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7124225910",
@@ -2693,11 +2918,15 @@
       "Shun Xu",
       "Jian Lu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "City University of Hong Kong",
+      "City University of Hong Kong, Shenzhen Research Institute",
+      "Guangdong Institute of New Materials",
+      "Hong Kong University of Science and Technology",
+      "Beijing Institute of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7118162313",
@@ -2769,13 +2998,29 @@
     ],
     "new": false,
     "added_on": "2026-08-24",
-    "authors": [],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "authors",
-      "affiliations"
-    ]
+    "authors": [
+      "Rong Lv",
+      "Jia Li",
+      "Yunzhu Shi",
+      "Shuai Dai",
+      "Xi Wang",
+      "X. Chen",
+      "Xiaoye Zhou",
+      "Fei Zhang",
+      "Meiyuan Jiao",
+      "Chao Ma",
+      "Alexander Schökel",
+      "Shaolou Wei",
+      "Yan Ma",
+      "Claudio Pistidda",
+      "Zhifeng Lei",
+      "Zhaoping Lü"
+    ],
+    "affiliations": [
+      "Deutsches Elektronen-Synchrotron DESY"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W7116631459",
@@ -2852,11 +3097,15 @@
       "Shuailing Ma",
       "Bin Jiang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Chongqing University",
+      "Chongqing University of Science and Technology",
+      "Chongqing University of Technology",
+      "Ningbo University",
+      "Ningbo University of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4417361621",
@@ -2884,28 +3133,33 @@
     "added_on": "2026-08-24",
     "authors": [
       "Timothy M. Smith",
-      "Christopher A. Kantzos",
+      "Christopher Kantzos",
       "Bryan J. Harder",
-      "Andreas Bezold",
+      "A. Bezold",
       "Milan Heczko",
       "Jiashi Miao",
       "Gabriel Plummer",
       "Mikhail I. Mendelev",
       "Aaron C. Thompson",
       "Bernadette J. Puleo",
-      "Austin J. Whitt",
+      "Austin J Whitt",
       "Andreas Stark",
       "Steffen Neumeier",
       "Timothy P. Gabb",
-      "John W. Lawson",
+      "John Lawson",
       "Michael J. Mills",
-      "Paul R. Gradl"
+      "Paul Gradl"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Glenn Research Center",
+      "The Ohio State University",
+      "Ames Research Center",
+      "Helmholtz-Zentrum Hereon",
+      "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "Marshall Space Flight Center"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4417304746",
@@ -2945,16 +3199,22 @@
       "Xiaofeng Yang",
       "Bingbing Wan",
       "Jianping Tan",
-      "Sergio Scudino",
-      "Xian-Cheng Zhang",
+      "S. Scudino",
+      "Xian‐Cheng Zhang",
       "Dierk Raabe",
-      "Shan-Tung Tu"
+      "S.T. Tu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "East China University of Science and Technology",
+      "Max-Planck-Institut für Nachhaltige Materialien",
+      "Agency for Science, Technology and Research",
+      "Institute of Materials Research and Engineering",
+      "Ningbo University",
+      "Dongguan University of Technology",
+      "Leibniz Institute for Solid State and Materials Research"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4417129033",
@@ -2983,16 +3243,21 @@
       "Weiqi Wang",
       "Jian Liu",
       "Chenyang Li",
-      "Yi-Cheng Lai",
+      "Yicheng Lai",
+      "Wei Chen",
       "Wei Chen",
       "Yunzhuo Lu",
+      "Wen Chen",
       "Wen Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Dalian Jiaotong University",
+      "University of Southern California",
+      "University of Massachusetts Amherst",
+      "University at Buffalo, State University of New York"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4417038519",
@@ -3020,18 +3285,22 @@
       "Mingxu Wang",
       "Jinyu Yang",
       "Haoran Ji",
-      "Ziyue Li",
+      "Z. J. Li",
+      "Fengmei Wang",
       "Fengmei Wang",
       "Fang Fang",
       "Jiafeng Ruan",
       "Dalin Sun",
+      "Fei Wang",
       "Fei Wang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Fudan University",
+      "Yiwu Science and Technology Research Institute",
+      "Technische Universität Dresden"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416910186",
@@ -3069,11 +3338,16 @@
       "Ma Qian",
       "Jianghua Shen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Northwestern Polytechnical University",
+      "RMIT University",
+      "The Welding Institute",
+      "The University of Sydney",
+      "Northwest University",
+      "Structural Integrity Associates (United States)"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416829647",
@@ -3193,19 +3467,28 @@
       "Jiaming Zhu",
       "Jianwen Liu",
       "Kai Zhang",
-      "Peter Lynch",
+      "Peter A. Lynch",
       "Hamish L. Fraser",
       "Peter Hodgson",
       "Martin Heilmaier",
-      "Nick Birbilis",
+      "N. Birbilis",
       "Yunzhi Wang",
       "Aijun Huang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Monash Medical Centre",
+      "Monash University",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Deakin University",
+      "Health Sciences and Nutrition",
+      "Shandong University",
+      "City University of Hong Kong, Shenzhen Research Institute",
+      "University of Shanghai for Science and Technology",
+      "The Ohio State University",
+      "Karlsruhe Institute of Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416293156",
@@ -3324,21 +3607,25 @@
     "added_on": "2026-08-24",
     "authors": [
       "Zixu Guo",
-      "Yang Li",
+      "Li Yang",
       "Lei Fan",
       "Shiwei Wu",
       "Daijun Hu",
       "Guochen Peng",
       "Feng Lin",
-      "Yong-Wei Zhang",
+      "Yong‐Wei Zhang",
       "Yilun Xu",
       "Wentao Yan"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "National University of Singapore",
+      "Tsinghua University",
+      "Agency for Science, Technology and Research",
+      "Institute of High Performance Computing",
+      "Imperial College London"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4416112699",
@@ -3366,7 +3653,7 @@
     "authors": [
       "Shubo Gao",
       "Weiming Ji",
-      "Qi Zhu",
+      "Zhu Qi",
       "Asker Jarlöv",
       "Xueyu Bai",
       "Xiaojun Shen",
@@ -3375,11 +3662,15 @@
       "Huajian Gao",
       "Kun Zhou"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Nanyang Technological University",
+      "Joint Research Center",
+      "Singapore Institute of Manufacturing Technology",
+      "Central South University",
+      "Tsinghua University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4415879912",
@@ -3444,7 +3735,7 @@
     "added_on": "2026-08-24",
     "authors": [
       "Siwei Tang",
-      "Guangxiong Luo",
+      "G.-N. Luo",
       "Panzhen Li",
       "Baishan Chen",
       "Zhe Huang",
@@ -3453,11 +3744,11 @@
       "Wensheng Liu",
       "Chaoping Liang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Central South University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414958446",
@@ -3487,21 +3778,25 @@
       "Frauke Hinrichs",
       "Georg Winkens",
       "Lena Katharina Kramer",
-      "Gabriely Falcão",
+      "Gabriely Medeiros de Souza Falcão",
       "Ewa M. Hahn",
       "Daniel Schliephake",
-      "Michael Konrad Eusterholz",
+      "Michael K. Eusterholz",
       "Sandipan Sen",
-      "Mathias Christian Galetz",
+      "Mathias C. Galetz",
       "Haruyuki Inui",
       "Alexander Kauffmann",
       "Martin Heilmaier"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Karlsruhe Institute of Technology",
+      "Society for Chemical Engineering and Biotechnology",
+      "Kyoto University",
+      "University Hospitals of the Ruhr-University of Bochum",
+      "Ruhr University Bochum"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414852308",
@@ -3527,20 +3822,22 @@
     "new": false,
     "added_on": "2026-08-25",
     "authors": [
-      "P. H. F. Oliveira",
-      "C. L. G. P. Martins",
-      "G. C. Stumpf",
-      "J. Spadotto",
-      "E. J. Pickering",
+      "Pedro Henrique Fernandes Oliveira",
+      "CAIO LUCAS G.P. MARTINS",
+      "Guilherme Cardeal Stumpf",
+      "J.C. Spadotto",
+      "E.J. Pickering",
       "W. J. Botta",
-      "C. Bolfarini",
-      "F. G. Coury"
+      "Claudemiro Bolfarini",
+      "Francisco Gil Coury"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Universidade Federal de São Carlos",
+      "University of Manchester",
+      "Henry Royce Institute"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4414694726",
@@ -3728,7 +4025,7 @@
     "added_on": "2026-08-25",
     "authors": [],
     "affiliations": [],
-    "backfill_pending": true,
+    "backfill_pending": false,
     "backfill_missing": [
       "authors",
       "affiliations"
@@ -3811,15 +4108,22 @@
       "Zhiming Li",
       "Dirk Ponge",
       "Lunhua He",
-      "Xian-Cheng Zhang",
+      "Xian‐Cheng Zhang",
       "Dierk Raabe",
-      "Shan-Tung Tu"
+      "S.T. Tu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "East China University of Science and Technology",
+      "Max-Planck-Institut für Nachhaltige Materialien",
+      "South China University of Technology",
+      "Central South University",
+      "China Spallation Neutron Source",
+      "Chinese Academy of Sciences",
+      "Institute of Physics",
+      "National Laboratory for Superconductivity"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4413425585",
@@ -3942,11 +4246,14 @@
       "Won Kyung Seong",
       "Rodney S. Ruoff"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Central South University",
+      "Institute for Basic Science",
+      "Huazhong University of Science and Technology",
+      "Ulsan National Institute of Science and Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412940422",
@@ -3979,11 +4286,13 @@
       "Yongnan Chen",
       "Yongqing Zhao"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Chang'an University",
+      "Northwest Institute For Non-Ferrous Metal Research",
+      "Northeastern University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412929786",
@@ -4068,11 +4377,13 @@
       "Qingsong Pan",
       "Lei Lu"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Chinese Academy of Sciences",
+      "Institute of Metal Research",
+      "International Centre for Materials Physics"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412493983",
@@ -4162,20 +4473,26 @@
       "Takuro Kawasaki",
       "Rui Hou",
       "Jinpeng Zhang",
-      "Demin Zhu",
+      "De‐Min Zhu",
       "Jiheng Tang",
-      "Luo Li",
+      "Li Luo",
       "Jianghui Xie",
-      "Gong Zheng",
+      "Zheng Gong",
       "Zhixiang Qi",
-      "Howard Sheng",
+      "H. W. Sheng",
       "Guang Chen"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Nanjing University of Science and Technology",
+      "Luoyang Institute of Science and Technology",
+      "Nanjing Tech University",
+      "Japan Atomic Energy Agency",
+      "Japan Proton Accelerator Research Complex",
+      "George Mason University",
+      "Center for High Pressure Science and Technology Advanced Research"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4412382610",
@@ -4342,11 +4659,15 @@
       "Robert O. Ritchie",
       "Lin Guo"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Alliance Bioversity International - CIAT",
+      "Beijing Advanced Sciences and Innovation Center",
+      "Beihang University",
+      "Peking University",
+      "University of California, Berkeley"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4411803950",
@@ -4467,13 +4788,13 @@
       "Hang Zhang",
       "Gang Liu",
       "Jun Sun",
-      "En Ma"
+      "E. Ma"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Xi'an Jiaotong University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4410140347",
@@ -4591,11 +4912,16 @@
       "Zhihao Shen",
       "Zhigang Zou"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Fuzhou University",
+      "Fujian Medical University",
+      "Union Hospital",
+      "Ministry of Education of the People's Republic of China",
+      "Ministry of Education",
+      "Nanjing Agricultural University"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4409908305",
@@ -4861,13 +5187,17 @@
       "Daqiang Jiang",
       "Yao Xiao",
       "Shengcheng Mao",
-      "Shijie Hao"
+      "Shiyu Hao"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "China University of Petroleum, Beijing",
+      "Beijing University of Technology",
+      "Tongji University",
+      "City University of Hong Kong",
+      "Nanjing University of Science and Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4407662459",
@@ -4908,11 +5238,21 @@
       "Jin Zou",
       "Mingli Qin"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Tohoku University",
+      "Beijing Advanced Sciences and Innovation Center",
+      "University of Science and Technology Beijing",
+      "Ningbo University of Technology",
+      "Ningbo Institute of Industrial Technology",
+      "Shenyang University of Chemical Technology",
+      "Yonsei University",
+      "Stanford University",
+      "University of Auckland",
+      "Shenyang Institute of Computing Technology (China)",
+      "The University of Queensland"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4407560842",
@@ -4990,15 +5330,19 @@
       "Fengxiang Lin",
       "Hong Liu",
       "Matthew H. Pelletier",
-      "Max Lloyd",
-      "Williams R. Walsh",
-      "Jian-Feng Nie"
+      "M.H. Lloyd",
+      "W.R. Walsh",
+      "Jian‐Feng Nie"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Monash University",
+      "Karlstad University",
+      "Shanghai Jiao Tong University",
+      "UNSW Sydney",
+      "Sydney Orthopaedic Research Institute"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4407415705",
@@ -5032,11 +5376,13 @@
       "Timothy M. Smith",
       "Atieh Moridi"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Cornell University",
+      "University of Pittsburgh",
+      "Glenn Research Center"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4406820166",
@@ -5074,16 +5420,20 @@
       "Zibing An",
       "Rongpei Shi",
       "Ming Yan",
-      "Xiaodong. Han",
-      "C. T. Liu",
+      "Xiaodong Han",
+      "C.T. Liu",
       "Yilu Zhao",
       "Tao Yang"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "City University of Hong Kong",
+      "Southern University of Science and Technology",
+      "Harbin Institute of Technology",
+      "Chinese Academy of Sciences",
+      "Shenzhen Institute of Information Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4406753511",
@@ -5159,17 +5509,22 @@
     "authors": [
       "Jeong Ah Lee",
       "Jaejung Park",
-      "Man Jae Sagong",
+      "Man Jae SaGong",
       "Soung Yeoul Ahn",
-      "Jung-Wook Cho",
-      "Seungchul Lee",
+      "Jung‐Wook Cho",
+      "Seung‐Chul Lee",
       "Hyoung Seop Kim"
     ],
-    "affiliations": [],
-    "backfill_pending": true,
-    "backfill_missing": [
-      "affiliations"
-    ]
+    "affiliations": [
+      "Pohang University of Science and Technology",
+      "Korea Advanced Institute of Science and Technology",
+      "Yonsei University",
+      "Tohoku University",
+      "Advanced Institute of Materials Science",
+      "Advanced Institute of Convergence Technology"
+    ],
+    "backfill_pending": false,
+    "backfill_missing": []
   },
   {
     "id": "https://openalex.org/W4406657556",
@@ -5238,13 +5593,24 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Yuchien Hsu",
+      "Yunjiao He",
+      "Xiao Ran Zhao",
+      "Feilong Wang",
+      "Fan Yang",
+      "Yufeng Zheng",
+      "Yongsheng Zhou",
+      "Dandan Xia",
+      "Yunsong Liu"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "King University",
+      "Peking University",
+      "National Clinical Research"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4406300203",
@@ -5269,13 +5635,17 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Xin Li",
+      "Hao Wu",
+      "Wang Gao",
+      "Qing Jiang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Jilin University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4406322878",
@@ -5299,13 +5669,28 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Nguyễn Hữu Lâm",
+      "Tae Gyu Rhee",
+      "S KIM",
+      "Byoung Ki Choi",
+      "Duy K. Hoang",
+      "Ganbat Duvjir",
+      "Younghun Hwang",
+      "Jaekwang Lee",
+      "Young Jun Chang",
+      "Jungdae Kim"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "University of Ulsan",
+      "University of Seoul",
+      "Korea Institute of Science and Technology",
+      "Pusan National University",
+      "Lawrence Berkeley National Laboratory",
+      "Ulsan College"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4406027921",
@@ -5330,13 +5715,16 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Zhiling Luo",
+      "Wang Gao",
+      "Qing Jiang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Jilin University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4406001160",
@@ -5361,13 +5749,31 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Hao Lu",
+      "Chang Zhou",
+      "Yuzhu Song",
+      "Yuanpeng Zhang",
+      "Yiming Wu",
+      "Feixiang Long",
+      "Yonghao Yao",
+      "Jiazheng Hao",
+      "Yan Chen",
+      "Dunji Yu",
+      "Jakob Schwiedrzik",
+      "Ke An",
+      "Lunhua He",
+      "Zhaoping Lü",
+      "Jun Chen"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "University of Science and Technology Beijing",
+      "Oak Ridge National Laboratory",
+      "Swiss Federal Laboratories for Materials Science and Technology",
+      "China Spallation Neutron Source"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4405478157",
@@ -5393,13 +5799,26 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Xuan Zhou",
+      "Hualong Ge",
+      "Kai Xiong",
+      "Junjie He",
+      "Shunmeng Zhang",
+      "Li Fu",
+      "Zhilong Tan",
+      "Xiaofei Wu",
+      "Xuming Li",
+      "Haijun Wu",
+      "Junmei Guo",
+      "Yong Mao"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Yunnan University",
+      "Kunming Institute of Precious Metals"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4405230952",
@@ -5424,13 +5843,32 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Pan Hu",
+      "Letao Lin",
+      "Guanyu Chen",
+      "Dengyao Liu",
+      "Huanqing Guo",
+      "Meigui Xiao",
+      "Zhihui Zhong",
+      "Guang Yang",
+      "Bingchen Xu",
+      "Dongcun Huang",
+      "Sheng Peng",
+      "Yong Li",
+      "Yanling Zhang",
+      "Tao Huang",
+      "Fujun Zhang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Sun Yat-sen University",
+      "Sun Yat-sen University Cancer Center",
+      "Jinan University",
+      "Zhuhai People's Hospital",
+      "Southern Medical University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4405022457",
@@ -5455,13 +5893,21 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Jie Qi",
+      "Xuesong Fan",
+      "Diego Ibarra Hoyos",
+      "Michael Widom",
+      "Peter K. Liaw",
+      "Joseph Poon"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "University of Virginia",
+      "University of Tennessee at Knoxville",
+      "Carnegie Mellon University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4404840246",
@@ -5486,13 +5932,26 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Lifang Sun",
+      "Zhufeng He",
+      "Nan Jia",
+      "Yanxin Guo",
+      "Shuang Jiang",
+      "Yuliang Yang",
+      "Yuxin Liu",
+      "Xianjun Guan",
+      "Y.F. Shen",
+      "Haile Yan",
+      "Peter K. Liaw"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Northeastern University",
+      "Chinese Academy of Sciences",
+      "University of Tennessee at Knoxville"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4404599639",
@@ -5517,13 +5976,28 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Qiyang Tan",
+      "Haiwei Chang",
+      "Guofang Liang",
+      "Vladimir Luzin",
+      "Yu Yin",
+      "F. Wang",
+      "Xing Cheng",
+      "Ming Yan",
+      "Qiang Zhu",
+      "Christopher Hutchinson",
+      "Mingxing Zhang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "The University of Queensland",
+      "Australian Nuclear Science and Technology Organisation",
+      "University of Newcastle Australia",
+      "Southern University of Science and Technology",
+      "Monash University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4403745815",
@@ -5547,13 +6021,22 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Hao Mei",
+      "Yuxuan Zhang",
+      "Panpan Zhang",
+      "Antonio Gaetano Ricciardulli",
+      "Paolo Samorı́",
+      "Sheng Yang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Shanghai Jiao Tong University",
+      "Huazhong University of Science and Technology",
+      "Centre National de la Recherche Scientifique",
+      "Université de Strasbourg"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402666544",
@@ -5578,13 +6061,17 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Pedro P. P. O. Borges",
+      "Robert O. Ritchie",
+      "Mark Asta"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Lawrence Berkeley National Laboratory",
+      "University of California, Berkeley"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402584204",
@@ -5609,13 +6096,28 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Zhongyuan Li",
+      "Ayush Bhardwaj",
+      "Jinlong He",
+      "Wenxin Zhang",
+      "Thomas Tran",
+      "Ying Li",
+      "Andrew McClung",
+      "Sravya Nuguri",
+      "James J. Watkins",
+      "Seok‐Woo Lee"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "University of Connecticut",
+      "University of Massachusetts Amherst",
+      "University of Wisconsin–Madison",
+      "Sichuan University",
+      "California Institute of Technology",
+      "Amherst College"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402483332",
@@ -5640,13 +6142,39 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "David Redka",
+      "Saleem Ayaz Khan",
+      "Edoardo Martino",
+      "Xavier Mettan",
+      "Luka Ćirić",
+      "Davor Tolj",
+      "Trpimir Ivšić",
+      "Andreas Held",
+      "Marco Caputo",
+      "Eduardo B. Guedes",
+      "Vladimir N. Strocov",
+      "Igor Di Marco",
+      "H. Ebert",
+      "H. Huber",
+      "J. Hugo Dil",
+      "L. Forró",
+      "J. Minář"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Munich University of Applied Sciences",
+      "University of West Bohemia in Pilsen",
+      "École Polytechnique Fédérale de Lausanne",
+      "Ruđer Bošković Institute",
+      "Ludwig-Maximilians-Universität München",
+      "Paul Scherrer Institute",
+      "Uppsala University",
+      "Nicolaus Copernicus University",
+      "Institute of Physics",
+      "University of Notre Dame"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402298935",
@@ -5671,13 +6199,37 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Vinícius Pereira Bacurau",
+      "P.A.F.P. Moreira",
+      "Gustavo Bertoli",
+      "Angelo F. Andreoli",
+      "Eric Marchezini Mazzer",
+      "Flávio Fávaro de Assis",
+      "Piter Gargarella",
+      "Guilherme Yuuki Koga",
+      "Guilherme Cardeal Stumpf",
+      "Santiago J. A. Figueroa",
+      "Michael Widom",
+      "Michael Kaufman",
+      "Andrea Fantin",
+      "Yifan Cao",
+      "Rodrigo Freitas",
+      "D.B. Miracle",
+      "Francisco Gil Coury"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Universidade Federal de São Carlos",
+      "Brazilian Synchrotron Light Laboratory",
+      "Brazilian Center for Research in Energy and Materials",
+      "Carnegie Mellon University",
+      "Colorado School of Mines",
+      "Federal Institute For Materials Research and Testing",
+      "Massachusetts Institute of Technology",
+      "United States Air Force Research Laboratory"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402221466",
@@ -5702,13 +6254,32 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Zhizhi Xu",
+      "Yuanchao Ji",
+      "Chang Liu",
+      "Liqiang He",
+      "Huijun Zhao",
+      "Ye Yuan",
+      "Qian Yu",
+      "Jin Cui",
+      "Andong Xiao",
+      "Wenjia Wang",
+      "Yang Yang",
+      "Tianyu Ma",
+      "Xiaobing Ren"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Xi'an Jiaotong University",
+      "Sichuan University",
+      "Green Technology",
+      "Chinese Academy of Sciences",
+      "Institute of Physics",
+      "National Laboratory for Superconductivity",
+      "National Institute for Materials Science"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402007148",
@@ -5733,13 +6304,20 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Jiaqi Yan",
+      "Zhicheng Dong",
+      "Ben Jia",
+      "Shunshun Zhu",
+      "Guowei Li",
+      "Yuhao Zheng",
+      "Heyuan Huang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Northwestern Polytechnical University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4402007606",
@@ -5763,13 +6341,29 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Chae‐Eun Shim",
+      "Sangseob Lee",
+      "Minsik Kong",
+      "Ik‐Soo Kim",
+      "Jaeik Kwak",
+      "Woosun Jang",
+      "Se‐Young Jeong",
+      "Dong Wook Kim",
+      "Aloysius Soon",
+      "Unyong Jeong"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Pohang University of Science and Technology",
+      "Yonsei University",
+      "Hodges University",
+      "Harvard University",
+      "Gordon Center for Medical Imaging",
+      "Massachusetts General Hospital",
+      "Max Planck Institute for Intelligent Systems"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401961180",
@@ -5794,13 +6388,31 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Minjun Ai",
+      "Yuzhu Song",
+      "Feixiang Long",
+      "Yuanpeng Zhang",
+      "Ke An",
+      "Dunji Yu",
+      "Yan Chen",
+      "Yuki Sakai",
+      "Masahito Ikeda",
+      "Kazuki Takahashi",
+      "Masaki Azuma",
+      "Naike Shi",
+      "Chang Zhou",
+      "Jun Chen"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "University of Science and Technology Beijing",
+      "Oak Ridge National Laboratory",
+      "Tokyo Institute of Technology",
+      "Kanagawa Industrial Technology Center",
+      "Hainan University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401794128",
@@ -5825,13 +6437,20 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Shuya Zhu",
+      "Dingshun Yan",
+      "Yong Zhang",
+      "Liuliu Han",
+      "Dierk Raabe",
+      "Zhiming Li"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Central South University",
+      "Max-Planck-Institut für Nachhaltige Materialien"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401758284",
@@ -5856,13 +6475,22 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Yaoyu Wang",
+      "Chenqi Yi",
+      "Wenxiang Tian",
+      "Feng Liu",
+      "Gary J. Cheng"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Wuhan University of Technology",
+      "Wuhan University",
+      "Changjiang Institute of Survey, Planning, Design and Research",
+      "Purdue University West Lafayette",
+      "Wuhan Sports University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401695877",
@@ -5887,13 +6515,18 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Jiayi Sun",
+      "Heqing Li",
+      "Yujie Chen",
+      "Xianghai An"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "The University of Sydney",
+      "The University of Adelaide"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401672571",
@@ -5918,13 +6551,50 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Mingliang Han",
+      "Yuan Wu",
+      "Xiaobin Zong",
+      "Yaozu Shen",
+      "Fei Zhang",
+      "Hongbo Lou",
+      "Xiao Dong",
+      "Zhidan Zeng",
+      "Xiangyang Peng",
+      "Shuo Hou",
+      "Guangyao Lu",
+      "Lianghua Xiong",
+      "Bingmin Yan",
+      "Huiyang Gou",
+      "Yanping Yang",
+      "Xueyan Du",
+      "Xiaoyuan Yuan",
+      "Yingjie Zhang",
+      "Meiyuan Jiao",
+      "Xiongjun Liu",
+      "Suihe Jiang",
+      "Hui Wang",
+      "А. А. Rempel",
+      "Xiaobin Zhang",
+      "Qiaoshi Zeng",
+      "Zhaoping Lü"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Center for High Pressure Science and Technology Advanced Research",
+      "Liaoning Academy of Materials",
+      "University of Science and Technology Beijing",
+      "Shenyang University of Chemical Technology",
+      "Chinese Academy of Sciences",
+      "Institute of High Energy Physics",
+      "Shanghai Advanced Research Institute",
+      "Nankai University",
+      "China General Nuclear Power Corporation (China)",
+      "Shanghai Jiao Tong University",
+      "Ural Branch of the Russian Academy of Sciences",
+      "Institute of Metallurgy"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401503531",
@@ -5949,13 +6619,30 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Yong Zhang",
+      "Chenyun He",
+      "Qin Yu",
+      "Xiao Li",
+      "Xiaogang Wang",
+      "Yin Zhang",
+      "Ji Wang",
+      "Chao Jiang",
+      "Yun-Fei Jia",
+      "Xian‐Cheng Zhang",
+      "Binhan Sun",
+      "Robert O. Ritchie",
+      "S.T. Tu"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "East China University of Science and Technology",
+      "Peking University",
+      "State Key Laboratory of Turbulence and Complex Systems",
+      "University of California, Berkeley",
+      "Hunan University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4401452152",
@@ -5980,13 +6667,29 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Fenghui Duan",
+      "Qian Li",
+      "Zhihao Jiang",
+      "Lin Zhou",
+      "Junhua Luan",
+      "Zheling Shen",
+      "W.H. Zhou",
+      "Shiyuan Zhang",
+      "Jie Pan",
+      "Xin Zhou",
+      "Tao Yang",
+      "Jian Lü"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "City University of Hong Kong",
+      "University of Science and Technology of China",
+      "Chinese Academy of Sciences",
+      "Huazhong University of Science and Technology",
+      "City University of Hong Kong, Shenzhen Research Institute"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4400447395",
@@ -6011,13 +6714,25 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Hyojin Park",
+      "Farahnaz Haftlang",
+      "Yoon‐Uk Heo",
+      "Jae Bok Seol",
+      "Zhijun Wang",
+      "Hyoung Seop Kim"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Pohang University of Science and Technology",
+      "Northwestern University",
+      "Research Institute of Industrial Science and Technology",
+      "Gyeongsang National University",
+      "Northwestern Polytechnical University",
+      "Tohoku University",
+      "Advanced Institute of Convergence Technology"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4400248596",
@@ -6042,13 +6757,17 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Mengwei He",
+      "W Davids",
+      "Andrew Breen",
+      "Simon P. Ringer"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "The University of Sydney"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4400237811",
@@ -6072,13 +6791,15 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Zhiping Xu",
+      "Zian Zhang"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Tsinghua University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4400001401",
@@ -6102,13 +6823,20 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Miao Bai",
+      "Xiaoyu Tang",
+      "Min Zhang",
+      "Helin Wang",
+      "Zhiqiao Wang",
+      "Ahu Shao",
+      "Yue Ma"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Northwestern Polytechnical University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4399776655",
@@ -6133,13 +6861,29 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Liuliu Han",
+      "Zhongji Sun",
+      "Wenzhen Xia",
+      "Shao‐Pu Tsai",
+      "Xukai Zhang",
+      "Jing Rao",
+      "Pei Wang",
+      "Andrew Chun Yong Ngo",
+      "Zhiming Li",
+      "Yong Liu",
+      "Dierk Raabe"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Max-Planck-Institut für Nachhaltige Materialien",
+      "Agency for Science, Technology and Research",
+      "Institute of Materials Research and Engineering",
+      "Anhui University of Technology",
+      "National Taiwan University",
+      "Central South University"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4399150554",
@@ -6164,13 +6908,31 @@
     ],
     "new": false,
     "added_on": "2026-08-27",
-    "authors": [],
-    "affiliations": [],
-    "backfill_missing": [
-      "authors",
-      "affiliations"
+    "authors": [
+      "Lei Gu",
+      "Yonghao Zhao",
+      "Yong Li",
+      "Rui Hou",
+      "Fei Liang",
+      "Ruisheng Zhang",
+      "Yinxing Wu",
+      "Yong Fan",
+      "Ningning Liang",
+      "Bing Zhou",
+      "Yang Chen",
+      "Gang Sha",
+      "Guang Chen",
+      "Yandong Wang",
+      "Xiang Chen"
     ],
-    "backfill_pending": true
+    "affiliations": [
+      "Nanjing University of Science and Technology",
+      "Hohai University",
+      "Ministry of Industry and Information Technology",
+      "University of Science and Technology Beijing"
+    ],
+    "backfill_missing": [],
+    "backfill_pending": false
   },
   {
     "id": "https://openalex.org/W4399038433",
