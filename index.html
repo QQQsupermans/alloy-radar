@@ -93,6 +93,15 @@ main{padding:8px 0 80px}
 .segbtn:hover{background:var(--accent-soft);color:var(--accent-ink)}
 .grid{display:flex;flex-direction:column;gap:12px}
 
+/* ---- topic opener (开篇导读) ---- */
+.intro-card{display:block;background:var(--accent-soft);border:1px solid var(--accent);border-left:4px solid var(--accent);
+  border-radius:11px;padding:15px 18px;text-decoration:none;color:var(--ink);transition:box-shadow .14s ease,transform .12s ease}
+.intro-card:hover{box-shadow:0 8px 26px -18px rgba(24,27,24,.5);transform:translateY(-1px)}
+.intro-card .lb{font-family:var(--mono);font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:6px}
+.intro-card .it{font-family:var(--cjk);font-size:16px;font-weight:600;line-height:1.35}
+.intro-card .id{font-size:13px;color:var(--accent-ink);margin-top:5px;line-height:1.55;opacity:.92}
+.intro-card .go{font-family:var(--mono);font-size:11px;color:var(--accent-ink);font-weight:600;margin-top:11px;display:inline-block}
+
 .card{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:16px 18px;
   display:grid;grid-template-columns:64px 1fr;gap:16px;transition:box-shadow .14s ease}
 .card:hover{box-shadow:0 8px 26px -18px rgba(24,27,24,.5)}
@@ -241,6 +250,16 @@ const ORDER = Object.keys(JOURNALS);
 // Acta/Scripta are excluded by default; only show their cell once data exists for them.
 const HIDE_IF_EMPTY = new Set(["1359-6454","1359-6462"]);
 
+// ---- topic openers: a subtopic can lead with a standalone explainer page ----
+const INTRO_TOPICS = {
+  "矫顽力-饱和磁化强度独立专题": {
+    file: "magnetism_scale_1.html",
+    label: "开篇导读 · 图解",
+    title: "为什么“尺寸”决定软磁还是硬磁",
+    desc: "本专题主线：饱和磁化强度 Ms 由成分定、矫顽力 Hc 由组织尺寸定——两本各记各的账，以及跨界面磁性剖面这条核心线索的物理图解。"
+  }
+};
+
 // ---- SAMPLE placeholder data (clearly marked). Replaced by real db.json on deploy. ----
 const SAMPLE = [
   {id:"sample1", issn:"1359-6454", journal:"Acta Materialia",
@@ -381,6 +400,15 @@ function card(p){
   </article>`;
 }
 
+function introCard(cfg){
+  return `<a class="intro-card" href="${esc(cfg.file)}" target="_blank" rel="noopener">
+    <span class="lb">${esc(cfg.label)}</span>
+    <span class="it">${esc(cfg.title)}</span>
+    <span class="id">${esc(cfg.desc)}</span>
+    <span class="go">打开完整图解 ↗</span>
+  </a>`;
+}
+
 function render(){
   renderCells();
   const rows=currentFilter();
@@ -400,10 +428,11 @@ function render(){
     }
     const ck=by+'|'+k;
     const collapsed=COLLAPSED.has(ck);
+    const intro=(by==='topic'&&INTRO_TOPICS[k])?introCard(INTRO_TOPICS[k]):'';
     return `<section class="grp${collapsed?' collapsed':''}" data-ck="${esc(ck)}">
       <div class="grp-h" role="button" tabindex="0" aria-expanded="${!collapsed}">
         <span class="gchev">▾</span><span class="t">${head}</span><span class="n">${g[k].length} 篇</span>${extra}</div>
-      <div class="grid">${g[k].map(card).join('')}</div>
+      <div class="grid">${intro}${g[k].map(card).join('')}</div>
     </section>`;
   }).join('');
   out.querySelectorAll('.grp-h').forEach(h=>{

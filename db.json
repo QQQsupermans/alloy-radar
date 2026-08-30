@@ -6007,6 +6007,42 @@
   "backfill_pending": false
  },
  {
+  "id": "https://doi.org/10.1038/s41524-024-01445-w",
+  "doi": "10.1038/s41524-024-01445-w",
+  "url": "https://doi.org/10.1038/s41524-024-01445-w",
+  "title_en": "Structure, short-range order, and phase stability of the AlxCrFeCoNi high-entropy alloy: insights from a perturbative, DFT-based analysis",
+  "title_zh": "AlₓCrFeCoNi 高熵合金的结构、短程有序与相稳定性：基于微扰 DFT 的分析",
+  "journal": "npj Computational Materials",
+  "issn": "2057-3960",
+  "date": "2024-11-28",
+  "year": 2024,
+  "abstract_en": "We study the phase behaviour of the AlxCrFeCoNi high-entropy alloy. Our approach is based on a perturbative analysis of the internal energy of the paramagnetic solid solution as evaluated within the Korringa-Kohn-Rostoker formulation of density functional theory, using the coherent potential approximation to average over disorder. Via application of a Landau-type linear response theory, we infer preferential chemical orderings directly. In addition, we recover a pairwise form of the alloy internal energy suitable for study via atomistic simulations, performed using the nested sampling algorithm. When the underlying lattice is fcc, at low concentrations of Al, depending on x, we predict either an L12 or D022 ordering emerging below approximately 1000 K. When the underlying lattice is bcc, consistent with experimental observations, we predict B2 ordering temperatures higher than the melting temperature of the alloy, confirming that this ordered phase forms directly from the melt. For both fcc and bcc systems, chemical orderings are dominated by Al moving to one sublattice, Ni and Co the other, while Cr and Fe remain comparatively disordered. On the bcc lattice, our atomistic modelling suggests eventual decomposition into B2 NiAl and Cr-rich phases.",
+  "abstract_zh": "本文研究 AlₓCrFeCoNi 高熵合金的相行为。方法基于在 Korringa-Kohn-Rostoker 密度泛函理论框架下、用相干势近似对无序求平均，对顺磁固溶体内能做微扰分析；再借助 Landau 型线性响应理论直接推断优先的化学有序，并得到适于原子尺度模拟的成对内能形式（本文用嵌套采样算法求解）。当底格为 fcc、Al 含量较低时，依 x 值预测约 1000 K 以下出现 L1₂ 或 D0₂₂ 有序；当底格为 bcc 时，预测 B2 有序温度高于合金熔点，与实验一致，说明该有序相直接从熔体形成。fcc 与 bcc 体系的化学有序都以 Al 占据一个亚晶格、Ni 与 Co 占据另一个为主，而 Cr、Fe 相对无序；bcc 格上原子尺度模拟提示最终分解为 B2-NiAl 与富 Cr 相。",
+  "summary_zh": "用微扰 DFT 分析 AlₓCrFeCoNi 的短程有序与相稳定性，从形成能/有序化预测 L1₂、D0₂₂、B2 等有序倾向，解释成分驱动的分相原理。",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "⑤分相/SRO/相稳定",
+   "相稳定性",
+   "短程有序",
+   "AlxCrFeCoNi",
+   "DFT"
+  ],
+  "authors": [
+   "Christopher D. Woodgate",
+   "George A. Marchant",
+   "Livia B. Pártay",
+   "Julie B. Staunton"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
   "id": "https://openalex.org/W4404599639",
   "doi": "10.1038/s41467-024-54507-4",
   "url": "https://doi.org/10.1038/s41467-024-54507-4",
@@ -9118,6 +9154,42 @@
   "added_on": "2026-08-29"
  },
  {
+  "id": "https://doi.org/10.1103/physrevmaterials.7.053801",
+  "doi": "10.1103/physrevmaterials.7.053801",
+  "url": "https://doi.org/10.1103/physrevmaterials.7.053801",
+  "title_en": "Interplay between magnetism and short-range order in medium- and high-entropy alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi",
+  "title_zh": "中/高熵合金中磁性与短程有序的相互作用：CrCoNi、CrFeCoNi 与 CrMnFeCoNi",
+  "journal": "Physical Review Materials",
+  "issn": "2475-9953",
+  "date": "2023-05-01",
+  "year": 2023,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "用 DFT 揭示磁性与化学短程有序/分相之间的耦合关系，从磁性-有序耦合角度解释这类合金\"为什么会这样分相\"。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "⑤分相/SRO/相稳定",
+   "短程有序",
+   "磁性耦合",
+   "中高熵合金",
+   "DFT"
+  ],
+  "authors": [
+   "Christopher D. Woodgate",
+   "Daniel Hedlund",
+   "L. H. Lewis",
+   "Julie B. Staunton"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
   "id": "https://openalex.org/W4366982686",
   "doi": "10.1002/advs.202300658",
   "url": "https://doi.org/10.1002/advs.202300658",
@@ -9796,6 +9868,41 @@
   "added_on": "2026-08-29"
  },
  {
+  "id": "https://doi.org/10.1080/21663831.2022.2144773",
+  "doi": "10.1080/21663831.2022.2144773",
+  "url": "https://doi.org/10.1080/21663831.2022.2144773",
+  "title_en": "Determinants of local chemical environments and magnetic moments of high-entropy alloys",
+  "title_zh": "高熵合金局域化学环境与磁矩的决定因素",
+  "journal": "Materials Research Letters",
+  "issn": "2166-3831",
+  "date": "2022-11-11",
+  "year": 2023,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "用第一性原理系统揭示高熵合金中每个原子的磁矩由其局域化学环境（近邻元素种类与配置）决定，为\"周围是谁决定磁矩大小\"提供 DFT 判据。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "①局域磁矩/Ms",
+   "局域化学环境",
+   "磁矩",
+   "高熵合金",
+   "DFT"
+  ],
+  "authors": [
+   "Bo Li",
+   "Wang Gao",
+   "Qing Jiang"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
   "id": "https://openalex.org/W4308883149",
   "doi": "10.1126/science.abq7739",
   "url": "https://doi.org/10.1126/science.abq7739",
@@ -9875,6 +9982,43 @@
   ],
   "new": false,
   "added_on": "2026-08-29"
+ },
+ {
+  "id": "https://doi.org/10.1016/j.commatsci.2022.111673",
+  "doi": "10.1016/j.commatsci.2022.111673",
+  "url": "https://doi.org/10.1016/j.commatsci.2022.111673",
+  "title_en": "Effect of alloying elements on the interface of fcc-Fe/Ni3Al by first principle calculations",
+  "title_zh": "合金元素对 fcc-Fe/Ni₃Al 界面影响的第一性原理计算",
+  "journal": "Computational Materials Science",
+  "issn": "0927-0256",
+  "date": "2022-11-01",
+  "year": 2022,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "用 DFT 计算合金元素在 fcc-Fe/Ni₃Al(L1₂) 界面处的偏聚与结合行为，是最接近本工作 BCC/L1₂ 界面磁性剖面的界面第一性原理算例。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "④跨界面磁性剖面",
+   "界面",
+   "fcc-Fe/Ni3Al",
+   "L1₂",
+   "DFT"
+  ],
+  "authors": [
+   "Xin Guo",
+   "Jitian Zhou",
+   "Xingxing Zhang",
+   "Ping Yang",
+   "Junqiang Ren"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
  },
  {
   "id": "https://openalex.org/W4307336637",
@@ -10163,5 +10307,265 @@
   ],
   "new": false,
   "added_on": "2026-08-29"
+ },
+ {
+  "id": "https://doi.org/10.1103/physrevmaterials.4.044402",
+  "doi": "10.1103/physrevmaterials.4.044402",
+  "url": "https://doi.org/10.1103/physrevmaterials.4.044402",
+  "title_en": "Interface-related magnetic and vibrational properties in Fe/MgO heterostructures from nuclear resonant spectroscopy and first-principles calculations",
+  "title_zh": "Fe/MgO 异质结中界面相关的磁性与振动性质：核共振谱与第一性原理计算",
+  "journal": "Physical Review Materials",
+  "issn": "2475-9953",
+  "date": "2020-04-06",
+  "year": 2020,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "结合核共振谱与 DFT 逐层解析 Fe/MgO 界面处的磁性剖面，示范\"界面逐层磁性质\"如何计算并与实验相互印证。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "④跨界面磁性剖面",
+   "界面磁性剖面",
+   "Fe/MgO",
+   "逐层磁矩",
+   "DFT"
+  ],
+  "authors": [
+   "Benedikt Eggert",
+   "Markus E. Gruner",
+   "Katharina Ollefs",
+   "Ellen Schuster",
+   "Nico Rothenbach"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1080/21663831.2019.1702116",
+  "doi": "10.1080/21663831.2019.1702116",
+  "url": "https://doi.org/10.1080/21663831.2019.1702116",
+  "title_en": "Anisotropic exchange in Nd–Fe–B permanent magnets",
+  "title_zh": "Nd–Fe–B 永磁体中的各向异性交换作用",
+  "journal": "Materials Research Letters",
+  "issn": "2166-3831",
+  "date": "2019-12-18",
+  "year": 2020,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "用 DFT 计算 Nd–Fe–B 的各向异性交换并喂入微磁学模型，是\"DFT 算交换 → 微磁学\"多尺度闭环的实例。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "⑥DFT→微磁学",
+   "各向异性交换",
+   "Nd-Fe-B",
+   "微磁学",
+   "DFT"
+  ],
+  "authors": [
+   "Qihua Gong",
+   "Min Yi",
+   "Richard F. L. Evans",
+   "Oliver Gutfleisch",
+   "Bai-Xiang Xu"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1016/j.actamat.2019.04.007",
+  "doi": "10.1016/j.actamat.2019.04.007",
+  "url": "https://doi.org/10.1016/j.actamat.2019.04.007",
+  "title_en": "Effects of phase composition and elemental partitioning on soft magnetic properties of AlFeCoCrMn high entropy alloys",
+  "title_zh": "相组成与元素分配对 AlFeCoCrMn 高熵合金软磁性能的影响",
+  "journal": "Acta Materialia",
+  "issn": "1359-6454",
+  "date": "2019-06-01",
+  "year": 2019,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "实验证明 AlFeCoCrMn 高熵合金的软磁性能由分相与元素分配控制，直接支撑\"Ms 靠磁性原子分到哪个相\"的分配效应。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "①局域磁矩/Ms",
+   "元素分配",
+   "软磁",
+   "分相",
+   "高熵合金"
+  ],
+  "authors": [
+   "Chanwon Jung",
+   "Ku Kang",
+   "Amalraj Marshal",
+   "Konda Gokuldoss Pradeep",
+   "Jae-Bok Seol",
+   "Se-Ho Kim",
+   "Baptiste Gault"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1016/j.scriptamat.2018.01.019",
+  "doi": "10.1016/j.scriptamat.2018.01.019",
+  "url": "https://doi.org/10.1016/j.scriptamat.2018.01.019",
+  "title_en": "Multiscale model approaches to the design of advanced permanent magnets",
+  "title_zh": "先进永磁体设计的多尺度模型方法",
+  "journal": "Scripta Materialia",
+  "issn": "1359-6462",
+  "date": "2018-04-01",
+  "year": 2018,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "综述从 DFT 内禀参数经微磁学到矫顽力的多尺度设计框架，是\"把 DFT 参数接进微磁学\"闭环的方法总纲。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "⑥DFT→微磁学",
+   "多尺度",
+   "微磁学",
+   "矫顽力",
+   "永磁"
+  ],
+  "authors": [
+   "S.C. Westmoreland",
+   "R.F.L. Evans",
+   "G. Hrkac",
+   "T. Schrefl",
+   "G.T. Zimanyi",
+   "O. Gutfleisch",
+   "R.W. Chantrell"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1063/1.2710181",
+  "doi": "10.1063/1.2710181",
+  "url": "https://doi.org/10.1063/1.2710181",
+  "title_en": "First-principles prediction of high Curie temperature for ferromagnetic bcc-Co and bcc-FeCo alloys and its relevance to tunneling magnetoresistance",
+  "title_zh": "铁磁 bcc-Co 与 bcc-FeCo 合金高居里温度的第一性原理预测及其对隧道磁电阻的意义",
+  "journal": "Applied Physics Letters",
+  "issn": "0003-6951",
+  "date": "2007-02-19",
+  "year": 2007,
+  "abstract_en": "The authors determine from first principles the Curie temperature TC for bulk Co in the hcp, fcc, bcc, and body-centered-tetragonal (bct) phases, for FeCo alloys, and for bcc and bct Fe. For bcc Co, TC=1420K is predicted. This would be the highest Curie temperature among the Co phases, suggesting that bcc-Co/MgO/bcc-Co tunnel junctions offer high magnetoresistance ratios even at room temperature. The Curie temperatures are calculated by mapping ab initio results to a Heisenberg model, which is solved by a Monte Carlo method.",
+  "abstract_zh": "作者用第一性原理确定了体相 Co（hcp、fcc、bcc、体心四方 bct 各相）、FeCo 合金以及 bcc、bct Fe 的居里温度 Tc。对 bcc-Co 预测 Tc=1420 K，是 Co 各相中最高的居里温度，意味着 bcc-Co/MgO/bcc-Co 隧道结即使在室温下也能提供高磁电阻比。居里温度通过将从头算结果映射到海森堡模型、再用蒙特卡洛方法求解得到。",
+  "summary_zh": "第一性原理预测 bcc-Co（Tc≈1420 K）与 bcc-FeCo 具有极高居里温度，正对应 BCC 片层同相体系的高温磁稳定性。",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "②交换劲度A/Tc",
+   "居里温度",
+   "bcc-FeCo",
+   "海森堡模型",
+   "DFT"
+  ],
+  "authors": [
+   "M. Ležaić",
+   "Ph. Mavropoulos",
+   "S. Blügel"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1103/physrevlett.93.027203",
+  "doi": "10.1103/physrevlett.93.027203",
+  "url": "https://doi.org/10.1103/physrevlett.93.027203",
+  "title_en": "Giant Magnetic Anisotropy in Tetragonal FeCo Alloys",
+  "title_zh": "四方 FeCo 合金中的巨磁各向异性",
+  "journal": "Physical Review Letters",
+  "issn": "0031-9007",
+  "date": "2004-07-09",
+  "year": 2004,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "用 DFT+自旋轨道耦合预测四方畸变 FeCo 合金具有巨大的磁晶各向异性能（MAE），是 FeCo 体系磁晶各向异性 K 计算的代表作。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "③磁晶各向异性K",
+   "磁晶各向异性",
+   "自旋轨道耦合",
+   "FeCo",
+   "DFT"
+  ],
+  "authors": [
+   "Till Burkert",
+   "Lars Nordström",
+   "Olle Eriksson",
+   "Olle Heinonen"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
+ },
+ {
+  "id": "https://doi.org/10.1103/physrevb.64.174402",
+  "doi": "10.1103/physrevb.64.174402",
+  "url": "https://doi.org/10.1103/physrevb.64.174402",
+  "title_en": "Ab initio calculations of exchange interactions, spin-wave stiffness constants, and Curie temperatures of Fe, Co, and Ni",
+  "title_zh": "Fe、Co、Ni 交换相互作用、自旋波劲度常数与居里温度的第一性原理计算",
+  "journal": "Physical Review B",
+  "issn": "0163-1829",
+  "date": "2001-10-01",
+  "year": 2001,
+  "abstract_en": "",
+  "abstract_zh": "",
+  "summary_zh": "从 DFT 交换积分 Jᵢⱼ 计算自旋波劲度（交换劲度 A）与居里温度 Tc 的经典范式，是交换劲度与 Tc 第一性原理计算的方法学源头。（无摘要）",
+  "subtopic": "矫顽力-饱和磁化强度独立专题",
+  "keywords": [
+   "②交换劲度A/Tc",
+   "交换积分",
+   "自旋波劲度",
+   "居里温度",
+   "DFT"
+  ],
+  "authors": [
+   "M. Pajda",
+   "J. Kudrnovský",
+   "I. Turek",
+   "V. Drchal",
+   "P. Bruno"
+  ],
+  "affiliations": [],
+  "backfill_missing": [
+   "affiliations"
+  ],
+  "backfill_pending": true,
+  "new": true,
+  "added_on": "2026-08-30",
+  "source": "curated-crossref"
  }
 ]
